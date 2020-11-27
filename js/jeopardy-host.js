@@ -1,5 +1,18 @@
+var player1 = 'Mark';
+var player2 = 'Kathryn';
+var player3 = 'Gabrielle';
+
 $(function(){
-    $('#game-load-modal').modal('show');
+
+$('.player-1-name').html( player1 );
+$('.player-2-name').html( player2 );
+$('.player-3-name').html( player3 );
+
+$('.player-1-wager').attr('placeholder', player1+' Wager');
+$('.player-2-wager').attr('placeholder', player2+' Wager');
+$('.player-3-wager').attr('placeholder', player3+' Wager');
+
+  $('#game-load-modal').modal('show');
     //openingTheme.play();
     $('#game-load-input-button').click(function(){
         var file = $('#input-file').prop('files')[0];
@@ -182,7 +195,7 @@ var score_player_2 = 0;
 var score_player_3 = 0;
 var control = 1;
 var rounds = ['jeopardy', 'double-jeopardy', 'final-jeopardy'];
-var playerTranslation = {1: 'Red', 2: 'Blue', 3: 'Green'}
+var playerTranslation = {1: player1, 2: player2, 3: player3}
 var currentBoard;
 var currentRound = 0;
 var isTimerActive = false;
@@ -437,3 +450,4 @@ function handleFinalAnswer(){
     });
 
 }
+

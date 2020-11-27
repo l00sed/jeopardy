@@ -117,6 +117,13 @@ body {
 	padding: 0;
 }
 
+#question-image img {
+  min-width: 300px;
+  min-height: 300px;
+  max-width: 600px;
+  max-width: 600px;
+}
+
 #question-modal {
 	width: 100vw;
 	height: 100vh;
