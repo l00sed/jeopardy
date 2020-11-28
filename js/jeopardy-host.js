@@ -1,6 +1,6 @@
-var player1 = 'Mark';
-var player2 = 'Kathryn';
-var player3 = 'Gabrielle';
+var player1 = 'Gabrielle & Michael';
+var player2 = 'Natalie & Aunt Lisa';
+var player3 = 'Kathryn & Mark';
 
 $(function(){
 
