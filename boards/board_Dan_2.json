@@ -1,0 +1,353 @@
+{
+    "jeopardy": [
+        {
+            "name": "DR. SEUSS CHARACTERS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'His name finishes the line, \"I do not like green eggs and ham. I do not like them...\"'",
+                    "answer": "Sam I Am"
+                },
+                {
+                    "value": 400,
+                    "question": "'\"If I can't find a reindeer, I'll make one instead\", said this character--so he called on his dog, Max'",
+                    "answer": "the Grinch"
+                },
+                {
+                    "value": 600,
+                    "question": "'This turtle was king of the pond at the island of Sala-ma-Sond'",
+                    "answer": "Yertle the Turtle"
+                },
+                {
+                    "value": 800,
+                    "question": "'In the jungle of Nool, he murmured, \"I've never heard tell of a small speck of dust that is able to yell\"'",
+                    "answer": "Horton"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This boy from feudal times got into trouble for failing to doff his hat'",
+                    "answer": "Bartholomew (Cubbins)"
+                }
+            ]
+        },
+        {
+            "name": "ALCOHOLICS EPONYMOUS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'New Orleans bartender Henry Ramos invented the Ramos Fizz, made with cream, egg whites, lime juice & this liquor'",
+                    "answer": "gin"
+                },
+                {
+                    "value": 400,
+                    "question": "'This Kilmarnock grocer founded his eponymous red, black & blue label Scotch whisky brand in 1820'",
+                    "answer": "Johnnie Walker"
+                },
+                {
+                    "value": 600,
+                    "question": "'The James who gave his nickname to this Kentucky bourbon brand was actually the founder's great-grandson'",
+                    "answer": "Jim Beam"
+                },
+                {
+                    "value": 800,
+                    "question": "'The real first name of the maker of this Tenn. whiskey was Jasper, but a \"Jasper & Coke\" just doesn't sound right'",
+                    "answer": "Jack Daniels"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This popular spiced rum is named for a buccaneer who terrorized the Caribbean & ended up a governor of Jamaica'",
+                    "answer": "Captain Morgan"
+                }
+            ]
+        },
+        {
+            "name": "BREAKFAST AT EPIPHANY'S",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Epiphany commemorates 3 events, including the visit of this group to Bethlehem'",
+                    "answer": "the Magi"
+                },
+                {
+                    "value": 400,
+                    "question": "'Epiphany also celebrates this ceremony performed for the baby Jesus'",
+                    "answer": "baptism"
+                },
+                {
+                    "value": 600,
+                    "question": "'Rounding out the 3 events celebrated on Epiphany is this ceremony where Jesus performed his first miracle'",
+                    "answer": "the wedding at Cana (turning water into wine accepted)"
+                },
+                {
+                    "value": 800,
+                    "question": "'In Catholicism, Epiphany is more important than Christmas, joining Pentecost & this most holy of days'",
+                    "answer": "Easter"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This Shakespeare play title refers to Epiphany Eve'",
+                    "answer": "Twelfth Night"
+                }
+            ]
+        },
+        {
+            "name": "CHRISTMAS PUDDING",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'In \"Christmas Vacation\", Chevy Chase makes his kids put up thousands of these'",
+                    "answer": "lights"
+                },
+                {
+                    "value": 400,
+                    "question": "'In the carol \"Deck The Halls\", it's what we don'",
+                    "answer": "our gay apparel"
+                },
+                {
+                    "value": 600,
+                    "question": "'In the Christmas Truce of 1914, soldiers sang, exchanged smokes  played an impromptu game of this'",
+                    "answer": "soccer"
+                },
+                {
+                    "value": 800,
+                    "question": "'As early as 1867 this NYC store with a red star symbol was open until midnight Christmas Eve'",
+                    "answer": "Macy\\'s"
+                },
+                {
+                    "value": 1000,
+                    "question": "'The Norse, who thought the sun was a ball of fire rolling around, started the tradition of this fireplace object'",
+                    "answer": "a yule log"
+                }
+            ]
+        },
+        {
+            "name": "CLASSIC FILM MONSTERS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'In 1982 this film's original Japanese version, \"Gojira\", was shown in America without Raymond Burr's scene'",
+                    "answer": "Godzilla"
+                },
+                {
+                    "value": 400,
+                    "question": "'Dr. Jack Griffin was the real name of this Claude Rains character; there's more to him than meets the eye'",
+                    "answer": "The Invisible Man"
+                }
+            ]
+        },
+        {
+            "name": "CLASSIC MOVIE ORIGINAL DIALOGUE?",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'\"No thanks, Mrs. Robinson.  I don't know what a 'cougar' is & I don't think I want to find out.  Is Elaine home?\"'",
+                    "answer": "The Graduate"
+                },
+                {
+                    "value": 400,
+                    "question": "'\"Oh, geez... George, it turns out Bedford Falls would be better off if you'd never been born.  Now...this is awkward\"'",
+                    "answer": "It\\'s a Wonderful Life"
+                },
+                {
+                    "value": 600,
+                    "question": "'\"No, no, no, I'm Antoninus! I'm not that guy!  You want him!  He's right there!  The one that looks like Kirk Douglas\"'",
+                    "answer": "Spartacus"
+                },
+                {
+                    "value": 800,
+                    "question": "'\"No.  Wilson woulda killed you, Terry.  You wouldn't have been a contender, just a bum, which is what you are.  Sorry.\"'",
+                    "answer": "On the Waterfront"
+                },
+                {
+                    "value": 1000,
+                    "question": "'\"Oh, Rosebud!  I thought you said something else.  That was his sled.  That all you need?  I'm kinda busy\"'",
+                    "answer": "Citizen Kane"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "HAPPY",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'First name of Mr. Philbin's wife'",
+                    "answer": "Joy"
+                },
+                {
+                    "value": 800,
+                    "question": "'Adjective describing Ken Kesey's pranksters'",
+                    "answer": "merry"
+                },
+                {
+                    "value": 1200,
+                    "question": "'It can follow \"wood\" or \"golf\", or precede MLB's Jones'",
+                    "answer": "Chipper"
+                },
+                {
+                    "value": 1600,
+                    "question": "'This Greek word for extreme happiness was once used by doctors for a patient who felt great even though ill'",
+                    "answer": "euphoria"
+                },
+                {
+                    "value": 2000,
+                    "question": "'If you're this type of \"spirit\", etymologically akin to \"bliss\", it can also mean you lack concern'",
+                    "answer": "blithe"
+                }
+            ]
+        },
+        {
+            "name": "THE SANDERS OF TIME",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'A Louisville museum is devoted to the success story of this man who was famous for his breasts, thighs & legs'",
+                    "answer": "Col. Sanders"
+                },
+                {
+                    "value": 800,
+                    "question": "'In an episode of this Garry Shandling series, the title star thinks David Duchovny is hitting on him'",
+                    "answer": "The Larry Sanders Show"
+                },
+                {
+                    "value": 1200,
+                    "question": "'This Heisman trophy winner played his college ball at Oklahoma State'",
+                    "answer": "Barry Sanders"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Olympic gold medal swimmer and TV personality seen <a href=\"http://www.j-archive.com/media/2011-07-28_DJ_15.jpg\" target=\"_blank\">here</a>'",
+                    "answer": "Summer Sanders",
+                    "daily-double": true
+                },
+                {
+                    "value": 2000,
+                    "question": "'On Dec. 10, 2010 he conducted a one-man, 9-hour filibuster on the Senate floor to protest a tax bill'",
+                    "answer": "Bernie Sanders"
+                }
+            ]
+        },
+        {
+            "name": "THERE IS A SANTA CLAUSE",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'St. Nick smoked a long pipe & wore a broad-brimmed hat in his 1809 \"Knickerbocker's History of New York\"'",
+                    "answer": "Washington Irving"
+                },
+                {
+                    "value": 800,
+                    "question": "'This 1934 song about the imminent arrival of an omniscient Santa was written by J. Fred Coots & Haven Gillespie'",
+                    "answer": "\"Santa Claus Is Coming To Town\""
+                },
+                {
+                    "value": 1200,
+                    "question": "'Not a horror movie slasher, the Weihnachtsmann visits this country bordered to the north by Denmark'",
+                    "answer": "Germany"
+                },
+                {
+                    "value": 1600,
+                    "question": "'The elf-like Jultomten in this country has kids breathless in anticipation from Malmo to Sveg'",
+                    "answer": "Sweden"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In the 1860s this cartoonist first drew Santa with the soft furry hat we know & love'",
+                    "answer": "(Thomas) Nast"
+                }
+            ]
+        },
+        {
+            "name": "THERE MIGHT BE BLOOD",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Yellow fever is primarily carried by the aedes aegypti species of this bloodsucker'",
+                    "answer": "the mosquito"
+                },
+                {
+                    "value": 800,
+                    "question": "'This nocturnal insect, cimex lectularius, often finds shelter in the seams, tufts & crevices of mattresses'",
+                    "answer": "a bedbug"
+                },
+                {
+                    "value": 1200,
+                    "question": "'There are more than 10,000 species of this bloodsucker but pulex irritans is the one used in most \"circuses\"'",
+                    "answer": "fleas"
+                },
+                {
+                    "value": 1600,
+                    "question": "'In 19th century France, this aquatic worm was raised on farms by the thousands for medicinal purposes'",
+                    "answer": "leeches"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Only the female of this \"equine\" pest of the family tabanidae feeds on blood; the male feeds on nectar'",
+                    "answer": "the horsefly"
+                }
+            ]
+        },
+        {
+            "name": "LITERARY OPENING LINES",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Jules Verne:<br />\"Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens\"'",
+                    "answer": "Around the World in Eighty Days",
+                    "daily-double": true
+                },
+                {
+                    "value": 800,
+                    "question": "'Lee:<br />\"When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow\"'",
+                    "answer": "To Kill A Mockingbird"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Bradbury:<br />\"It was a pleasure to burn\"'",
+                    "answer": "Fahrenheit 451"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Kafka: \"Someone must have slandered Josef K., for...without having done anything wrong, he was arrested\"'",
+                    "answer": "The Trial"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Rushdie:<br />\"'To be born again,' sang Gibreel Farishta tumbling from the heavens, 'First you have to die\"''",
+                    "answer": "The Satanic Verses"
+                }
+            ]
+        },
+        {
+            "name": "MEATY WORDS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'It precedes wagon, Bednarik or Yeager'",
+                    "answer": "chuck"
+                },
+                {
+                    "value": 800,
+                    "question": "'A theater stage completely surrounded by seats for the audience is \"in the\" this'",
+                    "answer": "round"
+                },
+                {
+                    "value": 1200,
+                    "question": "'A slang term for a type of car accident, or music's Mr. Burnett'",
+                    "answer": "T-bone"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Name given to the English Parliament during the civil war in the mid-1600s'",
+                    "answer": "rump"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "PLAGUES & PESTILENCE",
+        "question": "'Having first escaped from a South American research lab in 1957, they became a threat to the U.S. in 1990'",
+        "answer": "killer bees"
+    }
+}

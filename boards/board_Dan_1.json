@@ -1,0 +1,40 @@
+{
+  "jeopardy": [
+    {
+      "name": "HARRY ______ POTTER",
+      "questions": [
+        {
+          "question": "TOM ______ RIDDLE",
+          "value": "100",
+          "answer": "What is Marvolo?"
+        },
+        {
+          "question": "HERMIONE _______ GRANGER",
+          "value": "200",
+          "answer": "What is Jean?"
+        },
+        {
+          "question": "DRACO _______ MALFOY",
+          "value": "300",
+          "answer": "What is Lucius?"
+        },
+        {
+          "question": "DOLORES _______ UMBRIDGE",
+          "value": "400",
+          "answer": "What is Jane?"
+        },
+        {
+          "question": "ALBUS _______ DUMBLEDORE",
+          "value": "500",
+          "answer": "What is Percival Wulfric Brian?"
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [],
+  "final-jeopardy": {
+    "answer": "Who is some guy in Normandy But I just won $75,000!",
+    "category": "MILITARY MEN",
+    "question": "On June 6, 1944 he said, \"The eyes of the world are upon you\""
+  }
+}

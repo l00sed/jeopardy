@@ -1,0 +1,371 @@
+{
+    "jeopardy": [
+        {
+            "name": "ALSO A BAR DRINK",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Flathead or Phillips head'",
+                    "answer": "a screwdriver"
+                },
+                {
+                    "value": 400,
+                    "question": "'With so much brainpower on stage today, this \"Living Dead\" movie monster wouldn't know where to start'",
+                    "answer": "a zombie"
+                },
+                {
+                    "value": 600,
+                    "question": "'It was last call for this Scottish outlaw on Dec. 28, 1734'",
+                    "answer": "Rob Roy"
+                },
+                {
+                    "value": 800,
+                    "question": "'Take a flying leap & name this type of reconnaissance plane or insect of the family Acrididae'",
+                    "answer": "a grasshopper"
+                },
+                {
+                    "value": 1000,
+                    "question": "'G'day!  This wooden weapon can also be a scheme that does injury to its originator'",
+                    "answer": "a boomerang"
+                }
+            ]
+        },
+        {
+            "name": "ALSO A 3-LETTER TREE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'A type of Eucalyptus, or something kids chew'",
+                    "answer": "gum"
+                },
+                {
+                    "value": 400,
+                    "question": "'A member of the olive family, or the residue of something burned'",
+                    "answer": "ash"
+                },
+                {
+                    "value": 600,
+                    "question": "'A variety of California laurel, or a body of water forming an indentation of a shoreline'",
+                    "answer": "bay"
+                },
+                {
+                    "value": 800,
+                    "question": "'English is one variety of this tree that is also a nightmare-ridden movie street'",
+                    "answer": "elm"
+                },
+                {
+                    "value": 1000,
+                    "question": "'\"It had to be\" this evergreen tree that is a homonym for a second-person-singular pronoun'",
+                    "answer": "yew"
+                }
+            ]
+        },
+        {
+            "name": "FAN TOM",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'\"I have given up newspapers... for Tacitus and Thucydides... and I find myself much the happier\", said this U.S. pres.'",
+                    "answer": "Thomas Jefferson"
+                },
+                {
+                    "value": 400,
+                    "question": "'He had the \"Common Sense\" to idolize Ben Franklin, who encouraged his move to America in 1774'",
+                    "answer": "Tom Paine"
+                },
+                {
+                    "value": 600,
+                    "question": "'Since childhood, this author of \"I Am Charlotte Simmons\" has been a huge fan of a book called \"Honey Bear\"'",
+                    "answer": "(Tom) Wolfe"
+                },
+                {
+                    "value": 800,
+                    "question": "'This \"Jude the Obscure\" author admired Browning but was said to be too shy to meet him'",
+                    "answer": "Thomas Hardy"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This Scot's famous 1840s lectures on heroes & hero worship featured Odin & Rousseau'",
+                    "answer": "Carlyle"
+                }
+            ]
+        },
+        {
+            "name": "FAUX FRAGRANCES",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'So natural... so real... this salty, watery fluid secreted by sweat glands is finally here'",
+                    "answer": "Perspiration"
+                },
+                {
+                    "value": 400,
+                    "question": "'A hit in Amsterdam, it's the tribute perfume to Union general Joseph, English clergyman Richard & TV's T.J.'",
+                    "answer": "Hooker"
+                },
+                {
+                    "value": 600,
+                    "question": "'4 Horsemen Ltd. gave you War, Famine & Death... now, complete the line with this, a deadly epidemic disease'",
+                    "answer": "Pestilence"
+                },
+                {
+                    "value": 800,
+                    "question": "'From Latin for \"seasickness\", whether it's extreme disgust, or loathing, you'll always remember this as...'",
+                    "answer": "Nausea"
+                },
+                {
+                    "value": 1000,
+                    "question": "'A ratio for success--the geek get chic with \"Pi\", taken to 4 decimal places; it's Chanel number...'",
+                    "answer": "3.1416"
+                }
+            ]
+        },
+        {
+            "name": "ALL ABOUT AMSTERDAM",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'(Sarah of the Clue Crew)  In 1582, even before Amsterdam built its most famous canals, an Italian traveler called it this city \"of the North\"'",
+                    "answer": "Venice"
+                },
+                {
+                    "value": 400,
+                    "question": "'In summer, this seafood is sold at stands fresh & whole; at other times, it's eaten pickled'",
+                    "answer": "herring"
+                },
+                {
+                    "value": 600,
+                    "question": "'(Cheryl of the Clue Crew)  Altitude measurements throughout Europe are based on this, as established in Amsterdam'",
+                    "answer": "sea level"
+                },
+                {
+                    "value": 800,
+                    "question": "'One of Amsterdam's most famous buildings is the Oude Kerk, whose name means this'",
+                    "answer": "old church"
+                },
+                {
+                    "value": 1000,
+                    "question": "'(Cheryl of the Clue Crew)  Amsterdam's famous Skinny Bridge spans this river, for which Amsterdam was partly named'",
+                    "answer": "Amstel River"
+                }
+            ]
+        },
+        {
+            "name": "ALL HAIL",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Tiger Woods, George Patton, Shirley Temple Black'",
+                    "answer": "California"
+                },
+                {
+                    "value": 400,
+                    "question": "'Aaron Burr, Jack Nicholson, Frank Sinatra'",
+                    "answer": "New Jersey"
+                },
+                {
+                    "value": 600,
+                    "question": "'Edna St. Vincent Millay, Henry Wadsworth Longfellow, Margaret Chase Smith'",
+                    "answer": "Maine"
+                },
+                {
+                    "value": 800,
+                    "question": "'Wynton Marsalis, Cokie Roberts, Truman Capote'",
+                    "answer": "Louisiana"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Hoagy Carmichael,<br />Michael Jackson,<br />Cole Porter'",
+                    "answer": "Indiana"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "STATES' LONGEST RIVERS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Des Moines River'",
+                    "answer": "Iowa"
+                },
+                {
+                    "value": 800,
+                    "question": "'Wabash River'",
+                    "answer": "Indiana"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Susquehanna River'",
+                    "answer": "Pennsylvania"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Chattahoochee River'",
+                    "answer": "Georgia"
+                },
+                {
+                    "value": 2000,
+                    "question": "'James River'",
+                    "answer": "Virginia"
+                }
+            ]
+        },
+        {
+            "name": "FEBRUARY IN HISTORY",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In February 1815 he was able to escape his 10-month exile on a small island'",
+                    "answer": "Napoleon Bonaparte"
+                },
+                {
+                    "value": 800,
+                    "question": "'\"Gantry\", a musical based on a novel by this man, opened February 14, 1970 & closed February 14, 1970'",
+                    "answer": "Sinclair Lewis"
+                },
+                {
+                    "value": 1200,
+                    "question": "'The U.S. ICBM with this \"timely\" nickname had its first successful launch February 1, 1961'",
+                    "answer": "the Minuteman"
+                },
+                {
+                    "value": 1600,
+                    "question": "'The sixth king of this name died on February 6, 1952 at Sandringham'",
+                    "answer": "George VI"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In February 2005 he was confirmed as the USA's first Hispanic attorney general'",
+                    "answer": "(Alberto) Gonzales"
+                }
+            ]
+        },
+        {
+            "name": "FAUX",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'It can mean to shape by heating, as a blacksmith does, or to imitate someone's handwriting'",
+                    "answer": "forge"
+                },
+                {
+                    "value": 800,
+                    "question": "'Nickname of Sam, leader of The Pharaohs, who sang \"Wolly Bully\"'",
+                    "answer": "\"The Sham\""
+                },
+                {
+                    "value": 1200,
+                    "question": "'This 11-letter word for a fake comes from the Latin for \"against fact\"'",
+                    "answer": "counterfeit"
+                },
+                {
+                    "value": 1600,
+                    "question": "'\"Fiction\" & \"figment\" have the same roots as this verb that means to invent a story or excuse, like illness'",
+                    "answer": "feign"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Orlon is man-made, not natural, & is called this type of fiber'",
+                    "answer": "synthetic"
+                }
+            ]
+        },
+        {
+            "name": "SECRET IDENTITIES",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Superman'",
+                    "answer": "Clark Kent"
+                },
+                {
+                    "value": 800,
+                    "question": "'Batman'",
+                    "answer": "Bruce Wayne"
+                },
+                {
+                    "value": 1200,
+                    "question": "'The original Robin, the Boy Wonder'",
+                    "answer": "Dick Grayson"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Wonder Woman'",
+                    "answer": "Diana Prince"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Zorro'",
+                    "answer": "Don Diego de la Vega"
+                }
+            ]
+        },
+        {
+            "name": "TRUTH SEEKERS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'The founder of this religion is said to have set forth its doctrine of the \"Four Noble Truths\"'",
+                    "answer": "Buddhism"
+                },
+                {
+                    "value": 800,
+                    "question": "'This \"meaty\" 17th c. English thinker's \"Essays, Civil and Moral\" begins with his essay \"Of Truth\"'",
+                    "answer": "Francis Bacon"
+                },
+                {
+                    "value": 1200,
+                    "question": "'In his \"Genealogy of Morals\", this 19th c. German philosopher wrote that \"The will to truth requires a critique\"'",
+                    "answer": "(Friedrich) Nietzsche"
+                },
+                {
+                    "value": 1600,
+                    "question": "'In \"Summa Theologica\", he defined truth as \"the conformity of the intellect and thing\"'",
+                    "answer": "Thomas Aquinas"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In \"Philosophical Fragments\", this 19th c. Great Dane discussed the difference between objective & subjective truth'",
+                    "answer": "Kierkegaard"
+                }
+            ]
+        },
+        {
+            "name": "ALL HAT",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'The name of this broad-brimmed hat derives from the Spanish for \"shade\"'",
+                    "answer": "a sombrero"
+                },
+                {
+                    "value": 800,
+                    "question": "'A mark of prestige in Muslim countries, the brimless taj gets its name from the Persian for this royal headgear'",
+                    "answer": "a crown"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Called a derby in the U.S., this British hat is named for a manufacturer, not a kegler'",
+                    "answer": "a bowler"
+                },
+                {
+                    "value": 1600,
+                    "question": "'It's not kosher, but Buster Keaton, Popeye Doyle & Justin Timberlake have all sported these round, flat hats'",
+                    "answer": "porkpies"
+                },
+                {
+                    "value": 2000,
+                    "question": "'A type of top hat popular in the 19th century was named for this \"Iron Duke\"'",
+                    "answer": "(the Duke of) Wellington"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "ALL GOD'S CREATURES",
+        "question": "'Edison proposed a flying machine based on the flight of this creature, also the subject of a musical work'",
+        "answer": "bumblebee"
+    }
+}

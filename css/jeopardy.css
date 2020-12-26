@@ -1,3 +1,18 @@
+@font-face {
+	font-family: Helvetica;
+	src: url("Helvetica-Condensed-Black.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Korinna;
+	src: url("Korinna.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Swiss911;
+	src: url("Swiss911.ttf") format("truetype");
+}
+
 #player-1-score-div {
 	text-align: right;
 }
@@ -47,7 +62,7 @@
   padding: 5px;
   line-height: 1;
   text-shadow: 3px 3px 0 black;
-	font-family: Helvetica;
+	font-family: Korinna;
 	font-weight: bold;
 
 }
@@ -57,26 +72,24 @@
 	background-color: navy;
 	border: none;
 	margin-bottom: 10px;
-	padding: 3px;
-}
-
-@font-face {
-	font-family: Helvetica;
-	font-weight: black;
-	src: url("Helvetica-Condensed-Black.otf") format("opentype");
 }
 
 .question {
 	color: goldenrod;
-	font-size: 60px;
-	font-family: Helvetica;
+	font-size: 84px;
+  line-height: 84px;
+  cursor: pointer;
+	font-family: Swiss911, sans-serif;
+  padding: 3px 0 0 0;
   text-shadow: 3px 3px 0 black;
 }
 .question:first-letter {
-  font-size: 50px;
-  vertical-align: middle;
+  font-size: 64px;
+  vertical-align: 5px;
 }
-
+.question:hover {
+  outline:3px solid goldenrod;
+}
 .modal-content {
 	background-color: navy;
 	color: white;
@@ -103,8 +116,9 @@ h4 {
 
 .question-text {
   text-transform: uppercase;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Korinna, serif;
 	font-size: 300%;
+  line-height: 100%;
 	text-align: center;
 	color: white;
 }
