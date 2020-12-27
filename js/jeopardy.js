@@ -1,16 +1,29 @@
-var player1 = 'McMiami';
-var player2 = 'Columpkins';
-var player3 = 'Pennlicks';
+function setCookie(name,value,days) {
+	var expires = "";
+	if (days) {
+			var date = new Date();
+			date.setTime(date.getTime() + (days*24*60*60*1000));
+			expires = "; expires=" + date.toUTCString();
+	}
+	document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {   
+    document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
 
 $(function(){
-
-$('.player-1-name').html( player1 );
-$('.player-2-name').html( player2 );
-$('.player-3-name').html( player3 );
-
-$('.player-1-wager').attr('placeholder', player1+' Wager');
-$('.player-2-wager').attr('placeholder', player2+' Wager');
-$('.player-3-wager').attr('placeholder', player3+' Wager');
 
   $('#game-load-modal').modal('show');
     chooseTheme = Math.random() < 0.5;
@@ -31,6 +44,29 @@ $('.player-3-wager').attr('placeholder', player3+' Wager');
                 var data = $.parseJSON(fileText);
                 jsonData = data;
                 currentBoard = jsonData[rounds[currentRound]];
+
+								var player1 = $('#player1-input').val();
+								var player2 = $('#player2-input').val();
+								var player3 = $('#player3-input').val();
+
+								setCookie('player1', player1);
+								setCookie('player2', player2);
+								setCookie('player3', player3);
+
+								player1 = getCookie('player1');
+								player2 = getCookie('player2');
+								player3 = getCookie('player3');
+
+								$('.player-1-name').html( player1 );
+								$('.player-2-name').html( player2 );
+								$('.player-3-name').html( player3 );
+
+								$('.player-1-wager').attr('placeholder', player1+' Wager');
+								$('.player-2-wager').attr('placeholder', player2+' Wager');
+								$('.player-3-wager').attr('placeholder', player3+' Wager');
+
+                playerTranslation = {1: player1, 2: player2, 3: player3}
+
                 $("#player-1-name").empty().text(playerTranslation[1]);
                 $("#player-2-name").empty().text(playerTranslation[2]);
                 $("#player-3-name").empty().text(playerTranslation[3]);
@@ -220,7 +256,7 @@ var score_player_2 = 0;
 var score_player_3 = 0;
 var control = 1;
 var rounds = ['jeopardy', 'double-jeopardy', 'final-jeopardy'];
-var playerTranslation = {1: player1, 2: player2, 3: player3}
+var playerTranslation;
 var currentBoard;
 var currentRound = 0;
 var isTimerActive = false;

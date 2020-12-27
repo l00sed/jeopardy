@@ -1,0 +1,371 @@
+{
+    "jeopardy": [
+        {
+            "name": "PREFIXES",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Medically speaking, hemo-, hema- & hemato- all mean this'",
+                    "answer": "blood"
+                },
+                {
+                    "value": 400,
+                    "question": "'Before -standard & -marine, it means below'",
+                    "answer": "sub-"
+                },
+                {
+                    "value": 600,
+                    "question": "'Before -biography or -graph, it means self'",
+                    "answer": "auto-"
+                },
+                {
+                    "value": 800,
+                    "question": "'It puts the fire before -technics & -mania'",
+                    "answer": "pyro-"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This prefix turns 1 byte of data into about a billion'",
+                    "answer": "giga-"
+                }
+            ]
+        },
+        {
+            "name": "PHRASES OF DEATH",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Completing 2 tasks with one action is \"killing 2\" of these \"with one stone\"'",
+                    "answer": "birds"
+                },
+                {
+                    "value": 400,
+                    "question": "'This agricultural plot of land is the last one you'll \"buy\"'",
+                    "answer": "(buying) the farm"
+                },
+                {
+                    "value": 600,
+                    "question": "'This longest-serving \"Tonight Show\" host used \"staying at Club Mud\" & \"time-sharing the oblong condo\"'",
+                    "answer": "Johnny Carson"
+                },
+                {
+                    "value": 800,
+                    "question": "'How dead?  \"Dead as\" one of these 8-letter carpentry items'",
+                    "answer": "a doornail"
+                },
+                {
+                    "value": 1000,
+                    "question": "'What are the dead doing?  \"Pushing up\" these, be they English or oxeye'",
+                    "answer": "daisies"
+                }
+            ]
+        },
+        {
+            "name": "PIZZA TOPPINGS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'This type of hard sausage is America's favorite pizza topping'",
+                    "answer": "pepperoni"
+                },
+                {
+                    "value": 400,
+                    "question": "'How about a nice traditional Hawaiian pizza topped with ham or Canadian bacon & this fruit'",
+                    "answer": "pineapple"
+                },
+                {
+                    "value": 600,
+                    "question": "'These on your pizza may be fire-roasted, sun-dried, or just fresh sliced Romas'",
+                    "answer": "tomatoes"
+                },
+                {
+                    "value": 800,
+                    "question": "'On November 12 celebrate National Pizza with the Works Except these fish Day'",
+                    "answer": "Anchovies"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Wild ones of these found on pizza include shiitakes, morels & chanterelles'",
+                    "answer": "mushrooms"
+                }
+            ]
+        },
+        {
+            "name": "PITS BURG",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Head to this state's peach festival in For Valley if you want to help make the world's largest peach cobbler'",
+                    "answer": "Georgia"
+                },
+                {
+                    "value": 400,
+                    "question": "'Any pilgrimage to find the best olives will lead you through Kalamata in this country'",
+                    "answer": "Greece"
+                },
+                {
+                    "value": 600,
+                    "question": "'This country's Murcia & Valencia regions produce many of the world's apricots'",
+                    "answer": "Spain"
+                },
+                {
+                    "value": 800,
+                    "question": "'76 years old, the original Hass avocado tree died in 2002 in La Habra Heights in this state'",
+                    "answer": "California"
+                },
+                {
+                    "value": 1000,
+                    "question": "'In 1852 cherries were planted on Old Mission Peninsula in this Midwest state; it now grows 75% of the tart type'",
+                    "answer": "Michigan"
+                }
+            ]
+        },
+        {
+            "name": "PRAWNOGRAPHY",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'The word \"prawn\" is used loosely for a large one of these shellfish'",
+                    "answer": "a shrimp"
+                },
+                {
+                    "value": 400,
+                    "question": "'The Muppet known as Pepe the Prawn did commercials for a restaurant chain named for this \"Long\" character'",
+                    "answer": "Long John Silver"
+                },
+                {
+                    "value": 600,
+                    "question": "'Like many insects, prawns also feature pairs of these long, thin sensory organs on their heads'",
+                    "answer": "antennae"
+                },
+                {
+                    "value": 800,
+                    "question": "'Prawns go through as many as 11 different metamorphoses during this stage of immaturity'",
+                    "answer": "the larval stage"
+                },
+                {
+                    "value": 1000,
+                    "question": "'From the Latin for \"having a shell\", it's the subphylum to which all prawns belong'",
+                    "answer": "crustacean"
+                }
+            ]
+        },
+        {
+            "name": "ADJECTIVES",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Adjective in the name of stuffed dolls Ann & Andy'",
+                    "answer": "raggedy"
+                },
+                {
+                    "value": 400,
+                    "question": "'Ottoman Emperor Selim I is known by this adjective, like a certain \"reaper\"'",
+                    "answer": "grim"
+                },
+                {
+                    "value": 600,
+                    "question": "'It describes notched, sawlike teeth, as on the blade of a bread knife'",
+                    "answer": "serrated"
+                },
+                {
+                    "value": 800,
+                    "question": "'Belonging to the place where one was born, like the \"son\" in a Richard Wright title'",
+                    "answer": "native"
+                },
+                {
+                    "value": 1000,
+                    "question": "'From Latin for \"devour\", it precedes \"readers\" to describe those with an insatiable appetite for books'",
+                    "answer": "voracious"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "ADD A LETTER",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Add a \"G\" to make a prominent member of the wedding into a prominent transportation structure'",
+                    "answer": "bride & bridge"
+                },
+                {
+                    "value": 800,
+                    "question": "'An \"E\" transforms your puppy into the chief magistrate in the former Republic of Genoa'",
+                    "answer": "dog & doge"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Without an \"S\", it's royal rule; with an \"S\", it means to quit'",
+                    "answer": "reign & resign"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Luminous brightness degenerates into loud, empty protests when \"B\" gets in front'",
+                    "answer": "luster & bluster"
+                },
+                {
+                    "value": 2000,
+                    "question": "'On adding an \"R\", a word meaning \"stop\" starts meaning a ridge made by folding'",
+                    "answer": "cease & crease"
+                }
+            ]
+        },
+        {
+            "name": "T\"EEN\"",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'A small cafeteria on a military base, or a water flask carried by a soldier on a hike'",
+                    "answer": "canteen"
+                },
+                {
+                    "value": 800,
+                    "question": "'From the Middle English for \"beautiful\", it's the last name of \"presidential\" actor Martin'",
+                    "answer": "Sheen"
+                },
+                {
+                    "value": 1200,
+                    "question": "'This spongy organ filters foreign substances & damaged cells from the blood'",
+                    "answer": "spleen"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Top selling Lifesavers rolls are Five Flavors, then this, then Pep-O-Mint & Butter Rum'",
+                    "answer": "Wint-O-Green"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Pop artist Andy Warhol created many of his pictures by using this stencil process'",
+                    "answer": "silkscreen"
+                }
+            ]
+        },
+        {
+            "name": "TENTS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'A pair of Boy Scouts might use this small \"canine\" variety of tent'",
+                    "answer": "Pup tent"
+                },
+                {
+                    "value": 800,
+                    "question": "'2-word term for the largest & main tent of a circus'",
+                    "answer": "Big top"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Reportedly using canvas intended for miners' tents, he began a jeans empire in the late 1800s'",
+                    "answer": "Levi Strauss"
+                },
+                {
+                    "value": 1600,
+                    "question": "'When Achilles was sulking in his tent, it was during this war'",
+                    "answer": "Trojan War"
+                },
+                {
+                    "value": 2000,
+                    "question": "'This Persian poet's last name means \"tentmaker\"'",
+                    "answer": "Omar Khayyam"
+                }
+            ]
+        },
+        {
+            "name": "THAT'S ILLINOIS-ING",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Abe Lincoln lived in this city in the 1840s & '50s; his home still stands at Eighth & Jackson'",
+                    "answer": "Springfield"
+                },
+                {
+                    "value": 800,
+                    "question": "'\"Will it play in\" this city, headquarters of the earthmoving Caterpillar, Inc.'",
+                    "answer": "Peoria"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Illinois' southernmost city, it shares its name with Africa's largest city (pronounced differently)'",
+                    "answer": "Cairo"
+                },
+                {
+                    "value": 1600,
+                    "question": "'2 state penitentiaries are in or near this northeastern Illinois city, the seat of Will County'",
+                    "answer": "Joliet"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Here's \"de\" story; barbed wire was first perfected & manufactured in this city'",
+                    "answer": "DeKalb"
+                }
+            ]
+        },
+        {
+            "name": "THAT'S \"ODD\"",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'People considered as readily available & of little value; it usually follows \"cannon\"'",
+                    "answer": "fodder"
+                },
+                {
+                    "value": 800,
+                    "question": "'A Bond villain knows it means to work at a series of unrelated, low-paying positions'",
+                    "answer": "odd job"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Proceeded in a tediously slow manner, or walked heavily'",
+                    "answer": "plodded"
+                },
+                {
+                    "value": 1600,
+                    "question": "'It means soaked with liquid or moisture; saturated'",
+                    "answer": "sodden"
+                },
+                {
+                    "value": 2000,
+                    "question": "'It's a past particple of \"tread\"'",
+                    "answer": "trodden"
+                }
+            ]
+        },
+        {
+            "name": "ENDS WITH A BODY PART",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Someone who moves props or lighting for a theatrical production'",
+                    "answer": "a stagehand"
+                },
+                {
+                    "value": 800,
+                    "question": "'To identify an illness via medical exam'",
+                    "answer": "diagnose"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly'",
+                    "answer": "bootleg"
+                },
+                {
+                    "value": 1600,
+                    "question": "'A spiky sea critter, or a mischievous boy'",
+                    "answer": "an urchin"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Most opulent'",
+                    "answer": "richest"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "AMERICAN WOMEN",
+        "question": "'Geraldine Doyle, who in 1942 took a job at a Michigan metal factory, helped inspire the look & job of this iconic character'",
+        "answer": "Rosie the Riveter"
+    }
+}

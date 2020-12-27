@@ -1,0 +1,384 @@
+{
+    "jeopardy": [
+        {
+            "name": "A CHRISTMAS CAROL",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'\"Round yon virgin mother and child, holy infant so tender and mild\"'",
+                    "answer": "\"Silent Night\""
+                },
+                {
+                    "value": 400,
+                    "question": "'\"Fa la la la la la la la la\"'",
+                    "answer": "\"Deck the Halls\""
+                },
+                {
+                    "value": 600,
+                    "question": "'\"A partridge in a pear tree\"'",
+                    "answer": "\"The Twelve Days of Christmas\""
+                },
+                {
+                    "value": 800,
+                    "question": "'\"Good tidings we bring to you and your kin, we wish you good tidings for Christmas and a Happy New Year\"'",
+                    "answer": "\"We Wish You A Merry Christmas\""
+                },
+                {
+                    "value": 1000,
+                    "question": "'\"And heav'n and nature sing, and heav'n and nature sing, and heav'n and heav'n and nature sing\"'",
+                    "answer": "\"Joy to the World\""
+                }
+            ]
+        },
+        {
+            "name": "BETHLEHEM",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Bethlehem, Pennsylvania was named for the biblical Bethlehem, which is Hebrew for \"house of\" this food staple'",
+                    "answer": "bread"
+                },
+                {
+                    "value": 400,
+                    "question": "'A huge electrical many-pointed one of these sits atop nearby South Mountain, perhaps to guide visitors to the town'",
+                    "answer": "a star"
+                },
+                {
+                    "value": 600,
+                    "question": "'For a dozen years, Bethlehem's Lehigh University has been home to this NFL team's summer training camp'",
+                    "answer": "the (Philadelphia) Eagles"
+                },
+                {
+                    "value": 800,
+                    "question": "'An annual festival honoring this 18th century German composer is highlighted by a performance of his B-minor Mass'",
+                    "answer": "Johann Sebastian Bach"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This Penn. corp. built more WWI destroyers at its Quincy, Mass. yard than were built at all other U.S. yards combined'",
+                    "answer": "Bethlehem Steel"
+                }
+            ]
+        },
+        {
+            "name": "GIFTS FOR EVERYONE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'The last Medici gave this city the family's art collection \"to attract the curiosity of foreigners\"'",
+                    "answer": "Florence"
+                },
+                {
+                    "value": 400,
+                    "question": "'Proposed by historian Edouard de Laboulaye, it was presented to the U.S. for its centennial'",
+                    "answer": "the Statue of Liberty"
+                },
+                {
+                    "value": 600,
+                    "question": "'The Mass. Bay Colony named this college for a man who gifted half his 1,600-pound estate & 400 books'",
+                    "answer": "Harvard"
+                },
+                {
+                    "value": 800,
+                    "image":"images/hyde.jpg",
+                    "question": "George Marshall gave FDR this globe to trace troop movements; he also gave an identical one to this man'",
+                    "answer": "Churchill"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Born in Hungary, he's used his success with the Quantum Fund to finance programs in democracy & public health'",
+                    "answer": "(George) Soros"
+                }
+            ]
+        },
+        {
+            "name": "GIVING \"THANK\"S",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'From \"The Big Broadcast of 1938\", it's Bob Hope's theme song'",
+                    "answer": "\"Thanks for the Memories\""
+                },
+                {
+                    "value": 400,
+                    "question": "'Maurice Chevalier crooned this delightful ditty in the film \"Gigi\"'",
+                    "answer": "\"Thank Heaven for Little Girls\""
+                },
+                {
+                    "value": 600,
+                    "question": "'On Martin Luther King, Jr.'s gravestone these 3 words follow \"Free at Last, Free at Last...\"'",
+                    "answer": "\"Thank God Almighty\""
+                },
+                {
+                    "value": 800,
+                    "question": "'From April 1975, it was John Denver's third No. 1 hit'",
+                    "answer": "\"Thank God I\\'m A Country Boy\""
+                },
+                {
+                    "value": 1000,
+                    "question": "'This disco-rific film from 1978 starred Jeff Goldblum & Donna Summer'",
+                    "answer": "Thank God It\\'s Friday"
+                }
+            ]
+        },
+        {
+            "name": "HAPPY HANUKKAH!",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Hanukkah celebrates the miracle of a small vial of oil that lit up the temple for this many days'",
+                    "answer": "8"
+                },
+                {
+                    "value": 400,
+                    "question": "'During Hanukkah it's customary to serve doughnuts & these potato pancakes'",
+                    "answer": "Latkes"
+                },
+                {
+                    "value": 600,
+                    "question": "'Young & old like to gather their coins & take a \"spin\" at this'",
+                    "answer": "Dreidel"
+                },
+                {
+                    "value": 800,
+                    "question": "'Hanukkah is also called \"The Feast of\" this family of patriots who were led by Judah'",
+                    "answer": "Maccabees"
+                },
+                {
+                    "value": 1000,
+                    "question": "'The first Hanukkah was sort of a belated celebration of this harvest festival that uses little huts'",
+                    "answer": "Sukkot"
+                }
+            ]
+        },
+        {
+            "name": "HOME FOR THE HOLIDAYS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'We had our Xmas tree seller take an inch off the base of the trunk; the fresh cut will aid in the absorption of this'",
+                    "answer": "water"
+                },
+                {
+                    "value": 400,
+                    "image":"images/icicles.jpg",
+                    "question": "The lights hanging off the roof here are meant to resemble these things that can form in cold weather'",
+                    "answer": "icicles"
+                },
+                {
+                    "value": 600,
+                    "question": "'I can always count on Aunt Nancy sending me cashmere, which comes from the hair of this animal'",
+                    "answer": "a goat"
+                },
+                {
+                    "value": 800,
+                    "question": "'Eggnog wouldn't be eggnog without this spice from the myristica fragrans tree'",
+                    "answer": "nutmeg",
+                    "daily-double": true
+                },
+                {
+                    "value": 1000,
+                    "question": "'We always dim the lights & light these candles whose name means \"symbolizing a vow or wish\"'",
+                    "answer": "votive"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "YULE TUBE",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Yule have a green (ogre) Christmas in the land of Far Far Away:<br />\"____ the Halls\"'",
+                    "answer": "Shrek"
+                },
+                {
+                    "value": 800,
+                    "question": "'Santa & company crash on an island & meet the island's penguins:<br />\"Merry ____\"'",
+                    "answer": "Madagascar"
+                },
+                {
+                    "value": 1200,
+                    "question": "'A dog mishears a Christmas lyric:<br />\"____, the Other Reindeer\"'",
+                    "answer": "Olive"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Featuring a Charlie-in-the-Box:<br />\"Rudolph the Red-nosed Reindeer & the Island of Misfit ____\"'",
+                    "answer": "Toys"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Featuring warm weather & fireworks:<br />\"Rudolph & Frosty's Christmas in ____\"'",
+                    "answer": "July"
+                }
+            ]
+        },
+        {
+            "name": "LET'S CELEBRATE!",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In March 2004, for the 243rd time, New York City held this holiday parade'",
+                    "answer": "the St. Patrick\\'s Day Parade"
+                },
+                {
+                    "value": 800,
+                    "question": "'Each April the World Cow Chip Throwing Contest is held in Beaver City in this \"Sooner\" state'",
+                    "answer": "Oklahoma"
+                },
+                {
+                    "value": 1200,
+                    "question": "'This kennel club's annual dog show at Madison Square Garden is one of the USA's longest continuously held sporting events'",
+                    "answer": "the Westminster (Kennel Club)",
+                    "daily-double": true
+                },
+                {
+                    "value": 1600,
+                    "question": "'On August 20 this country honors its first king with St. Stephen's Day'",
+                    "answer": "Hungary"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Each April Independence, Kansas holds a festival to honor this \"Picnic\" playwright who was born there'",
+                    "answer": "William Inge"
+                }
+            ]
+        },
+        {
+            "name": "LET'S GO TO SANTA",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'One of the 2 \"Santa\" campuses in the University of California system'",
+                    "answer": "Santa Barbara (or Santa Cruz)"
+                },
+                {
+                    "value": 800,
+                    "question": "'This state capital is a lovely place to visit, though not for Zebulon Pike, imprisoned there in 1807'",
+                    "answer": "Santa Fe"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Bounded by Point Dume & the Palos Verdes Peninsula it's the bay in TV's \"Baywatch\"'",
+                    "answer": "Santa Monica Bay"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Simon Bolivar was born in Venezuela & died in Santa Marta, in this country on Venezuela's west border'",
+                    "answer": "Colombia",
+                    "double-jeopardy":true
+                },
+                {
+                    "value": 2000,
+                    "question": "This song heard here celebrates the area of the same name on the Bay of Naples https://digitalchicagohistory.org/files/original/a34c5f544b8e1f27a5b0e8da2a68a296.mp3",
+                    "answer": "Santa Lucia"
+                }
+            ]
+        },
+        {
+            "name": "POLAR EXPLORATION",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Robert Peary was surprised to hear these natives accompanying him complain of cold noses'",
+                    "answer": "Eskimos"
+                },
+                {
+                    "value": 800,
+                    "question": "'Edward Bransfield, a possible discoverer of Antarctica, had to battle these birds to get ashore'",
+                    "answer": "Penguins"
+                },
+                {
+                    "value": 1200,
+                    "question": "'In 1969, on dogsled, a British team made the first surface crossing of this ocean'",
+                    "answer": "Arctic Ocean"
+                },
+                {
+                    "value": 1600,
+                    "question": "'This South Pole conqueror died trying to rescue Umberto Nobile, who eventually lived to be 93'",
+                    "answer": "Roald Amundsen"
+                },
+                {
+                    "value": 2000,
+                    "question": "'This man who sailed with Scott later made a daring trek when his ship Endurance was trapped by ice'",
+                    "answer": "Ernest Shackleton"
+                }
+            ]
+        },
+        {
+            "name": "POLAR OBSESSION",
+            "questions": [
+                {
+                    "value": 400,
+                    "image":"images/walrus.jpg",
+                    "question": "Walruses use ice as a safe place to rest & save energy; mom puts her pup on her back to protect against this species, Ursus maritimus, a major predator",
+                    "answer": "a polar bear"
+                },
+                {
+                    "value": 800,
+                    "image":"images/penguins2.jpg",
+                    "question": "Called oakum boys because their brown down looks like the frayed rope fiber used to caulk ships, king penguin chicks undergo this shedding process that gives them their waterproof feathers",
+                    "answer": "molting"
+                },
+                {
+                    "value": 1200,
+                    "image":"images/sealion.jpg",
+                    "question": "Known for its ferocity, the seal named for this big cat shows vast intelligence & is the only seal known to eat other species of seals'",
+                    "answer": "a leopard"
+                },
+                {
+                    "value": 1600,
+                    "image":"images/narwhal.jpg",
+                    "question": "It's easy to see why these mammals are called unicorns of the sea; that's not a horn, though--it's actually a grooved tooth",
+                    "answer": "a narwhal"
+                },
+                {
+                    "value": 2000,
+                    "image":"images/anemone.jpg",
+                    "question": "Cliff-nesting penguins, play an important part in Arctic ecology; their guano falls before the icy water's surface to provide nutrients to these flowery invertebrates",
+                    "answer": "sea anemones"
+                }
+            ]
+        },
+        {
+            "name": "YOU SLEIGH ME",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'J. Pierpont Morgan's uncle James Pierpont wrote this song originally titled \"The One Horse Open Sleigh\"'",
+                    "answer": "\"Jingle Bells\""
+                },
+                {
+                    "value": 800,
+                    "question": "'Original sled dogs include Siberian huskies & these Alaskan dogs named for an Inuit people'",
+                    "answer": "a Malamute"
+                },
+                {
+                    "value": 1200,
+                    "image": "images/sled.jpg",
+                    "question": "This name of this sled-like contraption is the French word for \"sled\"'",
+                    "answer": "luge"
+                },
+                {
+                    "value": 1600,
+                    "image":"images/horses.jpg",
+                    "question": "These lithographers often depicted sleigh rides in the country, as in the print seen here",
+                    "answer": "Currier & Ives"
+                },
+                {
+                    "value": 2000,
+                    "image":"images/bobsled.jpg",
+                    "question": "In some curves, bobsleds can reach speeds of 80-90 mph & 4 of these forces",
+                    "answer": "g-forces"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "8-LETTER WORDS",
+        "question": "'Differing by one letter, the 2 words that mean job & time away from the job'",
+        "answer": "vocation & vacation"
+    }
+}
