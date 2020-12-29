@@ -17,8 +17,8 @@ jeopardy_categories = ('PREFIXES', 'PHRASES OF DEATH', 'PIZZA TOPPINGS', 'PITS B
 jeopardy_show = ('5308', '6261', '4936', '4645', '4908', '5126')
 jeopardy_values = (200, 400, 600, 800, 1000)
 
-double_jeopardy_categories = ('ADD A LETTER', 'T"EEN"', 'TENTS', 'THAT\'S ILLINOIS-ING', 'THAT\'S "ODD"', 'ENDS WITH A BODY PART')
-double_jeopardy_show = ('4949', '3846', '3684', '4735', '5233', '6160')
+double_jeopardy_categories = ('ADD A LETTER', 'T"EEN"', 'TENTS', 'THAT SINKING FEELING', "THAT'S A LOAD OF GARBAGE", 'ENDS WITH A BODY PART')
+double_jeopardy_show = ('4949', '3846', '3684', '3512', '4228', '6160')
 double_jeopardy_values = (400, 800, 1200, 1600, 2000)
 
 final_jeopardy_category = 'AMERICAN WOMEN'

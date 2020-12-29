@@ -273,62 +273,62 @@
             ]
         },
         {
-            "name": "THAT'S ILLINOIS-ING",
+            "name": "THAT SINKING FEELING",
             "questions": [
                 {
                     "value": 400,
-                    "question": "'Abe Lincoln lived in this city in the 1840s & '50s; his home still stands at Eighth & Jackson'",
-                    "answer": "Springfield"
+                    "question": "'The sinking of this British liner in May 1915 indirectly influenced the U.S. to enter WWI'",
+                    "answer": "Lusitania"
                 },
                 {
                     "value": 800,
-                    "question": "'\"Will it play in\" this city, headquarters of the earthmoving Caterpillar, Inc.'",
-                    "answer": "Peoria"
+                    "question": "'One legend mentioned by Plato says that this island was swallowed by the sea as a result of earthquakes'",
+                    "answer": "Atlantis"
                 },
                 {
                     "value": 1200,
-                    "question": "'Illinois' southernmost city, it shares its name with Africa's largest city (pronounced differently)'",
-                    "answer": "Cairo"
+                    "question": "'A 1976 Gordon Lightfoot song told the true story of the sinking of this ore vessel in Lake Superior'",
+                    "answer": "Edmund Fitzgerald"
                 },
                 {
                     "value": 1600,
-                    "question": "'2 state penitentiaries are in or near this northeastern Illinois city, the seat of Will County'",
-                    "answer": "Joliet"
+                    "question": "'In 1997 \"Nova\" went under the sea to look at this ship, the Titanic's lost sister:'",
+                    "answer": "HMS Britannic"
                 },
                 {
                     "value": 2000,
-                    "question": "'Here's \"de\" story; barbed wire was first perfected & manufactured in this city'",
-                    "answer": "DeKalb"
+                    "question": "'A 1999 TV movie portrayed the torpedoing & sinking of the federal sloop Housatonic by this Confederate sub'",
+                    "answer": "Hunley"
                 }
             ]
         },
         {
-            "name": "THAT'S \"ODD\"",
+            "name": "THAT'S A LOAD OF GARBAGE",
             "questions": [
                 {
                     "value": 400,
-                    "question": "'People considered as readily available & of little value; it usually follows \"cannon\"'",
-                    "answer": "fodder"
+                    "question": "'On this TV show, a Muppet named Oscar the Grouch lives in a garbage can'",
+                    "answer": "Sesame Street"
                 },
                 {
                     "value": 800,
-                    "question": "'A Bond villain knows it means to work at a series of unrelated, low-paying positions'",
-                    "answer": "odd job"
+                    "question": "'The 2 words that complete the modern saying \"garbage in...\"'",
+                    "answer": "\"garbage out\""
                 },
                 {
                     "value": 1200,
-                    "question": "'Proceeded in a tediously slow manner, or walked heavily'",
-                    "answer": "plodded"
+                    "question": "'The first known law against throwing your garbage in the street was issued around 500 B.C. in this Greek city'",
+                    "answer": "Athens"
                 },
                 {
                     "value": 1600,
-                    "question": "'It means soaked with liquid or moisture; saturated'",
-                    "answer": "sodden"
+                    "question": "'The EPA reports that this country has 6% of the world's people & produces 50% of the world's garbage'",
+                    "answer": "the United States of America (U.S.A.)"
                 },
                 {
                     "value": 2000,
-                    "question": "'It's a past particple of \"tread\"'",
-                    "answer": "trodden"
+                    "question": "'The \"3 R's\" of garbage management are reduce, reuse & this environmentally friendly word'",
+                    "answer": "recycle"
                 }
             ]
         },
