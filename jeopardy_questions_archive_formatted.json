@@ -21,7 +21,8 @@
                 {
                     "value": 800,
                     "question": "'It puts the fire before -technics & -mania'",
-                    "answer": "pyro-"
+                    "answer": "pyro-",
+                    "daily-double": "true"
                 },
                 {
                     "value": 1000,
@@ -268,7 +269,8 @@
                 {
                     "value": 2000,
                     "question": "'This Persian poet's last name means \"tentmaker\"'",
-                    "answer": "Omar Khayyam"
+                    "answer": "Omar Khayyam",
+                    "daily-double": "true"
                 }
             ]
         },
@@ -348,7 +350,8 @@
                 {
                     "value": 1200,
                     "question": "'Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly'",
-                    "answer": "bootleg"
+                    "answer": "bootleg",
+                    "daily-double": "true"
                 },
                 {
                     "value": 1600,
