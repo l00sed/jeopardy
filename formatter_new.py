@@ -23,16 +23,16 @@ options.remove(daily_double2)
 daily_double3 = random.choice(options)
 options.remove(daily_double3)
 
-jeopardy_categories = ('PREFIXES', 'PHRASES OF DEATH', 'PIZZA TOPPINGS', 'PITS BURG', 'PRAWNOGRAPHY', 'ADJECTIVES')
-jeopardy_show = ('5308', '6261', '4936', '4645', '4908', '5126')
+jeopardy_categories = ('HAPPY NEW YEAR', 'FUN WITH STATE NAMES', 'ROME, THE ETERNAL CITY', 'CAMPING', 'LEAD')
+jeopardy_show = ('5136', '6167', '5663', '4553', '5488')
 jeopardy_values = (200, 400, 600, 800, 1000)
 
-double_jeopardy_categories = ('ADD A LETTER', 'T"EEN"', 'TENTS', 'THAT SINKING FEELING', "THAT'S A LOAD OF GARBAGE", 'ENDS WITH A BODY PART')
-double_jeopardy_show = ('4949', '3846', '3684', '3512', '4228', '6160')
+double_jeopardy_categories = ('HAPPY NEW YEAR', 'ADD A LETTER', 'ITALIAN CITIES', 'IVY LEAGUERS', 'CHRISTMAS MOVIES')
+double_jeopardy_show = ('5599', '4157', '3145', '4531', '5361')
 double_jeopardy_values = (400, 800, 1200, 1600, 2000)
 
-final_jeopardy_category = 'AMERICAN WOMEN'
-final_jeopardy_show = '6253'
+final_jeopardy_category = ''
+final_jeopardy_show = ''
 formatted_data = { "jeopardy": [], "double-jeopardy": [], "final-jeopardy": {} }
 
 for round in rounds:

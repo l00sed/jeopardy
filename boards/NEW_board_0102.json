@@ -1,0 +1,374 @@
+{
+    "jeopardy": [
+        {
+            "name": "PIGEONS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'4-letter alternate name for a small pigeon'",
+                    "answer": "dove"
+                },
+                {
+                    "value": 400,
+                    "question": "'Rock pigeons were domesticated in this kingdom around 3000 B.C.'",
+                    "answer": "Egypt"
+                },
+                {
+                    "value": 600,
+                    "question": "'The Palmetto pigeon plant in Sumter, S.C. is the USA's largest farm for these young pigeons'",
+                    "answer": "squabs"
+                },
+                {
+                    "value": 800,
+                    "question": "'Homing pigeons used to send messages are called these'",
+                    "answer": "carrier pigeons"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This type of once-abundant pigeon was hunted to extinction in the U.S. in the early 1900s'",
+                    "answer": "the passenger pigeon"
+                }
+            ]
+        },
+        {
+            "name": "PORTMANTEAU WORDS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'This 9-letter word for a procession of cars is often used to refer to that of the U.S. president'",
+                    "answer": "a motorcade"
+                },
+                {
+                    "value": 400,
+                    "question": "'It's the trademark name for the device used by police to measure a driver's alcohol intake'",
+                    "answer": "a Breathalyzer"
+                },
+                {
+                    "value": 600,
+                    "question": "'It's the code of online social behavior'",
+                    "answer": "netiquette"
+                },
+                {
+                    "value": 800,
+                    "question": "'It's the smallest element of an image on a computer monitor'",
+                    "answer": "a pixel"
+                },
+                {
+                    "value": 1000,
+                    "question": "'This word refers to the visible path in the wake of an aircraft'",
+                    "answer": "a contrail"
+                }
+            ]
+        },
+        {
+            "name": "YOUR WEAPON OF CHOICE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'In September of 2009 a would-be burglar met up fatally with a resident wielding this Japanese warriors' sword'",
+                    "answer": "a samurai sword"
+                },
+                {
+                    "value": 400,
+                    "question": "'Named for the French town of its origins, this steel weapon is attached to a gun's muzzle for hand-to-hand combat'",
+                    "answer": "a bayonet"
+                },
+                {
+                    "value": 600,
+                    "question": "'The M26 Pershing & the M4 Sherman are types of this war vehicle'",
+                    "answer": "a tank"
+                },
+                {
+                    "value": 800,
+                    "question": "'Remember, the knife seen <a href=\"http://www.j-archive.com/media/2010-03-02_J_28.jpg\" target=\"_blank\">here</a> was named for this Alamo man'",
+                    "answer": "(James) Bowie"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Is this a 6-letter short, swordlike weapon with a pointed blade, used for stabbing, which \"I see before me?\"  Yep!'",
+                    "answer": "dagger"
+                }
+            ]
+        },
+        {
+            "name": "FUN WITH FLOWERS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Also called a yellow daisy, this \"black-eyed\" flower bears a woman's name'",
+                    "answer": "a Black-Eyed Susan"
+                },
+                {
+                    "value": 400,
+                    "question": "'Ikebana is a traditional art of arranging flowers in this country'",
+                    "answer": "Japan"
+                },
+                {
+                    "value": 600,
+                    "question": "'(<a href=\"http://www.j-archive.com/media/2002-03-11_J_17.jpg\" target=\"_blank\">Sofia of the Clue Crew sits in a yoga position at a gym.</a>)  The yoga position I'm in shares its name with this water lily that was sacred to the ancient Egyptians'",
+                    "answer": "a lotus"
+                },
+                {
+                    "value": 800,
+                    "question": "'Each year, Holland, Michigan holds a festival honoring this flower'",
+                    "answer": "the tulip",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Sharing its name with an eye part, this flower's name is from the Greek for \"rainbow\"'",
+                    "answer": "iris"
+                }
+            ]
+        },
+        {
+            "name": "FUHGETTABOUDIT",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Want to marry this ex-wife of Burton, Todd, Hilton & Fisher?  Fuhgettaboudit!  She says she's staying single'",
+                    "answer": "Elizabeth Taylor"
+                },
+                {
+                    "value": 400,
+                    "question": "'Trying to locate this country just to the east of the old Berlin Wall on a map?  Fuhgettaboudit!  It's gone'",
+                    "answer": "East Germany"
+                },
+                {
+                    "value": 600,
+                    "question": "'Hoping to get on the Olympic team for this event where 2 sides pull on a rope?  Fuhgettaboudit!  Last held in 1920'",
+                    "answer": "the tug-of-war"
+                },
+                {
+                    "value": 800,
+                    "question": "'Want to join this religion so you can have more than one spouse?  Fuhgettaboudit!  Canceled the practice in 1890'",
+                    "answer": "Mormon"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Hungry for food using this flavor enhancer abbreviated MSG?  Fuhgettaboudit!  Many places have stopped using it'",
+                    "answer": "monosodium glutamate"
+                }
+            ]
+        },
+        {
+            "name": "YOU'RE \"GOLDEN\", BABY",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'The USA's tallest bridge towers are the 746-foot steel peaks of this structure'",
+                    "answer": "the Golden Gate Bridge"
+                },
+                {
+                    "value": 400,
+                    "question": "'This NBA team took the 1975 championship'",
+                    "answer": "the Golden State Warriors"
+                },
+                {
+                    "value": 600,
+                    "question": "'It's the second-most registered dog breed at the American Kennel Club'",
+                    "answer": "a golden retriever"
+                },
+                {
+                    "value": 800,
+                    "question": "'Jason stole it for his Uncle Pelias'",
+                    "answer": "the Golden Fleece"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Sir James Frazer compared mythologies & religions in this work'",
+                    "answer": "The Golden Bough"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "THAT'S ILLINOIS-ING",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Abe Lincoln lived in this city in the 1840s & '50s; his home still stands at Eighth & Jackson'",
+                    "answer": "Springfield"
+                },
+                {
+                    "value": 800,
+                    "question": "'\"Will it play in\" this city, headquarters of the earthmoving Caterpillar, Inc.'",
+                    "answer": "Peoria"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Illinois' southernmost city, it shares its name with Africa's largest city (pronounced differently)'",
+                    "answer": "Cairo",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 1600,
+                    "question": "'2 state penitentiaries are in or near this northeastern Illinois city, the seat of Will County'",
+                    "answer": "Joliet"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Here's \"de\" story; barbed wire was first perfected & manufactured in this city'",
+                    "answer": "DeKalb"
+                }
+            ]
+        },
+        {
+            "name": "THE \"GOLD\" BUG",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'We're rich!  Oh, wait... it's only this, iron pyrite'",
+                    "answer": "fool\\'s gold"
+                },
+                {
+                    "value": 800,
+                    "question": "'You earn one of these with 500,000 sold copies of your latest musical single'",
+                    "answer": "a gold record"
+                },
+                {
+                    "value": 1200,
+                    "question": "'It's the variety of tall herbs <a href=\"http://www.j-archive.com/media/2009-06-17_DJ_20.jpg\" target=\"_blank\">seen</a> <a href=\"http://www.j-archive.com/media/2009-06-17_DJ_20a.jpg\" target=\"_blank\">here</a>'",
+                    "answer": "goldenrod"
+                },
+                {
+                    "value": 1600,
+                    "question": "'This cartoonist drew intricate diagrams of impractical contraptions that accomplished little or nothing'",
+                    "answer": "(Rube) Goldberg"
+                },
+                {
+                    "value": 2000,
+                    "question": "'When FDR took the U.S. economy off this, his budget director asserted, \"This is the end of... civilization\"'",
+                    "answer": "the gold standard"
+                }
+            ]
+        },
+        {
+            "name": "ELF-HELP",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Elmer the Elf is a \"baker-in-training\" for this snack co.; the elf he admires the most is his Uncle Ernie'",
+                    "answer": "Keebler"
+                },
+                {
+                    "value": 800,
+                    "question": "'Playing Buddy, the title 2003 \"Elf\", he said, \"You stink... you smell like beef & cheese.  You don't smell like Santa\"'",
+                    "answer": "Will Ferrell"
+                },
+                {
+                    "value": 1200,
+                    "question": "'In a Grimm tale, elves made these for a merchant until his wife made them clothes; they never came back'",
+                    "answer": "shoes"
+                },
+                {
+                    "value": 1600,
+                    "question": "'A \"Lord of the Rings\" fellowship member, this elf is a good archer'",
+                    "answer": "Legolas"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In \"The Year Without a Santa Claus\", elves Jingle & Jangle dealt with the weather-controlling Heat & Snow these'",
+                    "answer": "the Misers"
+                }
+            ]
+        },
+        {
+            "name": "SUPERSTITIONS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Breaking one is bad luck because not only is your image destroyed but possibly your soul too'",
+                    "answer": "Mirror"
+                },
+                {
+                    "value": 800,
+                    "question": "'Good fortune goes to the person who gets the larger half of this object from a turkey's remains'",
+                    "answer": "Wishbone"
+                },
+                {
+                    "value": 1200,
+                    "question": "'A dog doing this means someone's death is near'",
+                    "answer": "Howling"
+                },
+                {
+                    "value": 1600,
+                    "question": "'It defies the natural order of things to open it indoors, & it acts as a screen against good fortune'",
+                    "answer": "Umbrella"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Soldiers who were smoking on the front alnight may have been the source of this unlucky act'",
+                    "answer": "Lighting three on a match"
+                }
+            ]
+        },
+        {
+            "name": "ADD A LETTER",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'By adding a letter to \"ticked\", you can go from being ticked to this much better opposite'",
+                    "answer": "tickled"
+                },
+                {
+                    "value": 800,
+                    "question": "'Add a letter to \"neuron\" & instead of a nerve cell, it's this subatomic particle'",
+                    "answer": "neutron"
+                },
+                {
+                    "value": 1200,
+                    "question": "'When you add a letter to \"started\" you may be truly surprised when you get this'",
+                    "answer": "startled"
+                },
+                {
+                    "value": 1600,
+                    "question": "'With the addition of a letter, a \"gentle\" person becomes this non-Jewish person'",
+                    "answer": "gentile"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Confer if you wish, but if you add a letter to \"confer\", it becomes this type of evergreen'",
+                    "answer": "conifer"
+                }
+            ]
+        },
+        {
+            "name": "THE \"COLD\" WAR",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Ponds is a popular brand of this product for softening & cleaning the skin'",
+                    "answer": "cold cream"
+                },
+                {
+                    "value": 800,
+                    "question": "'Boundary between air masses characterized by changes in precipitation & temperature'",
+                    "answer": "cold front"
+                },
+                {
+                    "value": 1200,
+                    "question": "'The senseless, brutal murder of the Clutter family is at the heart of this work'",
+                    "answer": "In Cold Blood"
+                },
+                {
+                    "value": 1600,
+                    "question": "'The hypothetical mixing of atomic nuclei at a low pressure & near room temperature'",
+                    "answer": "cold fusion",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Pro wrestler Steve Austin's nickname'",
+                    "answer": "Stone Cold"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "SCIENCE TERMS",
+        "question": "'In medieval England, it meant the smallest unit of time, 1/376 of a minute; it didn't refer to matter until the 16th century'",
+        "answer": "atom"
+    }
+}

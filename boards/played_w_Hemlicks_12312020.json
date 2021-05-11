@@ -1,0 +1,374 @@
+{
+    "jeopardy": [
+        {
+            "name": "A HORSE IS A HORSE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'The Greek hero Bellerophon was crippled when he fell off this winged steed'",
+                    "answer": "Pegasus"
+                },
+                {
+                    "value": 400,
+                    "question": "'A horse named Comanche survived this man's June 1876 \"Last Stand\"'",
+                    "answer": "Custer"
+                },
+                {
+                    "value": 600,
+                    "question": "'The Lone Ranger rode Silver & this companion of his rode a horse named Scout'",
+                    "answer": "Tonto"
+                },
+                {
+                    "value": 800,
+                    "question": "'In \"The Lord of the Rings\", Gandalf rides this horse that only he could tame'",
+                    "answer": "Shadowfax"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Alexander the Great conquered much of the known world riding this stallion'",
+                    "answer": "Bucephalus"
+                }
+            ]
+        },
+        {
+            "name": "POUR ME A STIFF ONE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Nonpotent potable in common to a fuzzy navel & a screwdriver'",
+                    "answer": "orange juice"
+                },
+                {
+                    "value": 400,
+                    "question": "'Stolichanya, or stoli to its friends, is a brand of this'",
+                    "answer": "vodka"
+                },
+                {
+                    "value": 600,
+                    "question": "'Invented in Cuba, a mojito is made with lime juice, club soda, sugar, ice, mint leaves & this kind of alcohol'",
+                    "answer": "rum"
+                },
+                {
+                    "value": 800,
+                    "question": "'This brand of liqueur made its debut in Dublin on November 26, 1974'",
+                    "answer": "Bailey\\'s (Irish Cream)"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Mon Dieu!  This French liqueur was originally made at the Abbey of Fecamp by the monks for which it is named'",
+                    "answer": "Benedictine"
+                }
+            ]
+        },
+        {
+            "name": "FRUITY LANGUAGE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'You often find this fruity adjective in front of the word \"keen\" when describing something swell'",
+                    "answer": "peachy"
+                },
+                {
+                    "value": 400,
+                    "question": "'A small reddish blemish of the skin is known as this fruit's mark'",
+                    "answer": "strawberry"
+                },
+                {
+                    "value": 600,
+                    "question": "'The \"top\" this in Vaudeville signified the leading comedian; then came the \"second\" one who was the straight man'",
+                    "answer": "the banana",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 800,
+                    "question": "'This round, red firecracker has been banned by U.S. law since 1966'",
+                    "answer": "a cherry bomb"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Referring to something dear, this phrase originated in Deuteronomy 32:10 & refers to the pupil'",
+                    "answer": "the apple of one\\'s eye"
+                }
+            ]
+        },
+        {
+            "name": "YOU TOLKIEN TO ME?",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'Tolkien once wrote, \"I am in fact\" one of these \"in all but size\"'",
+                    "answer": "a hobbit"
+                },
+                {
+                    "value": 400,
+                    "question": "'While at Oxford, Tolkien formed a literary group called the Inklings with this man who wrote of Narnia'",
+                    "answer": "C.S. Lewis"
+                },
+                {
+                    "value": 600,
+                    "question": "'Tolkien lectured on this king of the Geats, the title character of an Old English epic poem'",
+                    "answer": "Beowulf"
+                },
+                {
+                    "value": 800,
+                    "question": "'Tolkien translated an Arthurian work about this knight who matches wits with a \"Green Knight\"'",
+                    "answer": "(Sir) Gawain"
+                },
+                {
+                    "value": 1000,
+                    "question": "'The title \"The Lord of the Rings\" refers to this dark lord'",
+                    "answer": "Sauron"
+                }
+            ]
+        },
+        {
+            "name": "YOU'RE HERDING ME!",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'The biblical Abel herded these'",
+                    "answer": "sheep"
+                },
+                {
+                    "value": 400,
+                    "question": "'Herding these is a traditional basis of the Lapp economy'",
+                    "answer": "reindeer"
+                },
+                {
+                    "value": 600,
+                    "question": "'Asia's Wakhi people are herders of this animal that's most at home at over 14,000 feet'",
+                    "answer": "yaks"
+                },
+                {
+                    "value": 800,
+                    "question": "'In Bedouin society, the most prestigious people herd these'",
+                    "answer": "camels"
+                },
+                {
+                    "value": 1000,
+                    "question": "'Animal herded by the lonely fellow in a \"Sound of Music\" song'",
+                    "answer": "goats"
+                }
+            ]
+        },
+        {
+            "name": "PLAY \"BOY\"",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'An accomplished young man, like Batman's Robin'",
+                    "answer": "a boy wonder"
+                },
+                {
+                    "value": 400,
+                    "question": "'To refuse to buy a company's products as a means of coercion'",
+                    "answer": "boycott"
+                },
+                {
+                    "value": 600,
+                    "question": "'Still being published today, this adventure magazine for Boy Scouts debuted in 1911'",
+                    "answer": "Boys\\' Life"
+                },
+                {
+                    "value": 800,
+                    "question": "'Botanical bramble pictured <a href=\"http://www.j-archive.com/media/2005-12-29_J_05.jpg\" target=\"_blank\">here</a>'",
+                    "answer": "boysenberry"
+                },
+                {
+                    "value": 1000,
+                    "question": "'A class of the old Russian nobility ranking below the princes'",
+                    "answer": "the boyars"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "ENDS IN \"OO\"",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In 1738 Franz Ketterer created the first one of these clocks that chirp the time'",
+                    "answer": "a cuckoo clock"
+                },
+                {
+                    "value": 800,
+                    "question": "'From an Inuit word for \"house\", this house is made from blocks of hard-packed snow'",
+                    "answer": "igloo"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Capt. James Cook introduced this word to English speakers after he saw skin designs on Polynesian natives'",
+                    "answer": "tattoo"
+                },
+                {
+                    "value": 1600,
+                    "question": "'In many Asian countries, the shoots of this very tall grass are eaten as a vegetable'",
+                    "answer": "bamboo"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Its website has been called the first large-scale directory of the Internet'",
+                    "answer": "Yahoo!"
+                }
+            ]
+        },
+        {
+            "name": "ALIEN INVADERS!",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'Arnold & his elite squad battle an almost invisible alien hunter of humans in the South American jungle in this film'",
+                    "answer": "Predator"
+                },
+                {
+                    "value": 800,
+                    "question": "'At first a bad guy, in later movies he protected Earth from alien monsters like Gigan & Megalon'",
+                    "answer": "Godzilla"
+                },
+                {
+                    "value": 1200,
+                    "question": "'28-year-old Steve McQueen played a teenager helping fight off the giant goopy alien in this 1958 film'",
+                    "answer": "The Blob"
+                },
+                {
+                    "value": 1600,
+                    "question": "'This 2008 flick depicts an alien invasion of NYC seen through the video camera eyes of several young characters'",
+                    "answer": "Cloverfield",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In this 1956 cult classic, invading aliens hatch from giant pods, & you're next!'",
+                    "answer": "Invasion of the Body Snatchers"
+                }
+            ]
+        },
+        {
+            "name": "AFTER PYTHON",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In 1999's \"The Out-Of-Towners\", through no fawlty of his own, he was back behind a hotel desk'",
+                    "answer": "John Cleese"
+                },
+                {
+                    "value": 800,
+                    "question": "'He's traveled a bit -- \"Pole To Pole\", \"Around The World In 80 Days\"...'",
+                    "answer": "Michael Palin"
+                },
+                {
+                    "value": 1200,
+                    "question": "'He hasn't sat around doing nothing, he's written books like \"The Road to Mars\", nudge....nudge....'",
+                    "answer": "Eric Idle"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Fans of his \"Brazil\" can buy it on DVD in a longer, expanded version'",
+                    "answer": "Terry Gilliam"
+                },
+                {
+                    "value": 2000,
+                    "question": "'The voice of the parrot in Douglas Adams' \"Starship Titanic\"; he also novelized the game'",
+                    "answer": "Terry Jones"
+                }
+            ]
+        },
+        {
+            "name": "TAKE THE CAKE",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'This loaf cake is traditionally made with 16 ounces each of flour, sugar, butter & eggs'",
+                    "answer": "Pound cake"
+                },
+                {
+                    "value": 800,
+                    "question": "'German for \"something strewn\", it's a coffeecake with a crumbly topping'",
+                    "answer": "Streusel"
+                },
+                {
+                    "value": 1200,
+                    "question": "'This \"pie\" is actually 2 layers of sponge cake filled with custard, & topped with sugar or a chocolate glaze'",
+                    "answer": "Boston cream pie"
+                },
+                {
+                    "value": 1600,
+                    "question": "'As you might gather from its name, this rich, dark chocolate layer cake is fiendishly delicious'",
+                    "answer": "Devil\\'s food cake"
+                },
+                {
+                    "value": 2000,
+                    "question": "'This cake that's soaked in liquor may derive its name from the Polish for \"old woman\"'",
+                    "answer": "Rum baba"
+                }
+            ]
+        },
+        {
+            "name": "THAT'S \"ODD\"",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'People considered as readily available & of little value; it usually follows \"cannon\"'",
+                    "answer": "fodder"
+                },
+                {
+                    "value": 800,
+                    "question": "'A Bond villain knows it means to work at a series of unrelated, low-paying positions'",
+                    "answer": "odd job"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Proceeded in a tediously slow manner, or walked heavily'",
+                    "answer": "plodded"
+                },
+                {
+                    "value": 1600,
+                    "question": "'It means soaked with liquid or moisture; saturated'",
+                    "answer": "sodden"
+                },
+                {
+                    "value": 2000,
+                    "question": "'It's a past particple of \"tread\"'",
+                    "answer": "trodden",
+                    "daily-double": "true"
+                }
+            ]
+        },
+        {
+            "name": "THE \"IX\" IS IN",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'From an 1859 song, it's a nickname for the Old South'",
+                    "answer": "\"Dixie\""
+                },
+                {
+                    "value": 800,
+                    "question": "'A cross with the figure of Jesus upon it'",
+                    "answer": "a crucifix"
+                },
+                {
+                    "value": 1200,
+                    "question": "'An alchemical liquid \"of life\" believed to be capable of prolonging it'",
+                    "answer": "an elixir"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Adjective meaning extravagantly impractical, like something done by the Man of La Mancha'",
+                    "answer": "quixotic"
+                },
+                {
+                    "value": 2000,
+                    "question": "'An array of numbers or other mathematical functions multiplied according to certain rules'",
+                    "answer": "a matrix"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "ARTISTIC MASTERPIECES",
+        "question": "'\"Shouldn't the shining dots of the sky be as accessible as the black dots on the map of France?\" the artist wrote of this work'",
+        "answer": "The Starry Night (by Vincent Van Gogh)"
+    }
+}

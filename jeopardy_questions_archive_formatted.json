@@ -1,374 +1,377 @@
 {
     "jeopardy": [
         {
-            "name": "PREFIXES",
+            "name": "HAPPY NEW YEAR",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'Medically speaking, hemo-, hema- & hemato- all mean this'",
-                    "answer": "blood"
+                    "question": "'Ellis Island opened Jan. 1, 1892 & the first immigrant was from County Cork on this island'",
+                    "answer": "Ireland"
                 },
                 {
                     "value": 400,
-                    "question": "'Before -standard & -marine, it means below'",
-                    "answer": "sub-"
+                    "question": "'In 1919 this auto company got a new president, son succeeding father, & raised its minimum wage to $6 a day'",
+                    "answer": "Ford"
                 },
                 {
                     "value": 600,
-                    "question": "'Before -biography or -graph, it means self'",
-                    "answer": "auto-"
+                    "question": "'The Post Office began this service Jan. 1, 1913 & it was soon sending such objects as eggs, bricks & a 4-year-old girl'",
+                    "answer": "parcel post"
                 },
                 {
                     "value": 800,
-                    "question": "'It puts the fire before -technics & -mania'",
-                    "answer": "pyro-",
-                    "daily-double": "true"
+                    "question": "'This new Czech president began the 1990s with an amnesty for 3/4 of his country's prison inmates'",
+                    "answer": "Havel"
                 },
                 {
                     "value": 1000,
-                    "question": "'This prefix turns 1 byte of data into about a billion'",
-                    "answer": "giga-"
+                    "question": "'On Jan. 1, 1959, suddenly out of power, he fled Cuba for the Dominican Republic'",
+                    "answer": "(Fulgencio) Batista"
                 }
             ]
         },
         {
-            "name": "PHRASES OF DEATH",
+            "name": "FUN WITH STATE NAMES",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'Completing 2 tasks with one action is \"killing 2\" of these \"with one stone\"'",
-                    "answer": "birds"
+                    "question": "'Keep up!  They are the 2 states with 3 sets of double letters'",
+                    "answer": "Mississippi & Tennessee"
                 },
                 {
                     "value": 400,
-                    "question": "'This agricultural plot of land is the last one you'll \"buy\"'",
-                    "answer": "(buying) the farm"
+                    "question": "'The one letter that does not appear in any of the 50 state names'",
+                    "answer": "Q"
                 },
                 {
                     "value": 600,
-                    "question": "'This longest-serving \"Tonight Show\" host used \"staying at Club Mud\" & \"time-sharing the oblong condo\"'",
-                    "answer": "Johnny Carson"
+                    "question": "'The one vowel that does not begin a state name (& don't say \"Y\"; we don't need the viewer mail)'",
+                    "answer": "E"
                 },
                 {
                     "value": 800,
-                    "question": "'How dead?  \"Dead as\" one of these 8-letter carpentry items'",
-                    "answer": "a doornail"
+                    "question": "'8 states begin with \"M\" & another 8 with this letter'",
+                    "answer": "N"
                 },
                 {
                     "value": 1000,
-                    "question": "'What are the dead doing?  \"Pushing up\" these, be they English or oxeye'",
-                    "answer": "daisies"
+                    "question": "'The one that ends with \"G\"'",
+                    "answer": "Wyoming"
                 }
             ]
         },
         {
-            "name": "PIZZA TOPPINGS",
+            "name": "ROME, THE ETERNAL CITY",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'This type of hard sausage is America's favorite pizza topping'",
-                    "answer": "pepperoni"
+                    "question": "'Bernini's Fountain of the Four Rivers commemorates the Nile, the Danube, the Plata & this river of India'",
+                    "answer": "the Ganges"
                 },
                 {
                     "value": 400,
-                    "question": "'How about a nice traditional Hawaiian pizza topped with ham or Canadian bacon & this fruit'",
-                    "answer": "pineapple"
+                    "question": "'You can see the rebuilt Ara Pacis, or Altar of this; ironically, it was built in the field of Mars'",
+                    "answer": "Peace"
                 },
                 {
                     "value": 600,
-                    "question": "'These on your pizza may be fire-roasted, sun-dried, or just fresh sliced Romas'",
-                    "answer": "tomatoes"
+                    "question": "'This Roman arena was begun by Vespasian around 75 A.D. & dedicated by his son Titus in 80 A.D.'",
+                    "answer": "the Colosseum"
                 },
                 {
                     "value": 800,
-                    "question": "'On November 12 celebrate National Pizza with the Works Except these fish Day'",
-                    "answer": "Anchovies"
+                    "question": "'The Santa Susanna Church in Rome is considered the national church there for this country's Catholics'",
+                    "answer": "the United States"
                 },
                 {
                     "value": 1000,
-                    "question": "'Wild ones of these found on pizza include shiitakes, morels & chanterelles'",
-                    "answer": "mushrooms"
+                    "question": "'There are 138 of these \"National\" steps that lead up to the Trinita Dei Monti Church'",
+                    "answer": "Spanish Steps"
                 }
             ]
         },
         {
-            "name": "PITS BURG",
+            "name": "CAMPING",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'Head to this state's peach festival in For Valley if you want to help make the world's largest peach cobbler'",
-                    "answer": "Georgia"
+                    "question": "'To rough it in comfort, supplement your sleeping bag with an inflatable one of these'",
+                    "answer": "a mattress"
                 },
                 {
                     "value": 400,
-                    "question": "'Any pilgrimage to find the best olives will lead you through Kalamata in this country'",
-                    "answer": "Greece"
+                    "question": "'Boy Scouts know it's easy to build one of these using structures called pyramid, tepee or cross-ditch'",
+                    "answer": "a campfire"
                 },
                 {
                     "value": 600,
-                    "question": "'This country's Murcia & Valencia regions produce many of the world's apricots'",
-                    "answer": "Spain"
+                    "question": "'Hanging food between trees to keep it from a certain animal is called this alliterative \"bagging\"'",
+                    "answer": "bear bagging"
                 },
                 {
                     "value": 800,
-                    "question": "'76 years old, the original Hass avocado tree died in 2002 in La Habra Heights in this state'",
-                    "answer": "California"
+                    "question": "'Mary, let John attach this from the side of the tent to a stake--\"it's a\" this \"thing\"'",
+                    "answer": "guy"
                 },
                 {
                     "value": 1000,
-                    "question": "'In 1852 cherries were planted on Old Mission Peninsula in this Midwest state; it now grows 75% of the tart type'",
-                    "answer": "Michigan"
+                    "question": "'Like some antiseptics, water purification products like Potable Aqua are based on this element'",
+                    "answer": "iodine"
                 }
             ]
         },
         {
-            "name": "PRAWNOGRAPHY",
+            "name": "LEAD",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'The word \"prawn\" is used loosely for a large one of these shellfish'",
-                    "answer": "a shrimp"
+                    "question": "'\"To eat lead\" in old gangster slang meant to be exposed to these coming your way'",
+                    "answer": "bullets"
                 },
                 {
                     "value": 400,
-                    "question": "'The Muppet known as Pepe the Prawn did commercials for a restaurant chain named for this \"Long\" character'",
-                    "answer": "Long John Silver"
+                    "question": "'This country is the world's main user of lead & the main recycler'",
+                    "answer": "the United States"
                 },
                 {
                     "value": 600,
-                    "question": "'Like many insects, prawns also feature pairs of these long, thin sensory organs on their heads'",
-                    "answer": "antennae"
+                    "question": "'Lead ores such as galena are also the main mining sources of this precious metal often found with it'",
+                    "answer": "silver"
                 },
                 {
                     "value": 800,
-                    "question": "'Prawns go through as many as 11 different metamorphoses during this stage of immaturity'",
-                    "answer": "the larval stage"
+                    "question": "'Whether in a hearing aid or a hot rod, most lead is used in these'",
+                    "answer": "batteries"
                 },
                 {
                     "value": 1000,
-                    "question": "'From the Latin for \"having a shell\", it's the subphylum to which all prawns belong'",
-                    "answer": "crustacean"
+                    "question": "'The \"lead\" used in pencils is actually this form of carbon once thought to be a type of lead'",
+                    "answer": "graphite"
                 }
             ]
         },
         {
-            "name": "ADJECTIVES",
+            "name": "NAME THAT CITY",
             "questions": [
                 {
                     "value": 200,
-                    "question": "'Adjective in the name of stuffed dolls Ann & Andy'",
-                    "answer": "raggedy"
+                    "question": "",
+                    "image": "images/city/200.jpg",
+                    "answer": "Ithaca"
                 },
                 {
                     "value": 400,
-                    "question": "'Ottoman Emperor Selim I is known by this adjective, like a certain \"reaper\"'",
-                    "answer": "grim"
+                    "question": "",
+                    "image": "images/city/400.JPG",
+                    "answer": "Pittsburgh"
                 },
                 {
                     "value": 600,
-                    "question": "'It describes notched, sawlike teeth, as on the blade of a bread knife'",
-                    "answer": "serrated"
+                    "question": "",
+                    "image": "images/city/600.jpg",
+                    "answer": "Chicago"
                 },
                 {
                     "value": 800,
-                    "question": "'Belonging to the place where one was born, like the \"son\" in a Richard Wright title'",
-                    "answer": "native"
+                    "question": "",
+                    "image": "images/city/800.JPG",
+                    "answer": "Milwaukee"
                 },
                 {
                     "value": 1000,
-                    "question": "'From Latin for \"devour\", it precedes \"readers\" to describe those with an insatiable appetite for books'",
-                    "answer": "voracious"
+                    "question": "",
+                    "image": "images/city/1000.JPG",
+                    "answer": "New York City"
                 }
             ]
         }
     ],
     "double-jeopardy": [
         {
+            "name": "HAPPY NEW YEAR",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'This liberating document took effect Jan. 1, 1863'",
+                    "answer": "the Emancipation Proclamation"
+                },
+                {
+                    "value": 800,
+                    "question": "'On Jan. 1, 1502 Portuguese sailors arrived at this present-day city & thought the bay was a river'",
+                    "answer": "Rio de Janeiro"
+                },
+                {
+                    "value": 1200,
+                    "question": "'One of the 4 of all the president's men convicted by a federal court Jan. 1, 1975'",
+                    "answer": "(1 of) John Mitchell, Haldeman, Ehrlichman, or Robert Mardian"
+                },
+                {
+                    "value": 1600,
+                    "question": "'Crowds in Romania & Bulgaria celebrated as their nations became the 26th & 27th in this org. Jan 1, 2007'",
+                    "answer": "the European Union"
+                },
+                {
+                    "value": 2000,
+                    "question": "'Registering the symbol seen <a href=\"http://www.j-archive.com/media/2009-01-01_DJ_20.jpg\" target=\"_blank\">here</a> Jan. 1, 1876 gave this beverage brand England's first trademark'",
+                    "answer": "Bass Ale"
+                }
+            ]
+        },
+        {
             "name": "ADD A LETTER",
             "questions": [
                 {
                     "value": 400,
-                    "question": "'Add a \"G\" to make a prominent member of the wedding into a prominent transportation structure'",
-                    "answer": "bride & bridge"
+                    "question": "'...to a self-luminous celestial body to get this word that lets you peek at the body fixedly'",
+                    "answer": "stare/star"
                 },
                 {
                     "value": 800,
-                    "question": "'An \"E\" transforms your puppy into the chief magistrate in the former Republic of Genoa'",
-                    "answer": "dog & doge"
+                    "question": "'...to a lingering sign of bodily injury & get this \"terrifying\" word'",
+                    "answer": "scare/scar"
                 },
                 {
                     "value": 1200,
-                    "question": "'Without an \"S\", it's royal rule; with an \"S\", it means to quit'",
-                    "answer": "reign & resign"
+                    "question": "'...to an archer's weapon & get this flat, rectangular cart with handles at each end'",
+                    "answer": "barrow/arrow"
                 },
                 {
                     "value": 1600,
-                    "question": "'Luminous brightness degenerates into loud, empty protests when \"B\" gets in front'",
-                    "answer": "luster & bluster"
+                    "question": "'...to a word meaning \"cover in gold\" & get this association of persons of the same trade'",
+                    "answer": "guild/gild"
                 },
                 {
                     "value": 2000,
-                    "question": "'On adding an \"R\", a word meaning \"stop\" starts meaning a ridge made by folding'",
-                    "answer": "cease & crease"
-                }
-            ]
-        },
-        {
-            "name": "T\"EEN\"",
-            "questions": [
-                {
-                    "value": 400,
-                    "question": "'A small cafeteria on a military base, or a water flask carried by a soldier on a hike'",
-                    "answer": "canteen"
-                },
-                {
-                    "value": 800,
-                    "question": "'From the Middle English for \"beautiful\", it's the last name of \"presidential\" actor Martin'",
-                    "answer": "Sheen"
-                },
-                {
-                    "value": 1200,
-                    "question": "'This spongy organ filters foreign substances & damaged cells from the blood'",
-                    "answer": "spleen"
-                },
-                {
-                    "value": 1600,
-                    "question": "'Top selling Lifesavers rolls are Five Flavors, then this, then Pep-O-Mint & Butter Rum'",
-                    "answer": "Wint-O-Green"
-                },
-                {
-                    "value": 2000,
-                    "question": "'Pop artist Andy Warhol created many of his pictures by using this stencil process'",
-                    "answer": "silkscreen"
-                }
-            ]
-        },
-        {
-            "name": "TENTS",
-            "questions": [
-                {
-                    "value": 400,
-                    "question": "'A pair of Boy Scouts might use this small \"canine\" variety of tent'",
-                    "answer": "Pup tent"
-                },
-                {
-                    "value": 800,
-                    "question": "'2-word term for the largest & main tent of a circus'",
-                    "answer": "Big top"
-                },
-                {
-                    "value": 1200,
-                    "question": "'Reportedly using canvas intended for miners' tents, he began a jeans empire in the late 1800s'",
-                    "answer": "Levi Strauss"
-                },
-                {
-                    "value": 1600,
-                    "question": "'When Achilles was sulking in his tent, it was during this war'",
-                    "answer": "Trojan War"
-                },
-                {
-                    "value": 2000,
-                    "question": "'This Persian poet's last name means \"tentmaker\"'",
-                    "answer": "Omar Khayyam",
+                    "question": "'...to a candy bar or a low-growing shrub to get this word, the floor of a fireplace'",
+                    "answer": "hearth/heath",
                     "daily-double": "true"
                 }
             ]
         },
         {
-            "name": "THAT SINKING FEELING",
+            "name": "ITALIAN CITIES",
             "questions": [
                 {
                     "value": 400,
-                    "question": "'The sinking of this British liner in May 1915 indirectly influenced the U.S. to enter WWI'",
-                    "answer": "Lusitania"
+                    "question": "'A regatta held each September in this city features gondola races on the Grand Canal'",
+                    "answer": "Venice"
                 },
                 {
                     "value": 800,
-                    "question": "'One legend mentioned by Plato says that this island was swallowed by the sea as a result of earthquakes'",
-                    "answer": "Atlantis"
+                    "question": "'Shakespeare's feuding Montagues & Capulets were inspired by actual incidents in this city'",
+                    "answer": "Verona"
                 },
                 {
                     "value": 1200,
-                    "question": "'A 1976 Gordon Lightfoot song told the true story of the sinking of this ore vessel in Lake Superior'",
-                    "answer": "Edmund Fitzgerald"
-                },
-                {
-                    "value": 1600,
-                    "question": "'In 1997 \"Nova\" went under the sea to look at this ship, the Titanic's lost sister:'",
-                    "answer": "HMS Britannic"
-                },
-                {
-                    "value": 2000,
-                    "question": "'A 1999 TV movie portrayed the torpedoing & sinking of the federal sloop Housatonic by this Confederate sub'",
-                    "answer": "Hunley"
-                }
-            ]
-        },
-        {
-            "name": "THAT'S A LOAD OF GARBAGE",
-            "questions": [
-                {
-                    "value": 400,
-                    "question": "'On this TV show, a Muppet named Oscar the Grouch lives in a garbage can'",
-                    "answer": "Sesame Street"
-                },
-                {
-                    "value": 800,
-                    "question": "'The 2 words that complete the modern saying \"garbage in...\"'",
-                    "answer": "\"garbage out\""
-                },
-                {
-                    "value": 1200,
-                    "question": "'The first known law against throwing your garbage in the street was issued around 500 B.C. in this Greek city'",
-                    "answer": "Athens"
-                },
-                {
-                    "value": 1600,
-                    "question": "'The EPA reports that this country has 6% of the world's people & produces 50% of the world's garbage'",
-                    "answer": "the United States of America (U.S.A.)"
-                },
-                {
-                    "value": 2000,
-                    "question": "'The \"3 R's\" of garbage management are reduce, reuse & this environmentally friendly word'",
-                    "answer": "recycle"
-                }
-            ]
-        },
-        {
-            "name": "ENDS WITH A BODY PART",
-            "questions": [
-                {
-                    "value": 400,
-                    "question": "'Someone who moves props or lighting for a theatrical production'",
-                    "answer": "a stagehand"
-                },
-                {
-                    "value": 800,
-                    "question": "'To identify an illness via medical exam'",
-                    "answer": "diagnose"
-                },
-                {
-                    "value": 1200,
-                    "question": "'Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly'",
-                    "answer": "bootleg",
+                    "question": "'The pope has approved the public display of this city's famous shroud in 1998'",
+                    "answer": "Turin",
                     "daily-double": "true"
                 },
                 {
                     "value": 1600,
-                    "question": "'A spiky sea critter, or a mischievous boy'",
-                    "answer": "an urchin"
+                    "question": "'This city's Piazza Dante contains the house believed to be that of Christopher Colunbus'",
+                    "answer": "Genoa"
                 },
                 {
                     "value": 2000,
-                    "question": "'Most opulent'",
-                    "answer": "richest"
+                    "question": "'Conductor Arturo Toscanini was born in this city famous for its cheese'",
+                    "answer": "Parma"
+                }
+            ]
+        },
+        {
+            "name": "IVY LEAGUERS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In \"This Side of Paradise\" he called Princeton, his alma mater, \"The pleasantest country club in America\"'",
+                    "answer": "(F. Scott) Fitzgerald"
+                },
+                {
+                    "value": 800,
+                    "question": "'(Jimmy of the Clue Crew)  The inscribed names of Yale students killed in wars partly inspired this Yale grad to create a famous memorial'",
+                    "answer": "Maya Lin"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Born in Cornish, New Hampshire, Chief Justice Salmon P. Chase went to this Ivy League school'",
+                    "answer": "Dartmouth"
+                },
+                {
+                    "value": 1600,
+                    "question": "'This cartoonist is said to have used College Hall at Penn, seen here, as the inspiration for a Gothic mansion'",
+                    "answer": "Charles Addams"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In the '50s she took an Ivy League tour -- Cornell, undergrad, Harvard & Columbia law schools'",
+                    "answer": "Ruth Bader Ginsburg"
+                }
+            ]
+        },
+        {
+            "name": "CHRISTMAS MOVIES",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'In a 1970 film, Alec Guinness played Jacob Marley's ghost & Albert Finney played this man'",
+                    "answer": "Scrooge"
+                },
+                {
+                    "value": 800,
+                    "question": "'Natalie Wood was just 8 years old when she played the little girl Susan in this Christmas classic'",
+                    "answer": "Miracle on 34th Street"
+                },
+                {
+                    "value": 1200,
+                    "question": "'Bing Crosby introduced the song \"White Christmas\" not in the movie \"White Christmas\" but in this earlier film'",
+                    "answer": "Holiday Inn"
+                },
+                {
+                    "value": 1600,
+                    "question": "'In this movie \"2\", Tim Allen has to find a Mrs., ASAP; says so in his contract'",
+                    "answer": "The Santa Clause 2"
+                },
+                {
+                    "value": 2000,
+                    "question": "'In this movie, Tim Allen & Jamie Lee Curtis consider skipping the holidays altogether & taking a cruise'",
+                    "answer": "Christmas with the Kranks"
+                }
+            ]
+        },
+        {
+            "name": "NAME THAT COSTUME",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "",
+                    "image": "images/costumes/400.jpg",
+                    "answer": "Teletubbies and Sun"
+                },
+                {
+                    "value": 800,
+                    "question": "",
+                    "image": "images/costumes/800.JPG",
+                    "answer": "Mia Wallace and Vincent Vega"
+                },
+                {
+                    "value": 1200,
+                    "question": "",
+                    "image": "images/costumes/1200.png",
+                    "answer": "Bob and Linda Belcher"
+                },
+                {
+                    "value": 1600,
+                    "question": "",
+                    "image": "images/costumes/1600.jpg",
+                    "answer": "A Beastie Boy and a Bust"
                 }
             ]
         }
     ],
     "final-jeopardy": {
-        "category": "AMERICAN WOMEN",
-        "question": "'Geraldine Doyle, who in 1942 took a job at a Michigan metal factory, helped inspire the look & job of this iconic character'",
-        "answer": "Rosie the Riveter"
+        "category": "HISTORIC EVENTS",
+        "question": "THIS HISTORIC EVENT OCCURRED FOR THE FIRST TIME ON NEW YEARS DAY 2021",
+        "answer": "Natalie and Dan got engaged!!!"
     }
 }
