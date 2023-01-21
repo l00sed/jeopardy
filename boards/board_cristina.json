@@ -1,0 +1,393 @@
+{
+  "jeopardy": [
+    {
+      "name": "MOVIES IN THE MULTIVERSE",
+      "questions": [
+        {
+          "question": "LAWFULLY LIGHT-HAIRED",
+          "value": "200",
+          "answer": "What is Legally Blonde?",
+          "daily-double": false
+        },
+        {
+          "question": "FURRY CERAMICIST AND THE WIZARD'S CRYSTAL",
+          "value": "400",
+          "answer": "What is Harry Potter and the Sorcerer's/Philosopher's Stone?",
+          "daily-double": false
+        },
+        {
+          "question": "THE KING OF THE HOOPS: THE GANG OF THE CIRCLE",
+          "value": "600",
+          "answer": "What is The Lord of the Rings: The Fellowship of the Ring?",
+          "daily-double": false
+        },
+        {
+          "question": "DISTANT FLAMING BALL OF GAS BATTLES: THE GHOST BULLY",
+          "value": "800",
+          "answer": "What is Star Wars: The Phantom Menace?",
+          "daily-double": false
+        },
+        {
+          "question": "GENERAL USA: THE HIBERNAL WARRIOR",
+          "value": "1000",
+          "answer": "What is Captain America: The Winter Soldier?",
+          "daily-double": false
+        }
+      ]
+    },
+    {
+      "name": "ELF ON A SHELF",
+      "questions": [
+        {
+          "question": "THE ACTRESS WHO PORTRAYED JULIA CHILDS IN JULIE & JULIA, ON A WOOLLY GRASS-GRAZER",
+          "value": "200",
+          "answer": "What is (Meryl) Streep on a Sheep",
+          "daily-double": false
+        },
+        {
+          "question": "A BESPECTACLED WIZARD, ON AN AQUATIC WEASEL",
+          "value": "400",
+          "answer": "What is (Harry) Potter on an Otter?",
+          "daily-double": false
+        },
+        {
+          "question": "STAR OF THE CHRISTMAS MOVIE ELF, ON A COOPER'S CRAFT",
+          "value": "600",
+          "answer": "What is (Will) Ferrell on a Barrel",
+          "daily-double": false
+        },
+        {
+          "question": "FOODIE 'FRIEND', ON A MOUTH ORGAN",
+          "value": "800",
+          "answer": "What is Monica on a Harmonica?",
+          "daily-double": false
+        },
+        {
+          "question": "LORELAI JR., ON A METAPHORICAL TALE",
+          "value": "1000",
+          "answer": "What is Rory (Gilmore) on an Allegory?",
+          "daily-double": true
+        }
+      ]
+    },
+    {
+      "name": "EXTRACURRICULAR",
+      "questions": [
+        {
+          "question": "TROY, ABED, BRITTA, JEFF, ANNIE, SHIRLEY, PIERCE",
+          "value": "200",
+          "answer": "What is the Spanish study group?"
+        },
+        {
+          "question": "HARRY AND OLIVER",
+          "value": "400",
+          "answer": "What is Quidditch?",
+          "daily-double": false
+        },
+        {
+          "question": "MERCEDES, FINN, KURT, RACHEL",
+          "value": "600",
+          "answer": "What is Glee Club (New Directions)?",
+          "daily-double": false
+        },
+        {
+          "question": "RORY AND PARIS",
+          "value": "800",
+          "answer": "What is the school newspaper?"
+        },
+        {
+          "question": "TROY, GABRIELLA, SHARPAY, RYAN",
+          "value": "1000",
+          "answer": "What is the school musical?"
+        }
+      ]
+    },
+    {
+      "name": "CRAP BAG",
+      "questions": [
+        {
+          "question": "LAVATORY-RESIDING PHANTOM",
+          "value": "200",
+          "answer": "Who is Moaning Myrtle?"
+        },
+        {
+          "question": "MAYA RUDOLPH POOPS A WEDDING DRESS IN THIS ROMANTIC COMEDY",
+          "value": "400",
+          "answer": "What is Bridesmaids?"
+        },
+        {
+          "question": "THIS CONFECTION WAS MISTAKEN FOR A POOPY FLOATER IN CADDYSHACK",
+          "value": "600",
+          "answer": "What is a Baby Ruth?"
+        },
+        {
+          "question": "CREED BRATTON PAYS FOR THE PRIVILEGE TO POOP HERE",
+          "value": "800",
+          "answer": "What is the women's restroom?"
+        },
+        {
+          "question": "THIS PARKS AND REC CHARACTER, IN A HOSPITAL STAY WITH THE FLU, LOOKS AT HIMSELF IN THE MIRROR URGING HIMSELF TO, 'STOP... POOPING.'",
+          "value": "1000",
+          "answer": "Who is Chris Traeger?"
+        }
+      ]
+    },
+    {
+      "name": "FOOD IN FILM",
+      "questions": [
+        {
+          "question": "THE FRIENDS WHO STUCK A TURKEY ON THEIR HEAD",
+          "value": "200",
+          "answer": "Who are Joey and Monica?"
+        },
+        {
+          "question": "MICHAEL SCOTT FALLS ASLEEP ON THE OFFICE WHEN HE EATS THIS FOR LUNCH",
+          "value": "400",
+          "answer": "What is a chicken pot pie?"
+        },
+        {
+          "question": "RECIPE LILY LEARNS FROM MARSHALL'S MOM (MRS. ERIKSON) IN HOW I MET YOUR MOTHER",
+          "value": "600",
+          "answer": "What is a seven layer salad?"
+        },
+        {
+          "question": "HARRY  POTTER'S 17TH BIRTHDAY CAKE IS MADE TO LOOK LIKE ONE OF THESE",
+          "value": "800",
+          "answer": "What is a golden snitch?"
+        },
+        {
+          "question": "WHAT FOOD DOES NEBULA EAT, DESPITE IT BEING NOT RIPE, IN GUARDIANS OF THE GALAXY?",
+          "value": "1000",
+          "answer": "What is a yaru root?"
+        }
+      ]
+    },
+    {
+      "name": "FEARS AND PET PEEVES",
+      "questions": [
+        {
+          "question": "NEVILLE LONGBOTTOM'S BOGART",
+          "value": "200",
+          "answer": "Who is Professor Snape?"
+        },
+        {
+          "question": "TROY AND ABED NAME THEIR BIOLOGY PET FIEVEL, BUT TROY HAS A FEAR OF THIS ANIMAL",
+          "value": "400",
+          "answer": "What is a rat?"
+        },
+        {
+          "question": "JESS CONFESSES AN IRRATIONAL FEAR OF THIS FRUIT (AND PEOPLE SHAPED LIKE THIS FRUIT) TO HER BOYFRIEND NICK IN THE SHOW 'NEW GIRL'",
+          "value": "600",
+          "answer": "What are pears?"
+        },
+        {
+          "question": "SCOTT TOMPKINS HAS AN IRRATIONAL FEAR OF A FURRY-TAILED CRITTER HE CONSIDERS EVIL",
+          "value": "800",
+          "answer": "What are squirrels?"
+        },
+        {
+          "question": "DEADPOOL'S FEAR",
+          "value": "1000",
+          "answer": "What are clowns?"
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [
+    {
+      "name": "TOMPKINS GEOGRAPHY",
+      "questions": [
+        {
+          "question": "WHICH OF THE FOUR TOMPKINS CHILDREN LIVES IN A STATE THAT IS ACTUALLY A 'COMMONWEALTH'",
+          "value": "400",
+          "answer": "Who is Daniel?"
+        },
+        {
+          "question": "OF THE FOUR STATES WHERE THE TOMPKINS CHILDREN RESIDE, THESE TWO STATES WERE PART OF THE ORIGINAL THIRTEEN COLONIES",
+          "value": "800",
+          "answer": "What are Pennsylvania and Virginia?"
+        },
+        {
+          "question": "THE TOMPKINS CHILDREN ARE SPLIT INTO FOUR CITIES, ONLY ONE LIVES IN A STATE CAPITAL— NAME THAT CITY",
+          "value": "1200",
+          "answer": "What is Columbus?"
+        },
+        {
+          "question": "THE TOMPKINS CHILDREN ARE ALSO SPLIT INTO FOUR STATES, THESE TWO STATES HAVE AN INTERNATIONAL BORDER",
+          "value": "1600",
+          "answer": "What are Ohio and Pennsylvania?",
+          "daily-double": true
+        },
+        {
+          "question": "OF THE FOUR STATES WHERE THE TOMPKINS CHILDREN LIVE, THIS STATE HAS THE LONGEST ROAD— ROUTE 58, AT 508 MILES",
+          "value": "2000",
+          "answer": "What is Virginia?"
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS C(H)RISTINAS",
+      "questions": [
+        {
+          "question": "THIS C(H)RISTINA IS CREDITED AMONG OTHER ARTISTS FOR REVIVING TEEN POP IN THE 90'S AND HAS BEEN REFERRED TO AS THE \"VOICE OF A GENERATION\"",
+          "value": "400",
+          "answer": "Who is Christina Aguilera?"
+        },
+        {
+          "question": "THIS C(H)RISTINA PLAYED WEDNESDAY ADDAMS IN THE 1991 ADDAMS FAMILY MOVIE",
+          "value": "800",
+          "answer": "Who is Christina Ricci?"
+        },
+        {
+          "question": "THIS ANIMATED (CRIS)TINA LIVES ABOVE A HAMBURGER RESTAURANT WITH HER PARENTS AND TWO SIBLINGS",
+          "value": "1200",
+          "answer": "Who is Tina Belcher?"
+        },
+        {
+          "question": "THIS ACTRESS PLAYED RON BURGUNDY'S (WILL FERRELL) LOVE INTEREST IN ANCHORMAN",
+          "value": "1600",
+          "answer": "Who is Christina Applegate?"
+        },
+        {
+          "question": "COLOR OF THE DRESS WORN BY THE WOMAN DEPICTED IN \"CHRISTINA'S WORLD\" BY THE AMERICAN PAINTER ANDREW WYETH",
+          "value": "2000",
+          "answer": "What is pink?",
+          "daily-double": false
+        }
+      ]
+    },
+    {
+      "name": "WELL-KNOWN CATS",
+      "questions": [
+        {
+          "question": "NOT ONLY CAT, BUT HALF-KNEAZLE",
+          "value": "400",
+          "answer": "Who is Crookshanks?"
+        },
+        {
+          "question": "SALEM SABERHAGEN IS THE NAME OF THE FICTIONAL CAT CHARACTER APPEARING IN THIS AMERICAN ARCHIE COMICS SERIES (LATER ADAPTED INTO A TV SHOW)",
+          "value": "800",
+          "answer": "What is Sabrina, the Teenage Witch?"
+        },
+        {
+          "question": "THE MUSICAL \"CATS\" IS BASED ON THE 1939 POETRY COLLECTION \"OLD POSSUM'S BOOK OF PRACTICAL CATS\" BY THIS AUTHOR",
+          "value": "1200",
+          "answer": "Who is T.S. Elliot?"
+        },
+        {
+          "question": "IN 1904, BENJAMIN HOLT REPLACED THE REAR WHEELS FROM A HOLT STEAM TRACTOR WITH A PAIR OF TRACKS TO HELP FARMERS DEAL WITH SOFT SOIL. DURING A FIELD TEST IN 1905, A PHOTOGRAPHER EXCLAIMED THAT THE MACHINE CRAWLED LIKE A BIG ________",
+          "value": "1600",
+          "answer": "What is a caterpillar?"
+        },
+        {
+          "question": "MISS KITTY FANTASTICO BELONGS TO TARA AND WILLOW, AND APPEARS IN THREE EPISODES OF THIS SERIES",
+          "value": "2000",
+          "answer": "What is Buffy the Vampire Slayer?"
+        }
+      ]
+    },
+    {
+      "name": "I'M JUST GOING TO LIE IN BED AND WATCH TV",
+      "questions": [
+        {
+          "question": "MONICA USES A SIGNATURE 'VAPORUB' PRODUCT TO ENTICE CHANDLER IN THE TV SHOW \"FRIENDS\" (ALSO FREQUENTLY USED BY SCOTT TOMPKINS)",
+          "value": "400",
+          "answer": "What is Vicks VapoRub?"
+        },
+        {
+          "question": "STUDENTS BECOME 'ZOMBIFIED' AFTER EATING AN UNIDENTIFIED HAZARDOUS MATERIAL, CODE-NAMED _________________. DEAN PELTON MISTOOK THE PACKAGES FOR TACO MEAT ARMY RATIONS AT A SURPLUS STORE.",
+          "value": "800",
+          "answer": "What is Classified Phoenix?"
+        },
+        {
+          "question": "HARRY POTTER SPENDS A NIGHT IN THE INFIRMARY AFTER PROFESSOR GILDEROY LOCKHART CASTS THIS SPELL, REMOVING THE BONES IN HARRY'S ARM",
+          "value": "1200",
+          "answer": "What is Brackium Emendo?",
+          "daily-double": false
+        },
+        {
+          "question": "IN THE MOVIE \"FERRIS BUELLER'S DAY OFF\", IN THE SCENE WHERE CAMERON IS LAYING IN HIS BED SICK, HE PARODIES THE INTRO OF THIS SONG",
+          "value": "1600",
+          "answer": "What is Go Down Moses (by Louis Armstrong)?"
+        },
+        {
+          "question": "NICK GETS A COLD AND SCHMIDT QUARANTINES THE ROOMMATES TO PREVENT HIMSELF FROM GETTING SICK BEFORE HIS BIG PRESENTATION IN THE TV SHOW NEW GIRL. WHAT DID STICKY NICKY EAT THAT LIKELY SPREAD THE COLD?",
+          "value": "2000",
+          "answer": "What are sticky raisins from Jess's purse that she confiscated from a child at school?"
+        }
+      ]
+    },
+    {
+      "name": "FASHIONISTAS",
+      "questions": [
+        {
+          "question": "THIS FICTIONAL CHARACTER IS KNOWN FOR HER INTEREST IN DALMATIAN COATS, BUT LESSER KNOWN BY HER REAL NAME 'ESTELLA'",
+          "value": "400",
+          "answer": "Who is Cruella DeVille?"
+        },
+        {
+          "question": "HE BECAME HEAD DESIGNER FOR GIVENCHY, AND IN 1999 HE FORMED A PARTNERSHIP WITH GUCCI. NOT TO BE CONFUSED WITH THE STAR OF PIXAR'S 'CARS'.",
+          "value": "800",
+          "answer": "Who is Alexander McQueen?"
+        },
+        {
+          "question": "IN 2011, HAL VAUGHAN PUBLISHED A BOOK ABOUT THIS FRENCH DESIGNER BASED ON NEWLY DECLASSIFIED DOCUMENTS, REVEALING THAT SHE HAD COLLABORATED DIRECTLY WITH THE NAZI INTELLIGENCE SERVICE, THE SICHERHEITSDIENST. ONE PLAN IN LATE 1943 WAS FOR HER TO CARRY AN SS PEACE OVERTURE TO CHURCHILL TO END THE WAR.",
+          "value": "1200",
+          "answer": "Who is Gabrielle \"Coco\" Chanel?"
+        },
+        {
+          "question": "THIS ICONIC-LOOKING DESIGNER WAS RECOGNIZED FOR HIS SIGNATURE WHITE HAIR, BLACK SUNGLASSES, FINGERLESS GLOVES, AND HIGH, STARCHED DETACHABLE COLLARS",
+          "value": "1600",
+          "answer": "Who is Karl Lagerfeld?",
+          "daily-double": true
+        },
+        {
+          "question": "FOUNDED BY AMANCIO ORTEGA IN 1975, _______ IS A FLAGSHIP CLOTHING CHAIN STORE OF THE WORLD'S LARGEST APPAREL RETAILER. AMANCIO ORTEGA OPENED THE FIRST STORE IN 1975 IN CENTRAL A CORUÑA, GALICIA, SPAIN WHERE THE COMPANY IS STILL BASED.",
+          "value": "2000",
+          "answer": "What is Zara?"
+        }
+      ]
+    },
+    {
+      "name": "CAGED",
+      "questions": [
+        {
+          "question": "",
+          "value": "400",
+          "answer": "What is Con Air?",
+          "image": "./images/conair.jpg"
+        },
+        {
+          "question": "",
+          "value": "800",
+          "answer": "What is Moonstruck?",
+          "image": "./images/moostruck.jpg"
+        },
+        {
+          "question": "",
+          "value": "1200",
+          "answer": "What is Raising Arizona?",
+          "image": "./images/raising-arizona.jpg"
+        },
+        {
+          "question": "",
+          "value": "1600",
+          "answer": "What is Kick-ass?",
+          "image": "./images/kickass.jpg"
+        },
+        {
+          "question": "",
+          "value": "2000",
+          "answer": "What is The Wicker Man?",
+          "image": "./images/wickerman.jpg"
+        }
+      ]
+    }
+  ],
+  "final-jeopardy": {
+    "answer": "Who is Ulysses S. Grant?",
+    "category": "OHIO",
+    "question": "Of the eight U.S. Presidents to come from Ohio, only one served two full terms, and four died in office. Which President served two full terms?"
+  }
+}
+

@@ -3,7 +3,7 @@ import random
 import json
 import argparse
 from ftfy import fix_text
-from pprint import pprint
+# from pprint import pprint
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--source-file', required=True)
@@ -14,7 +14,7 @@ with open(args.source_file) as data_file:
 
 rounds = ('jeopardy', 'double-jeopardy', 'final-jeopardy')
 
-options = [3,4,5,8,9,10,13,14,15,18,19,20,23,24,25,28,29,30]
+options = [3, 4, 5, 8, 9, 10, 13, 14, 15, 18, 19, 20, 23, 24, 25, 28, 29, 30]
 
 daily_double1 = random.choice(options)
 options.remove(daily_double1)
@@ -55,7 +55,7 @@ for round in rounds:
 
     if round == 'double-jeopardy':
         round_formatted = 'Double Jeopardy!'
-        i=1 
+        i=1
         for category in double_jeopardy_categories:
             category_object = { "name": category, "questions": [] }
             for value in double_jeopardy_values:

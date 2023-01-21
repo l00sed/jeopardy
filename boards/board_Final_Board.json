@@ -1,0 +1,374 @@
+{
+  "jeopardy": [
+    {
+      "name": "CREATURES OF THE GALAXY",
+      "questions": [
+        {
+          "question": "THIS CREATURE FACED BY HERCULES IS THE LARGEST CONSTELLATION IN THE NIGHT SKY",
+          "value": "200",
+          "answer": "What is a hydra?"
+        },
+        {
+          "question": "KASHYYK IS THE HOME PLANET OF THESE FURRY, YET FIERCE FIGHTERS",
+          "value": "400",
+          "answer": "What are wookie?"
+        },
+        {
+          "question": "NICK FURY LOSES HIS EYE AT THE CLAWS OF THIS ALIEN WITH A BOTTOMLESS BELLY",
+          "value": "600",
+          "answer": "What is a flerkin?"
+        },
+        {
+          "question": "KNOWHERE IS A CITY CONSTRUCTED INSIDE THE HEAD OF THIS MIGHTY BEING.",
+          "value": "800",
+          "answer": "What is a celestial?"
+        },
+        {
+          "question": "THESE HUMANOID, BLUE-SKINNED ALIENS INHABIT THE PLANET PANDORA",
+          "value": "1000",
+          "answer": "What are the Na'vi?"
+        }
+      ]
+    },
+    {
+      "name": "WINGSPAN",
+      "questions": [
+        {
+          "question": "THIS BIRD IS CLAIMED BY SEVEN STATES AS THEIR STATE BIRD, THE MOST OF ANY STATE BIRD",
+          "value": "200",
+          "answer": "what is cardinal"
+        },
+        {
+          "question": "THIS BIRD HAS THE WIDEST WINGSPAN OF ANY EXISTING BIRD",
+          "value": "400",
+          "answer": "what is the albatross"
+        },
+        {
+          "question": "THIS CRAYOLA CRAYON COLOR IS NAMED FOR THE PASTEL OF A PARTICULAR BIRD'S EGG",
+          "value": "600",
+          "answer": "what is robins egg blue"
+        },
+        {
+          "question": "THIS AUSTRALIAN BIRD IS NAMED FOR THE UNUSUAL LOUD LAUGHING CALL THAT IT MAKES",
+          "value": "800",
+          "answer": "what is kookaburra"
+        },
+        {
+          "question": "THIS HUMMINGBIRD VARIETY HOLDS THE RECORD FOR SMALLEST WINGSPAN, SO SMALL THAT IT IS NAMED AFTER AN INSECT",
+          "value": "1000",
+          "answer": "what is bee hummingbird"
+        }
+      ]
+    },
+    {
+      "name": "NAME THAT TOMPKINS",
+      "questions": [
+        {
+          "question": "CATHY'S MIDDLE NAME, BROTHER'S NAME, FATHER'S NAME, AND UNCLE'S NAME",
+          "value": "200",
+          "answer": "what is James or Jim"
+        },
+        {
+          "question": "POLISH PIEROGIS WERE PERFECTED AND HANDED DOWN FROM THIS FAMILY MEMBER",
+          "value": "400",
+          "answer": "who is Gigi or Bernadette"
+        },
+        {
+          "question": "FIRST COUSIN, ONCE-REMOVED, SHARES HIS NAME WITH FATHER OF THOR (DIFFERENT SPELLING)",
+          "value": "600",
+          "answer": "Who is Oden?"
+        },
+        {
+          "question": "A COMICBOOK ARTIST AND HONORARY \"TOMPKINS\" (NICKNAME IS A SKATEBOARD WITH HANDLES)",
+          "value": "800",
+          "answer": "Who is Scooter?"
+        },
+        {
+          "question": "THIS \"UNCLE\" IS A STAINED-GLASS ARTIST WHO COLLECTS WEAPONS, FOOD, STAMPS, BOOKS, AND ANTIQUITIES.",
+          "value": "1000",
+          "answer": "Who is Craig?"
+        }
+      ]
+    },
+    {
+      "name": "EXTRA-CURRICULARS",
+      "questions": [
+        {
+          "question": "THIS EXTRACURRICULAR HOBBY OF JULIA RESULTED IN A DRAWER FILLED OF FOLDED CRANES",
+          "value": "200",
+          "answer": "What is origami?"
+        },
+        {
+          "question": "DANIEL COMPETED IN THE JUNIOR OLYMPICS FOR THIS SPORT.",
+          "value": "400",
+          "answer": "What is archery?"
+        },
+        {
+          "question": "THE ONLY ORGANIZED SPORT CRISTINA EVER PARTICIPATED IN",
+          "value": "600",
+          "answer": "What is volleyball?"
+        },
+        {
+          "question": "ELIZABETH BROKE HER ARM DOING THIS SPORT IN 7TH GRADE",
+          "value": "800",
+          "answer": "What is horseback riding?"
+        },
+        {
+          "question": "THE ONLY NUCLEAR TOMPKINS TO PARTICIPATE IN A FENCING TEAM",
+          "value": "1000",
+          "answer": "Who is Scott?"
+        }
+      ]
+    },
+    {
+      "name": "Mahjong Gone Wrong?",
+      "questions": [
+        {
+          "question": "A LONG-TIME TOMPKINS FAVORITE KIDS GAME WHERE THE OBJECTIVE IS TO AVOID DROWNING A SMALL PLASTIC MAN",
+          "value": "200",
+          "answer": "What is Don't Break the Ice?"
+        },
+        {
+          "question": "THE TOMPKINS FAMILY HAS TEN EDITIONS OF THIS DVD-BASED MOVIE TRIVIA GAME",
+          "value": "400",
+          "answer": "What is Scene It?"
+        },
+        {
+          "question": "ANYA TAYLOR-JOY PLAYS A _____ PRODIGY IN A 2020 NETFLIX SERIES",
+          "value": "600",
+          "answer": "What is chess?"
+        },
+        {
+          "question": "FEATURED IN KNIVES OUT, THIS ANCIENT CHINESE GAME IS PLAYED WITH BLACK AND WHITE TILE PIECES",
+          "value": "800",
+          "answer": "What is go?"
+        },
+        {
+          "question": "THIS POPULAR KOREAN CHILDREN'S GAME INSPIRED A VIOLENT 2021 NETFLIX SERIES",
+          "value": "1000",
+          "answer": "What is Squid Games?"
+        }
+      ]
+    },
+    {
+      "name": "ELF ON A SHELF",
+      "questions": [
+        {
+          "question": "FIRST GRINDELWALD, ON A STAIRCASE TREAD",
+          "value": "200",
+          "answer": "What is Depp on a step?"
+        },
+        {
+          "question": "LIVE-ACTION GRINCH COMEDIC LEAD ON A LARGE AQUATIC COMMUTER VESSEL",
+          "value": "400",
+          "answer": "What is Carrey on a ferry?"
+        },
+        {
+          "question": "BALD ALWAYS SUNNY COMIC ON A FLAMIN' HOT SNACK",
+          "value": "600",
+          "answer": "What is Danny DeVito on a Cheeto?"
+        },
+        {
+          "question": "ATLANTA PRODUCER'S RAPPER NAME IN A GAMBLING PARLOR",
+          "value": "800",
+          "answer": "What is Gambino in a casino?"
+        },
+        {
+          "question": "SOUTH BEND MAYOR ON A PROMONTORY",
+          "value": "1000",
+          "answer": "What is Buttegieg on a ledge?",
+          "daily-double": true
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [
+    {
+      "name": "A WHITE MAN?!",
+      "questions": [
+        {
+          "question": "CECE LOST HER VIRGINITY TO THIS ROCK N' ROLLER.",
+          "value": "400",
+          "answer": "Who is Mick Jagger?"
+        },
+        {
+          "question": "THIS VIOLENT RUSSIAN BROKE SCHMIDT'S PENIS.",
+          "value": "800",
+          "answer": "Who is Nadia?"
+        },
+        {
+          "question": "THIS SLEEPWEAR ITEM IS MISIDENTIFIED BY NICK, AND JESS NAILS HIM FOR IT.",
+          "value": "1200",
+          "answer": "What is a long shirt?"
+        },
+        {
+          "question": "WINSTON'S WIFE, ALY, HAS A SECRET IN HER STORAGE UNIT, REVEALING HER INVOLVEMENT WITH THIS \"CROWD\".",
+          "value": "1600",
+          "answer": "What is Japanese game shows?"
+        },
+        {
+          "question": "THIS IS THE FULL NAME OF CECE AND SCHMIDT'S DAUGHTER.",
+          "value": "2000",
+          "answer": "Who is Ruth Bader Parikh-Schmidt?"
+        }
+      ]
+    },
+    {
+      "name": "BOOVIES",
+      "questions": [
+        {
+          "question": "A GOVERNESS TRAVELS TO THE SCOTTISH MOORS TO FIND A DRAGON EGG AND OVERTHROW GALBATORIX.",
+          "value": "400",
+          "answer": "What is Jane Eyragon?"
+        },
+        {
+          "question": "A BOOK COMES TO LIFE AS ITS WORDS FORM REAL FIGURES DURING THE ATROCITIES OF THE VIETNAM WAR.",
+          "value": "800",
+          "answer": "What is Inkheart of Darkness?"
+        },
+        {
+          "question": "EVERYONE IS TURNING INTO WEREWOLVES SINCE THE VAMPIRES CAME TO TOWN, BUT THIS ITALIAN-AMERICAN FAMILY IS STILL STRUGGLING TO FIND A HUSBAND FOR THEIR DAUGHTER IN NYC.",
+          "value": "1200",
+          "answer": "What is Twilight, New MoonStruck?"
+        },
+        {
+          "question": "WHEN HER FATHER GOES TO WAR, A GIRL GOES TO LIVE IN AN ABUSIVE ORPHANAGE WHERE SHE DISCOVERS THAT SHE IS THE HEIR TO THE THRONE OF GENOVIA.",
+          "value": "1600",
+          "answer": "What is The Little Princess Diaries?",
+          "daily-double": true
+        },
+        {
+          "question": "IN ORDER TO SAVE KAI, GERTA TRAVELS THROUGH THE SEASONS INTO THE MYSTICAL REALM OF THE CENTRAL AMERICAN DRUG TRADE.",
+          "value": "2000",
+          "answer": "What is The Snow Queen of the South?"
+        }
+      ]
+    },
+    {
+      "name": "DON'T BREAK THE TOMPKINS",
+      "questions": [
+        {
+          "question": "DANIEL FRACTURED HIS WRIST AT THE MOOSE LODGE WHILE DOING THIS FORM OF INTERPRETIVE METAL DANCE",
+          "value": "400",
+          "answer": "WHAT IS MOSHING?"
+        },
+        {
+          "question": "SCOTT CUT HIS FOOT OPEN AFTER STEPPING ON A GLASS BOTTLE OF THIS, A PRIMARY PICKLING INGREDIENT",
+          "value": "800",
+          "answer": "What is vinegar?"
+        },
+        {
+          "question": "A BICYCLE-RIDING CHILD FRACTURED ELIZABETH'S ELBOW WHEN THEY COLLIDED IN THIS MAJOR METROPOLITAN PARK.",
+          "value": "1200",
+          "answer": "WHAT IS CENTRAL PARK?"
+        },
+        {
+          "question": "CRISTINA BROKE OUT WITH THESE ITCHY RED POCKS WHILE COMPLETING HER COLLEGE APPLICATIONS",
+          "value": "1600",
+          "answer": "What is shingles?"
+        },
+        {
+          "question": "JULIA WAS WALKING DOWN THE STAIRS WHEN SHE BROKE THIS APPENDAGE",
+          "value": "2000",
+          "answer": "WHAT IS A FOOT?"
+        }
+      ]
+    },
+    {
+      "name": "FAMILY FEUDALISM",
+      "questions": [
+        {
+          "question": "KILLED HIS BROTHER TO INHERIT THE THRONE, BEARS AN IDENTIFYING SCAR ACROSS HIS EYE",
+          "value": "400",
+          "answer": "Who is Scar?"
+        },
+        {
+          "question": "THE STARKS WERE AT WAR WITH THIS LION-CRESTED HOUSE AFTER CATCHING AN ASSASSIN WIELDING ONE OF THEIR DAGGERS",
+          "value": "800",
+          "answer": "Who are the Lannisters?"
+        },
+        {
+          "question": "THIS USURPER ATTEMPTED TO STEAL THE THRONE FROM ELSA AND ANNA",
+          "value": "1200",
+          "answer": "Who is Prince Hans?"
+        },
+        {
+          "question": "THE STEWARD OF GONDOR, HOPELESS AT THE DEATH OF HIS FIRST-BORN AND THE RUIN OF HIS CITY, ATTEMPTED TO BURN HIMSELF ALIVE UPON THE FUNERAL PYRE OF THIS OTHER (STILL-LIVING) SON",
+          "value": "1600",
+          "answer": "Who is Faramir?"
+        },
+        {
+          "question": "THE GIANT KING (GURG), KARKUS, WAS KILLED AND REPLACED AS GURG BY THIS USURPER",
+          "value": "2000",
+          "answer": "Who is Golgomath?"
+        }
+      ]
+    },
+    {
+      "name": "JIMMY JABS",
+      "questions": [
+        {
+          "question": "JAKE PROPOSES TO AMY USING THIS PROP FROM THE HALLOWEEN HEIST",
+          "value": "400",
+          "answer": "What is the champion's cumberbund?"
+        },
+        {
+          "question": "NIKOLAJ BOYLE WAS ADOPTED FROM THIS COUNTRY WHICH TOUCHES THE BALTIC SEA",
+          "value": "800",
+          "answer": "What is Latvia?",
+          "daily-double": true
+        },
+        {
+          "question": "JAKE'S CELLMATE, CALEB, WAS KNOWN FOR THIS DISTURBING DIETARY PRACTICE",
+          "value": "1200",
+          "answer": "What is cannibalism?"
+        },
+        {
+          "question": "CHARLES BOYLE'S DOPPELGANGER",
+          "value": "1600",
+          "answer": "Who is Bill Hummertrout?"
+        },
+        {
+          "question": "CAPTAIN HOLT'S MIDDLE NAME",
+          "value": "2000",
+          "answer": "What is Jacob?"
+        }
+      ]
+    },
+    {
+      "name": "CAPITAL!",
+      "questions": [
+        {
+          "question": "BOGOTA",
+          "value": 400,
+          "answer": "What is Colombia?"
+        },
+        {
+          "question": "BUCHAREST",
+          "value": 800,
+          "answer": "What is Romania?"
+        },
+        {
+          "question": "ANTANANARIVO",
+          "value": 1200,
+          "answer": "What is Madagascar?"
+        },
+        {
+          "question": "NUUK",
+          "value": 1600,
+          "answer": "What is Greenland?"
+        },
+        {
+          "question": "ULAN BATOR",
+          "value": 2000,
+          "answer": "What is Mongolia?"
+        }
+      ]
+    }
+  ],
+  "final-jeopardy": {
+    "answer": "THIS \"ESTABLISHED\" YEAR IS PROMINENTLY FEATURED ON THE WOODEN CALENDAR IN THE TOMPKINS KITCHEN",
+    "category": "TOMPKINS FAMILY HISTORY",
+    "question": "What is 1990"
+  }
+}

@@ -1,0 +1,26 @@
+{  "jeopardy": [
+    {
+      "name": "AN ALBUM COVER",
+      "questions": [
+        {
+          "question": "THE BEATLES WHITE ALBUM IS THIS COLOR.",
+          "value": 200,
+          "answer": "Who are the Beatles?",
+          "image": "./images/crescendo.gif"
+        },
+        {
+          "question": "THE BEATLES WHITE ALBUM IS THIS COLOR.",
+          "value": 0,
+          "answer": "Who are the Beatles?"
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [],
+  "final-jeopardy": {
+    "answer": "Who is some guy in Normandy But I just won $75,000!",
+    "category": "MILITARY MEN",
+    "question": "On June 6, 1944 he said, \"The eyes of the world are upon you\""
+  }
+}
+

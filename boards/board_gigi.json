@@ -1,0 +1,374 @@
+{
+  "jeopardy": [
+    {
+      "name": "SCRABBLE",
+      "questions": [
+        {
+          "question": "THIS GAME COMPANY SELLS SCRABBLE, CANDYLAND, MONOPOLY AND OTHER MAJOR TABLE-TOPS",
+          "value": "200",
+          "answer": "Hasbro"
+        },
+        {
+          "question": "GIGI LIKED TO OPTIMIZE HER WORD SELECTION BY PLAYING WITH THIS UNOFFICIAL \"HOUSE\" RULE",
+          "value": "400",
+          "answer": "Bartering/Trading tiles"
+        },
+        {
+          "question": "SCRABBLE REACHED MAINSTREAM AUDIENCES WHEN IT SOLD AT THIS MAJOR DEPARTMENT STORE, TWO DECADES AFTER ITS INVENTION",
+          "value": "600",
+          "answer": "Macy's"
+        },
+        {
+          "question": "AMERICA'S FAVORITE CROSSWORD BOARDGAME WAS INVENTED IN THIS DECADE",
+          "value": "800",
+          "answer": "1930s (1933)"
+        },
+        {
+          "question": "THE POPULAR WORD GAME \"SCRABBLE\" WAS PREVIOUSLY NAMED THIS",
+          "value": "1000",
+          "answer": "Lexico"
+        }
+      ]
+    },
+    {
+      "name": "POLSKI PROVISIONS",
+      "questions": [
+        {
+          "question": "THIS FOOD LIKELY ORIGINATED IN CHINA BUT WAS ADOPTED BY EUROPEANS IN THE MIDDLE AGES",
+          "value": "200",
+          "answer": "Pierogi"
+        },
+        {
+          "question": "THE CHRISTMAS EVE DINNER TABLE WAS OFTEN ADORNED WITH THIS KIND OF SAVORY GRAVY",
+          "value": "400",
+          "answer": "Mushroom"
+        },
+        {
+          "question": "THIS MEATY DISH TRANSLATES TO \"LITTLE PIGEONS\"",
+          "value": "600",
+          "answer": "Gołąbki (stuffed cabbage)",
+          "daily-double": true
+        },
+        {
+          "question": "CREAM CHEESE IS A KEY INGREDIENT IN THIS FOLDED FOOD",
+          "value": "800",
+          "answer": "Kolaczki"
+        },
+        {
+          "question": "DISTINCTIVE FOR ITS GARLIC FLAVOR; VARIATIONS MIGHT FEATURE PIMENTO OR JUNIPER",
+          "value": "1000",
+          "answer": "Kielbasy"
+        }
+      ]
+    },
+    {
+      "name": "CHICAGO",
+      "questions": [
+        {
+          "question": "THE SOM-DESIGNED RACETRACK, SLATED FOR DEMOLITION, IS TO BE THE NEW HOME FOR THE BEARS-- CHICAGO'S NFL TEAM",
+          "value": "200",
+          "answer": "Arlington International Racetrack"
+        },
+        {
+          "question": "\"FERRIS BUELLER'S DAY OFF\" INCLUDES A VISIT TO THIS MUSEUM, WITH A PEEK AT ITS FAMOUS SEURAT",
+          "value": "400",
+          "answer": "The Art Institute of Chicago"
+        },
+        {
+          "question": "IN 1890 THIS DEPARTMENT STORE FOUNDER DONATED THE LAND FOR THE UNIVERSITY OF CHICAGO",
+          "value": "600",
+          "answer": "Marshall Field"
+        },
+        {
+          "question": "REMOVE 1 LETTER FROM THE NAME OF A PLAZA IN DALLAS & YOU GET THIS PLAZA IN CHICAGO'S LOOP",
+          "value": "800",
+          "answer": "Daley Plaza"
+        },
+        {
+          "question": "IN 2004, TO BENEFIT THE CITY'S CULTURAL LIFE, E-BAY SPONSORED A CHARITY AUCTION CALLED THE \"GREAT CHICAGO\" THIS SALE",
+          "value": "1000",
+          "answer": "fire"
+        }
+      ]
+    },
+    {
+      "name": "CROSSWORD CLUES \"G\"",
+      "questions": [
+        {
+          "question": "DAVID DOWNED HIM (7)",
+          "value": "200",
+          "answer": "Goliath"
+        },
+        {
+          "question": "HE HORSES AROUND WITH THE BRIDE (5)",
+          "value": "400",
+          "answer": "Groom"
+        },
+        {
+          "question": "A WREATH, PERHAPS FOR SINGER JUDY (7)",
+          "value": "600",
+          "answer": "Garland"
+        },
+        {
+          "question": "SAND, OR \"TRUE\" NERVE (4)",
+          "value": "800",
+          "answer": "Grit"
+        },
+        {
+          "question": "\"REPTILIAN\" THIRST QUENCHER (8)",
+          "value": "1000",
+          "answer": "Gatorade"
+        }
+      ]
+    },
+    {
+      "name": "BURGER JOINTS",
+      "questions": [
+        {
+          "question": "HAMBURGER UNIVERSITY, THIS CHAIN'S TRAINING CENTER, OPENED IN 1961 IN ELK GROVE VILLAGE, ILLINOIS",
+          "value": "200",
+          "answer": "McDonald's"
+        },
+        {
+          "question": "THE CATCHPHRASE \"WHERE'S THE BEEF?\" CAME FROM ADS FOR THIS CHAIN NOTED FOR ITS SQUARE BURGERS",
+          "value": "400",
+          "answer": "Wendy's"
+        },
+        {
+          "question": "IN THE '70S THE TITLE FIGURE OF THIS FRANCHISE GOT SOME COMPANIONS:  SIR SHAKES A LOT & THE WIZARD OF FRIES",
+          "value": "600",
+          "answer": "Burger King"
+        },
+        {
+          "question": "THE CRAVING FOR BURGERS FROM THIS CHAIN IS SO STRONG THAT IT WAS IN THE TITLE OF A HAROLD & KUMAR FILM",
+          "value": "800",
+          "answer": "White Castle"
+        },
+        {
+          "question": "IN A 1980 TV COMMERCIAL, THIS BURGER JOINT BLEW UP ITS ICONIC SPEAKERBOX CLOWN (HE WAS LATER RESUSCITATED)",
+          "value": "1000",
+          "answer": "Jack in the Box"
+        }
+      ]
+    },
+    {
+      "name": "YOU SELL IT, GIRL!",
+      "questions": [
+        {
+          "question": "THANKS TO ARTISTIC SURGERY, THIS COMPANY'S GIRL DOESN'T LOOK HER AGE; SHE'S 109",
+          "value": "200",
+          "answer": "Morton Salt"
+        },
+        {
+          "question": "FOR A LONG TIME M&M HAD ONLY ONE FEMALE CANDY THAT FEATURED A SUGARY SHELL OF THIS HUE",
+          "value": "400",
+          "answer": "Green"
+        },
+        {
+          "question": "YOU POUR THE PANCAKE SYRUP RIGHT OUT OF THE TOP OF THE LADY'S HEAD WITH THIS BRAND'S BOTTLE",
+          "value": "600",
+          "answer": "Mrs. Butterworth"
+        },
+        {
+          "question": "FOR THIS COMPANY, SHE MAY BE ONLY 10, BUT SHE'LL PROBABLY BE AN SPF 30 OR 45",
+          "value": "800",
+          "answer": "Coppertone"
+        },
+        {
+          "question": "YOU'D FIGURE THIS BRAND WOULD WANT SOMEONE DRIED UP, BUT NO!",
+          "value": "1000",
+          "answer": "Sun Maid Raisins"
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [
+    {
+      "name": "\"GG\"",
+      "questions": [
+        {
+          "question": "A VEGETABLE FEATURED IN SUGGESTIVE TEXT MESSAGES",
+          "value": "400",
+          "answer": "eggplant"
+        },
+        {
+          "question": "M.C. HAMMER'S PANTS",
+          "value": "800",
+          "answer": "baggy"
+        },
+        {
+          "question": "SATURATED WITH WATER",
+          "value": "1200",
+          "answer": "waterlogged"
+        },
+        {
+          "question": "LAVENDAR AND RON'S FAVORITE ACTIVITY IN \"THE HALF BLOOD PRINCE\"",
+          "value": "1600",
+          "answer": "snogging",
+          "daily-double": true
+        },
+        {
+          "question": "A POLITICAL CANDIDATE RUNNING IN AN AREA WHERE THEY HAVE NO LOCAL CONNECTIONS",
+          "value": "2000",
+          "answer": "carpetbagger"
+        }
+      ]
+    },
+    {
+      "name": "IT REALLY HAPPENED",
+      "questions": [
+        {
+          "question": "AN UNLIKELY EQUINE BECOMES ONE OF THE MOST SUCCESSFUL THOROUGHBREDS OF ALL TIME (2003)",
+          "value": "400",
+          "answer": "Seabiscuit"
+        },
+        {
+          "question": "A HIGH SCHOOL IS FORCED TO INTEGRATE ITS FOOTBALL TEAM (2000)",
+          "value": "800",
+          "answer": "Remember the Titans"
+        },
+        {
+          "question": "PRINCE ALBERT MUST OVERCOME A STUTTER AS HE ASCENDS TO THE THRONE (2010)",
+          "value": "1200",
+          "answer": "The King's Speech"
+        },
+        {
+          "question": "SERENA AND VENUS' AMBITIOUS FATHER COACHES THEM TO SUCCESS AGAINST ALL ODDS (2021)",
+          "value": "1600",
+          "answer": "King Richard"
+        },
+        {
+          "question": "A HOMELESS BLACK TEEN REALIZES HIS POTENTIAL AS A FOOTBALL PLAYER WHEN HE'S TAKEN IN BY THE TUOHY FAMILY (2009)",
+          "value": "2000",
+          "answer": "The Blindside"
+        }
+      ]
+    },
+    {
+      "name": "NOTABLE WOMEN",
+      "questions": [
+        {
+          "question": "THIS AVIATOR LIKED TO BE CALLED A.E.",
+          "value": "400",
+          "answer": "Amelia Earhart"
+        },
+        {
+          "question": "SHE WAS NAMED FOR HER BIRTHPLACE: WINONA, MINNESOTA",
+          "value": "800",
+          "answer": "Winona Rider"
+        },
+        {
+          "question": "AS HEAD OF HARPO ENTERTAINMENT, SHE'S THE FIRST AFRICAN-AMERICAN WOMAN TO OWN HER OWN STUDIOS",
+          "value": "1200",
+          "answer": "Oprah Winfrey"
+        },
+        {
+          "question": "THIS FIRST WOMAN ON THE SUPREME COURT LEFT THE COURT IN 2006",
+          "value": "1600",
+          "answer": "Sandra Day O'Connor"
+        },
+        {
+          "question": "IN 1995 THIS NOBEL PEACE LAUREATE VISITED THE U.S. & HELPED OPEN AN AIDS HOSPICE FOR WOMEN & CHILDREN",
+          "value": "2000",
+          "answer": "Mother Theresa"
+        }
+      ]
+    },
+    {
+      "name": "2-LETTER SCRABBLE WORDS",
+      "questions": [
+        {
+          "question": "IT'S USED TO EXPRESS DISMAY OR PAIN, ESPECIALLY IN YIDDISH",
+          "value": "400",
+          "answer": "oy"
+        },
+        {
+          "question": "SACRED SYLLABLE UTTERED AS A MANTRA DURING MEDITATION",
+          "value": "800",
+          "answer": "om"
+        },
+        {
+          "question": "A PART OF THE PSYCHE",
+          "value": "1200",
+          "answer": "id"
+        },
+        {
+          "question": "SOMEONE'S SWEETHEART (OR THE FIRST NAME OF THE TOMBOYISH HEROINE OF \"LITTLE WOMEN\")",
+          "value": "1600",
+          "answer": "Jo"
+        },
+        {
+          "question": "EVEN WITHOUT PLAYING IT ON A SPECIAL SQUARE, THIS GREEK LETTER WILL GET YOU 9 POINTS",
+          "value": "2000",
+          "answer": "xi"
+        }
+      ]
+    },
+    {
+      "name": "GINGER ALE",
+      "questions": [
+        {
+          "question": "THIS MOCKTAIL IS GINGER ALE & GRENADINE, GARNISHED WITH A MARASCHINO CHERRY",
+          "value": "400",
+          "answer": "a Shirley Temple"
+        },
+        {
+          "question": "IN 1938 CLICQUOT CLUB GINGER ALE WAS THE FIRST SOFT DRINK SOLD IN THESE",
+          "value": "800",
+          "answer": "cans"
+        },
+        {
+          "question": "THE LOGO OF THIS GINGER ALE BRAND ONCE FEATURED THE OUTLINE OF NORTH AMERICA",
+          "value": "1200",
+          "answer": "Canada Dry",
+          "daily-double": true
+        },
+        {
+          "question": "SCHWEPPES, A POPULAR GINGER ALE SELLER, ALSO SELLS THIS PRODUCT-- THE PERFECT ACCOMPANIMENT TO GIN",
+          "value": "1600",
+          "answer": "tonic"
+        },
+        {
+          "question": "YOU'RE OFF TO THE RACES IN UPSTATE N.Y. WITH THIS DRINK OF GINGER ALE, SUGAR, BITTERS & LEMON JUICE",
+          "value": "2000",
+          "answer": "a Saratoga"
+        }
+      ]
+    },
+    {
+      "name": "CARD GAMES",
+      "questions": [
+        {
+          "question": "IT'S THE NUMERICAL ALTERNATE NAME FOR BLACKJACK",
+          "value": "400",
+          "answer": "21"
+        },
+        {
+          "question": "IN OTHER WORDS, THIS GAME COULD BE CALLED \"BLOOD-PUMPING ORGANS\"",
+          "value": "800",
+          "answer": "hearts"
+        },
+        {
+          "question": "IT'S A FORM OF AUTHORS FOR KIDS; PLAYING IT YOU MAY ASK ANOTHER PLAYER, \"DO YOU HAVE ANY TWOS?\"",
+          "value": "1200",
+          "answer": "Go Fish"
+        },
+        {
+          "question": "THIS GAME HAS THE SAME NAME AS A SPANISH NUMBER, WHICH YOU MUST YELL ONCE YOU GET DOWN TO ONE CARD LEFT",
+          "value": "1600",
+          "answer": "Uno"
+        },
+        {
+          "question": "GET YOUR ACES UP TOP 7 TRY TO UNLOCK THE DECK IN THE KLONDIKE VERSION OF THIS SINGLE-PLAYER GAME",
+          "value": "2000",
+          "answer": "Solitaire"
+        }
+      ]
+    }
+  ],
+  "final-jeopardy": {
+    "answer": "Restoration Hardware",
+    "category": "ONLY THE BEST",
+    "question": "Gigi gave \"only the best\" gifts on Christmas Eve; many came from this luxury homegoods seller"
+  }
+}
