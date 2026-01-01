@@ -19,7 +19,7 @@ function getCookie(name) {
 	return null;
 }
 
-function eraseCookie(name) {   
+function eraseCookie(name) {
     document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 }
 
@@ -34,6 +34,46 @@ $(function(){
 		openingRockTheme.play();
         // openingTheme.play();
 	}
+    // Function to initialize game with loaded data
+    function initializeGame(data) {
+        jsonData = data;
+        currentBoard = jsonData[rounds[currentRound]];
+
+        var player1 = $('#player1-input').val();
+        var player2 = $('#player2-input').val();
+        var player3 = $('#player3-input').val();
+
+        setCookie('player1', player1);
+        setCookie('player2', player2);
+        setCookie('player3', player3);
+
+        player1 = getCookie('player1');
+        player2 = getCookie('player2');
+        player3 = getCookie('player3');
+
+        $('.player-1-name').html( player1 );
+        $('.player-2-name').html( player2 );
+        $('.player-3-name').html( player3 );
+
+        $('.player-1-wager').attr('placeholder', player1+' Wager');
+        $('.player-2-wager').attr('placeholder', player2+' Wager');
+        $('.player-3-wager').attr('placeholder', player3+' Wager');
+
+        playerTranslation = {1: player1, 2: player2, 3: player3}
+
+        $("#player-1-name").empty().text(playerTranslation[1]);
+        $("#player-2-name").empty().text(playerTranslation[2]);
+        $("#player-3-name").empty().text(playerTranslation[3]);
+        loadBoard();
+        openingTheme.pause();
+        openingTheme.currentTime = 0;
+        openingRockTheme.pause();
+        openingRockTheme.currentTime = 0;
+        var boardFillSound = new Audio('./sounds/board_fill.mp3');
+        boardFillSound.play();
+        $('#game-load-modal').modal('hide');
+    }
+
     $('#game-load-input-button').click(function(){
         var file = $('#input-file').prop('files')[0];
         if ($('#input-file').val() !== '') {
@@ -42,48 +82,64 @@ $(function(){
             reader.onload = function(){
                 var fileText = reader.result;
                 var data = $.parseJSON(fileText);
-                jsonData = data;
-                currentBoard = jsonData[rounds[currentRound]];
-
-								var player1 = $('#player1-input').val();
-								var player2 = $('#player2-input').val();
-								var player3 = $('#player3-input').val();
-
-								setCookie('player1', player1);
-								setCookie('player2', player2);
-								setCookie('player3', player3);
-
-								player1 = getCookie('player1');
-								player2 = getCookie('player2');
-								player3 = getCookie('player3');
-
-								$('.player-1-name').html( player1 );
-								$('.player-2-name').html( player2 );
-								$('.player-3-name').html( player3 );
-
-								$('.player-1-wager').attr('placeholder', player1+' Wager');
-								$('.player-2-wager').attr('placeholder', player2+' Wager');
-								$('.player-3-wager').attr('placeholder', player3+' Wager');
-
-                playerTranslation = {1: player1, 2: player2, 3: player3}
-
-                $("#player-1-name").empty().text(playerTranslation[1]);
-                $("#player-2-name").empty().text(playerTranslation[2]);
-                $("#player-3-name").empty().text(playerTranslation[3]);
-                loadBoard();
-                openingTheme.pause();
-                openingTheme.currentTime = 0;
-                openingRockTheme.pause();
-                openingRockTheme.currentTime = 0;
-                var boardFillSound = new Audio('./sounds/board_fill.mp3');
-                boardFillSound.play();
-                $('#game-load-modal').modal('hide');
+                initializeGame(data);
             }
             reader.onerror = function(e){
                 $('#game-load-error').text("Error: "+ e).show();
             };
-
         }
+    });
+
+    $('#generate-random-board-button').click(function(){
+        var difficulty = $('#difficulty-select').val();
+        var $button = $(this);
+        var originalText = $button.text();
+        
+        $('#random-board-status').show();
+        $button.prop('disabled', true).text('Generating...');
+        $('#game-load-error').hide();
+
+        // Call the Python server API to generate a fresh board (port 8000)
+        $.ajax({
+            url: 'http://localhost:8000/api/generate-board?difficulty=' + difficulty,
+            dataType: 'json',
+            cache: false,
+            timeout: 30000,  // 30 second timeout for board generation
+            success: function(data) {
+                $('#random-board-status').hide();
+                $button.prop('disabled', false).text(originalText);
+                initializeGame(data);
+            },
+            error: function(xhr, status, error) {
+                $('#random-board-status').hide();
+                $button.prop('disabled', false).text(originalText);
+
+                var errorMsg = '<strong>Failed to generate random board!</strong><br><br>';
+
+                console.log('Error details:', {status: xhr.status, statusText: xhr.statusText, error: error});
+
+                if (xhr.status === 0) {
+                    errorMsg += '<p>❌ Cannot connect to Python server on port 8000.</p>' +
+                               '<p><strong>The board_server.py is not running!</strong></p>' +
+                               '<p>To fix this, open Terminal and run:</p>' +
+                               '<pre style="background:#f4f4f4;padding:10px;margin:10px 0;">cd /Users/dwtompkins/Downloads/jeopardy\npython3 board_server.py</pre>' +
+                               '<p>Then refresh this page and try again.</p>';
+                } else if (xhr.status === 404) {
+                    errorMsg += '<p>❌ API endpoint not found (404)</p>' +
+                               '<p>The Python server is running but <code>/api/generate-board</code> endpoint returned 404.</p>' +
+                               '<p>Make sure you\'re using the correct board_server.py file.</p>';
+                } else if (xhr.status === 500) {
+                    errorMsg += '<p>❌ Server error (500)</p>' +
+                               '<p>The server encountered an error while generating the board.</p>' +
+                               '<p>Check the terminal where board_server.py is running for error details.</p>';
+                } else {
+                    errorMsg += '<p>❌ Error ' + xhr.status + ': ' + (xhr.statusText || error) + '</p>' +
+                               '<p>Status: ' + status + '</p>';
+                }
+
+                $('#game-load-error').html(errorMsg).show();
+            }
+        });
     });
     $('#kill-music-button').click(function(){
         openingTheme.pause();
@@ -154,9 +210,35 @@ $(function(){
             else {
                 $('#question-image').empty().hide();
             }
+
+            // Handle YouTube URL
+            var youtubeUrl = currentBoard[category].questions[question].youtube;
+            var isAudioOnly = currentBoard[category].questions[question]['audio-only'];
+            if (youtubeUrl) {
+                var videoId = extractYouTubeVideoId(youtubeUrl);
+                if (videoId) {
+                    if (isAudioOnly) {
+                        // Audio only mode - hide video player but still play audio
+                        $('#question-youtube').empty().append(
+                            '<iframe width="0" height="0" src="https://www.youtube.com/embed/' +
+                            videoId + '?autoplay=1&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="display:none;"></iframe>'
+                        ).show();
+                    } else {
+                        // Normal mode - show video player
+                        $('#question-youtube').empty().append(
+                            '<iframe width="560" height="315" src="https://www.youtube.com/embed/' +
+                            videoId + '?autoplay=1&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+                        ).show();
+                    }
+                } else {
+                    $('#question-youtube').empty().hide();
+                }
+            } else {
+                $('#question-youtube').empty().hide();
+            }
+
             $('#answer-text').text(answer).hide();
             $('#question-modal').modal('show');
-            //resizeAnswerModal();
             //$('#answer-close-button').hide().data('question', question).data('category', category);
             $('#answer-close-button').data('question', question).data('category', category);
             $('#answer-show-button').show();
@@ -186,9 +268,35 @@ $(function(){
                 else {
                     $('#question-image').empty().hide();
                 }
+
+                // Handle YouTube URL for daily double
+                var youtubeUrl = currentBoard[category].questions[question].youtube;
+                var isAudioOnly = currentBoard[category].questions[question]['audio-only'];
+                if (youtubeUrl) {
+                    var videoId = extractYouTubeVideoId(youtubeUrl);
+                    if (videoId) {
+                        if (isAudioOnly) {
+                            // Audio only mode - hide video player but still play audio
+                            $('#question-youtube').empty().append(
+                                '<iframe width="0" height="0" src="https://www.youtube.com/embed/' +
+                                videoId + '?autoplay=1&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="display:none;"></iframe>'
+                            ).show();
+                        } else {
+                            // Normal mode - show video player
+                            $('#question-youtube').empty().append(
+                                '<iframe width="560" height="315" src="https://www.youtube.com/embed/' +
+                                videoId + '?autoplay=1&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+                            ).show();
+                        }
+                    } else {
+                        $('#question-youtube').empty().hide();
+                    }
+                } else {
+                    $('#question-youtube').empty().hide();
+                }
+
                 $('#answer-text').text(answer).hide();
                 $('#question-modal').modal('show');
-                //resizeAnswerModal();
                 //$('#answer-close-button').hide().data('question', question).data('category', category);
                 $('#answer-close-button').data('question', question).data('category', category);
                 $('#answer-show-button').show();
@@ -199,10 +307,6 @@ $(function(){
 
             }
         });
-		//$('#question-modal').on('loaded.bs.modal', resizeAnswerModal());
-		$('#question-modal').on('shown.bs.modal', function (e) {
-		  resizeAnswerModal();
-		})
         handleAnswer();
     });
     $('#score-adjust').click(function(){
@@ -290,6 +394,13 @@ function resetTimer() {
     isTimerActive = false;
     timerCount = 0;
     $('.timer-square').css('background-color', 'black');
+}
+
+function extractYouTubeVideoId(url) {
+    // Handle various YouTube URL formats
+    var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+    var match = url.match(regExp);
+    return (match && match[7].length == 11) ? match[7] : null;
 }
 
 function adjustScores(){
@@ -424,20 +535,6 @@ function loadBoard() {
     */
 }
 
-function resizeAnswerModal() {
-    var otherHeights = ($('#question-modal-content .modal-header, #question-modal-content .modal-footer').map(function(){return $(this).outerHeight();}));
-    var totalModalHeight = $('#question-modal-content').height();
-    for(var i=0; i < otherHeights.length; i++) { totalModalHeight -= otherHeights[i]; }
-    var modalBodyObj = $('#question-modal-content .modal-body');
-    var modalBodyPadding = modalBodyObj.innerHeight() - modalBodyObj.height();
-    //modalBodyObj.outerHeight(totalModalHeight);
-    modalBodyObj.css('height',(totalModalHeight - modalBodyPadding)); // Adjust again for padding
-
-    questionCenterPadding = ($('#question-modal-body').height() - ($('#question-image').height() + $('#question').height()))/2;
-    $('#question').css('padding-top', questionCenterPadding);
-
-}
-
 function handleAnswer(){
     $('.score-button').unbind("click").click(function(e){
         e.stopPropagation();
@@ -472,7 +569,6 @@ function handleAnswer(){
     $('#answer-show-button').click(function(){
         $(this).hide();
         $('#answer-text').show();
-        resizeAnswerModal();
         //$('#answer-close-button').show();
     });
     $('#answer-close-button').click(function(){
@@ -480,6 +576,11 @@ function handleAnswer(){
             $(this).data('question') + '"]')[0];
         $(tile).empty().append('&nbsp;<div class="clearfix"></div>').removeClass('unanswered').unbind().css('cursor','not-allowed');
         $('#question-modal').modal('hide');
+    });
+
+    // Stop YouTube video when modal is closed
+    $('#question-modal').on('hidden.bs.modal', function () {
+        $('#question-youtube').empty();
     });
 
     $('#timer-grid').unbind("click").click(function(e){
@@ -523,7 +624,6 @@ function handleFinalAnswer(){
     $('#final-answer-show-button').click(function(){
         $(this).hide();
         $('#final-jeopardy-modal-answer').show();
-        //resizeAnswerModal();
         //$('#answer-close-button').show();
     });
 }

@@ -1,0 +1,22 @@
+{
+  "name": "jeopardy",
+  "version": "1.0.0",
+  "description": "Jeopardy game board with browser-sync development server",
+  "main": "server.js",
+  "scripts": {
+    "start": "concurrently \"python3 server.py\" \"wait-on http://localhost:8000 && browser-sync start --config bs-config.js\"",
+    "dev": "npm start"
+  },
+  "keywords": [
+    "jeopardy",
+    "game",
+    "trivia"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "concurrently": "^8.2.2",
+    "wait-on": "^7.2.0"
+  }
+}

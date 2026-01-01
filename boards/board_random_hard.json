@@ -1,0 +1,344 @@
+{
+    "jeopardy": [
+        {
+            "name": "READ ON",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'THIS TYPE OF WORK HOLDING UP HUMAN FOLLIES TO HUMOROUS CRITICISM WAS ONCE DIVIDED INTO \"GENTLE\" OR \"INDIGNANT\"'",
+                    "answer": "satire"
+                },
+                {
+                    "value": 600,
+                    "question": "'FROM THE LATIN FOR \"SHEPHERD\", IT'S A LITERARY WORK IDEALIZING RURAL LIFE'",
+                    "answer": "a pastoral"
+                },
+                {
+                    "value": 800,
+                    "question": "'IT'S AN EXALTED VERSE POEM DEALING WITH A SINGLE DIGNIFIED THEME; PINDAR & KEATS WERE EXPERT PRACTITIONERS'",
+                    "answer": "an ode"
+                },
+                {
+                    "value": 1000,
+                    "question": "'3-WORD FRENCH TERM FOR A NOVEL WITH THINLY DISGUISED DEPICTIONS OF REAL PEOPLE'",
+                    "answer": "roman à clef"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THIS TERM FOR LOVE-THEMED WORKS ALSO REFERS TO THE GROUP OF LANGUAGES DERIVED FROM LATIN'",
+                    "answer": "romance"
+                }
+            ]
+        },
+        {
+            "name": "BRIT-POURRI",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'THE FOURTH KING OF THIS NAME RULED BRITANNIA FROM 1399 TO 1413'",
+                    "answer": "Henry"
+                },
+                {
+                    "value": 600,
+                    "question": "'IN OFFICE FOR 11 YEARS, THIS BRITISH PRIME MINISTER WAS THE LONGEST SERVING OF THE 20TH CENTURY'",
+                    "answer": "Thatcher"
+                },
+                {
+                    "value": 800,
+                    "question": "'THIS \"NEW\" LAW ENFORCEMENT AGENCY IS HEADQUARTERED AT 10 BROADWAY IN LONDON'",
+                    "answer": "New Scotland Yard"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THIS BRITISH SOCIALIST SOCIETY WAS NAMED AFTER A ROMAN GENERAL FAMOUS FOR BEING CAUTIOUS'",
+                    "answer": "the Fabian Society"
+                },
+                {
+                    "value": 1200,
+                    "question": "'BETTER KNOWN FOR HIS OPERETTAS WITH A PARTNER, HE ALSO COMPOSED THE HYMN \"ONWARD CHRISTIAN SOLDIERS\"'",
+                    "answer": "Sir Arthur Sullivan"
+                }
+            ]
+        },
+        {
+            "name": "ENCYCLOPEDIA BROWN",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'IN 1900 THIS CO. INTRODUCED THE BROWNIE CAMERA, MAKING PHOTOGRAPHY ACCESSIBLE TO THE MASSES'",
+                    "answer": "Kodak"
+                },
+                {
+                    "value": 600,
+                    "question": "'JOHN BROWN'S RAID ON THE FEDERAL ARSENAL IN THIS TOWN MADE HIM A MARTYR TO THE ANTISLAVERY CAUSE'",
+                    "answer": "Harpers Ferry"
+                },
+                {
+                    "value": 800,
+                    "question": "'THE COBB SALAD WAS INVENTED AT THIS HOLLYWOOD RESTAURANT NAMED FOR A HAT'",
+                    "answer": "the Brown Derby"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THE CORTLAND VARIETY OF THESE BROWN VERY SLOWLY AFTER THEY'RE CUT, MAKING THEM A GOOD CHOICE FOR GARNISHES'",
+                    "answer": "apples"
+                },
+                {
+                    "value": 1200,
+                    "question": "'POPULAR WITH NUTRITIONISTS, THE BROWN TYPE OF THIS IS INTENTIONALLY LEFT UNMILLED'",
+                    "answer": "rice"
+                }
+            ]
+        },
+        {
+            "name": "17TH CENTURY BRITISH HISTORY",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'BECAUSE PLAGUE CLOSED THIS UNIVERSITY, NEWTON WENT HOME TO WOOLSTHORPE, WHERE HE SAW THAT APPLE FALL'",
+                    "answer": "Cambridge"
+                },
+                {
+                    "value": 600,
+                    "question": "'THE MUTINEERS WHO LEFT THIS NAVIGATOR ON JAMES BAY IN 1611 WERE JAILED WHEN THEY GOT BACK TO ENGLAND'",
+                    "answer": "(Henry) Hudson"
+                },
+                {
+                    "value": 800,
+                    "question": "'AS CHARLES I COULDN'T ATTEND THIS IN PARIS IN MAY 1625, THE DUKE OF BUCKINGHAM WAS HIS PROXY'",
+                    "answer": "his wedding"
+                },
+                {
+                    "value": 1000,
+                    "question": "'CHARLIE BROWN COULD HAVE JOINED THIS GROUP OF OLIVER CROMWELL'S THAT BEAT THE CAVALIERS IN BATTLE IN JULY 2, 1644'",
+                    "answer": "the Roundheads"
+                },
+                {
+                    "value": 1200,
+                    "question": "'HER DEATH IN 1603 ENDED HER 45-YEAR REIGN, & A TOTAL OF 118 YEARS FOR THE TUDORS'",
+                    "answer": "Elizabeth I",
+                    "daily-double": "true"
+                }
+            ]
+        },
+        {
+            "name": "-OLA",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'(<A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2005-06-01_J_10.JPG\" TARGET=\"_BLANK\">SARAH OF THE CLUE CREW  STANDS IN FRONT OF A BLACKBOARD.</A>)  I'VE GRAPHED THIS FIGURE IN BLUE, WHICH CAN BE REPRESENTED BY THE EQUATION Y = (X^2)/4P'",
+                    "answer": "a parabola"
+                },
+                {
+                    "value": 600,
+                    "question": "'IT'S THE MEDICAL TERM FOR MEASLES THAT FITS THE CATEGORY'",
+                    "answer": "rubeola"
+                },
+                {
+                    "value": 800,
+                    "question": "'THE NAME OF THIS LARGEST OF THE BRITISH VIRGIN ISLANDS MEANS \"TURTLE DOVE\" IN SPANISH'",
+                    "answer": "Tortola"
+                },
+                {
+                    "value": 1000,
+                    "question": "'HE LED THE YOUNG SEMINOLES WHO OPPOSED THE 1832 TREATY OF PAYNE'S LANDING'",
+                    "answer": "Osceola"
+                },
+                {
+                    "value": 1200,
+                    "question": "'IN 1958 THIS BRAND INTRODUCED ITS 64 BOX, WHICH FEATURED A BUILT-IN SHARPENER'",
+                    "answer": "Crayola"
+                }
+            ]
+        },
+        {
+            "name": "A CONTRADICTION IN TERMS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'BOTH PLEASANT & PAINFUL, AS IN A MEMORY'",
+                    "answer": "bittersweet"
+                },
+                {
+                    "value": 600,
+                    "question": "'ALLITERATIVE TWO-WORD TERM FOR ACTION BY ONE'S OWN FORCES CAUSING CASUALTIES TO ONE'S OWN TROOPS'",
+                    "answer": "friendly fire"
+                },
+                {
+                    "value": 800,
+                    "question": "'2-WORD TERM FOR SOMETHING SUPPOSEDLY CONFIDENTIAL BUT ACTUALLY KNOWN QUITE GENERALLY'",
+                    "answer": "an open secret"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THIS COMPUTER LANGUAGE GETS OXYMORONIC WHEN IT FOLLOWS \"ADVANCED\"'",
+                    "answer": "BASIC"
+                },
+                {
+                    "value": 1200,
+                    "question": "'WE DON'T SEE WHAT WAS SO GOOD ABOUT THIS 2-WORD TERM FOR THE WORLDWIDE 1930S ECONOMIC DISASTER'",
+                    "answer": "the Great Depression"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "O BROTHER, WHERE ART THOU?",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'HUZZAH!  THOU HAST UNDERTAKEN A TOUR OF IQALUIT & YELLOWKNIFE, TERRITORIAL CAPITALS IN THIS COUNTRY'",
+                    "answer": "Canada"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THY TRAVELS HAVE TAKEN THEE TO WELS, GRAZ & INNSBRUCK IN THIS COUNTRY'",
+                    "answer": "Austria"
+                },
+                {
+                    "value": 1600,
+                    "question": "'ZOINKS!  THOU FINDEST THYSELF AT THIS SOUTH AMERICAN COUNTRY'S BORDER WITH PANAMA'",
+                    "answer": "Colombia"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THOU ART LANDLOCKED IN THIS SOUTHEAST ASIAN COUNTRY, YET MAY STILL ENJOY ITS CITIES OF XAM NUA & MUANG XON'",
+                    "answer": "Laos"
+                }
+            ]
+        },
+        {
+            "name": "\"MUM\"S THE WORD",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'SPECIES OF THIS ORNAMENTAL FLOWER INCLUDE FEVERFEW & PYRETHRUM, BOTH OF WHICH ARE USED IN INSECTICIDES'",
+                    "answer": "chrysanthemum"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THIS PHRASE FOR MEANINGLESS TALK OR NONSENSE IS A CORRUPTION OF AN AFRICAN SPIRIT'S NAME, MAMA DYUMBO'",
+                    "answer": "mumbo-jumbo"
+                },
+                {
+                    "value": 1600,
+                    "question": "'FROM THE OLD FRENCH FOR \"TO WEAR A MASK\", IT'S A MASKED OR COSTUMED MERRYMAKER'",
+                    "answer": "mummer"
+                },
+                {
+                    "value": 2000,
+                    "question": "'IN 1995 THE CITY OF BOMBAY OFFICIALLY CHANGED ITS NAME TO THIS, ITS NAME IN THE MARATHI LANGUAGE'",
+                    "answer": "Mumbai",
+                    "daily-double": "true"
+                }
+            ]
+        },
+        {
+            "name": "ESTRELLAS DEL BEISBOL",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'A BRIDGE IN PITTSBURGH IS NAMED FOR THIS PUERTO RICAN OUTFIELDER'",
+                    "answer": "Roberto Clemente"
+                },
+                {
+                    "value": 1200,
+                    "question": "'CHANGE ONE LETTER IN \"A-ROD\" (ALEX RODRIGUEZ) TO GET THIS NICKNAME OF FRANCISCO RODRIGUEZ, FOR HIS STRIKEOUTS'",
+                    "answer": "K-Rod"
+                },
+                {
+                    "value": 1600,
+                    "question": "'BORN IN 1980, THIS CARDINAL FIRST BASEMAN BEGAN HIS CAREER WITH 8 STRAIGHT 30-HOMER, 100-RBI SEASONS'",
+                    "answer": "Albert Pujols"
+                },
+                {
+                    "value": 2000,
+                    "question": "'SEEN <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2008-11-04_DJ_22.JPG\" TARGET=\"_BLANK\">HERE</A>, HE'S THE MASTER OF THE WALK-OFF HOMER'",
+                    "answer": "David Ortiz"
+                }
+            ]
+        },
+        {
+            "name": "\"LE\" CATEGORIE",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'IN A 1984 FILM, SHE WAS \"THE WOMAN IN RED\"'",
+                    "answer": "Kelly LeBrock"
+                },
+                {
+                    "value": 1200,
+                    "question": "'AT THE END OF THE 1970S, AMC MARKETED THIS RENAULT MODEL'",
+                    "answer": "Le Car"
+                },
+                {
+                    "value": 1600,
+                    "question": "'GEORGE WALLACE DRAFTED THIS GENERAL AS HIS RUNNING MATE IN 1968'",
+                    "answer": "Curtis LeMay"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THIS SWISS-BORN FRENCH ARCHITECT THOUGHT OF THE IDEAL HOUSE AS \"A MACHINE FOR LIVING\"'",
+                    "answer": "Le Corbusier"
+                }
+            ]
+        },
+        {
+            "name": "KINGS",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'URGING HIS EXECUTION, IN 1792 ROBESPIERRE SAID THIS KING \"MUST PERISH BECAUSE OUR COUNTRY MUST LIVE!\"'",
+                    "answer": "Louis XVI"
+                },
+                {
+                    "value": 1200,
+                    "question": "'(<A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2009-03-20_DJ_17.JPG\" TARGET=\"_BLANK\">JIMMY OF THE CLUE CREW REPORTS FROM THE \"MAGICAL\" ROSENBORG CASTLE IN COPENHAGEN, DENMARK.</A>) DENMARK'S FOURTH KING OF THIS NAME WAS A NOTABLE BUILDER WHO CONTRIBUTED TO THE PLANS OF <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2009-03-20_DJ_17A.JPG\" TARGET=\"_BLANK\">ROSENBORG CASTLE</A>, CONSTRUCTED IN THE EARLY 1600S AS HIS SUMMER HOME'",
+                    "answer": "Christian"
+                },
+                {
+                    "value": 1600,
+                    "question": "'THIS COUNTRY'S KING BHUMBOL WAS BORN IN CAMBRIDGE, MASS., WHERE HIS FATHER WAS STUDYING AT HARVARD'",
+                    "answer": "Thailand",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 2000,
+                    "question": "'KILLED IN BATTLE IN 1031, THIS KING OF NORWAY WAS MADE A SAINT IN 1164'",
+                    "answer": "Olaf"
+                }
+            ]
+        },
+        {
+            "name": "JOCKEY SHORTS",
+            "questions": [
+                {
+                    "value": 800,
+                    "question": "'ANY GOOD JOCKEY COULD TELL YOU THAT HORSE RACES ARE DIVIDED INTO THESE UNITS EQUAL TO ONE-EIGHTH OF A MILE'",
+                    "answer": "a furlong"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THIS EX-JOCKEY IS KNOWN FOR WRITING HORSE RACING MYSTERIES LIKE \"HIGH STAKES\"'",
+                    "answer": "Dick Francis"
+                },
+                {
+                    "value": 1600,
+                    "question": "'IN 1993 JULIE KRONE BECAME THE FIRST FEMALE JOCKEY TO WIN A TRIPLE CROWN EVENT, THIS THIRD LEG'",
+                    "answer": "the Belmont Stakes"
+                },
+                {
+                    "value": 2000,
+                    "question": "'TOBEY MAGUIRE PLAYED THIS \"COLORFUL\" JOCKEY IN \"SEABISCUIT\"'",
+                    "answer": "Red Pollard"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "ON THE MONEY",
+        "question": "'OF THE 7 MEN PICTURED ON THE FRONT OF CURRENTLY PRINTED U.S. CURRENCY, THE 3 WHO NEVER LIVED IN THE WHITE HOUSE'",
+        "answer": "Benjamin Franklin, Alexander Hamilton & George Washington"
+    }
+}

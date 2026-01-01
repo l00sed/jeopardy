@@ -1,0 +1,374 @@
+{
+    "jeopardy": [
+        {
+            "name": "PERFUME",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'IN A WOMAN'S PERFUME, THIS WORD PRECEDES \"SECRET\"; IN A MAN'S COLOGNE, IT COMES BEFORE \"COPENHAGEN\"'",
+                    "answer": "Royal"
+                },
+                {
+                    "value": 200,
+                    "question": "'CASTOR, AN INGREDIENT IN PERFUME, COMES FROM THIS \"BUSY\" ANIMAL'",
+                    "answer": "the beaver"
+                },
+                {
+                    "value": 300,
+                    "question": "'THIS 4-LETTER WORD CAN REFER TO AN OPERA SINGER OR HER EMANUEL UNGARO PERFUME'",
+                    "answer": "diva"
+                },
+                {
+                    "value": 400,
+                    "question": "'GEOFFREY BEANE'S PERFUME NAMED FOR THIS COLOR DIDN'T SUCCEED, BUT NOW GIORGIO IS SELLING 1 WITH THE SAME NAME'",
+                    "answer": "Red",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 500,
+                    "question": "'THESE 2 MAMMALS ARE PICTURED ON BOXES OF LAUREN PERFUME'",
+                    "answer": "Horse & Man"
+                }
+            ]
+        },
+        {
+            "name": "FANTASTIC FILMS",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'MARTY MCFLY TRAVELED BACK TO 1955 IN A SOUPED-UP DELOREAN IN THIS 1985 FILM'",
+                    "answer": "\"Back To The Future\""
+                },
+                {
+                    "value": 200,
+                    "question": "'THIS HUGE CREATURE 1ST WADDLED THROUGH TOKYO & ITS SUBURBS IN 1956'",
+                    "answer": "Godzilla"
+                },
+                {
+                    "value": 300,
+                    "question": "'STEVE MARTIN IS A SCIENTIST WHO FALLS IN LOVE WITH A BRAIN -- HENCE THIS TITLE'",
+                    "answer": "\"The Man With Two Brains\""
+                },
+                {
+                    "value": 400,
+                    "question": "'MEANS BY WHICH JACK THE RIPPER & H.G. WELLS GET TO 1970S SAN FRANCISCO IN \"TIME AFTER TIME\"'",
+                    "answer": "Time Machine"
+                },
+                {
+                    "value": 500,
+                    "question": "'FUTURISTIC S. KUBRICK FILM STARRING M. MCDOWELL AS ALEX, A PSYCHOPATHIC GANG LEADER'",
+                    "answer": "\"A Clockwork Orange\""
+                }
+            ]
+        },
+        {
+            "name": "ALSO AN AUTO",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'THIS KATE MULGREW \"STAR TREK\" SHOW WOULD'VE BEEN VERY DIFFERENT IF THE CREW TRAVELED AROUND SPACE IN THE CHRYSLER VAN'",
+                    "answer": "Star Trek: Voyager"
+                },
+                {
+                    "value": 200,
+                    "question": "'IT WON'T TAX YOU MUCH TO TAKE A GAMBLE & NAME THIS RIVIERA CITY 9 MILES FROM NICE, FRANCE'",
+                    "answer": "Monte Carlo"
+                },
+                {
+                    "value": 300,
+                    "question": "'ONE MIGHT THINK THAT THIS MAKE OF FORD RUNS BEST FROM APRIL 20 TO MAY 20'",
+                    "answer": "Taurus"
+                },
+                {
+                    "value": 400,
+                    "question": "'ONCE LIVING NEAR THE GREAT LAKES BUT DEFEATED BY THE IROQUOIS, THIS TRIBE MOVED TO THE SOUTHEAST (BUT NOT IN JEEPS)'",
+                    "answer": "Cherokee"
+                },
+                {
+                    "value": 500,
+                    "question": "'IT ORBITS THE SUN AT A MEAN DISTANCE OF ABOUT 888 MILLION MILES, THOUGH WE'RE NOT SURE WHAT KIND OF MPG IT GETS'",
+                    "answer": "Saturn"
+                }
+            ]
+        },
+        {
+            "name": "IT'S AN ETHNIC THING",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'PUZZLE & CHECKERS'",
+                    "answer": "Chinese"
+                },
+                {
+                    "value": 200,
+                    "question": "'ROULETTE & WOLFHOUND'",
+                    "answer": "Russian"
+                },
+                {
+                    "value": 300,
+                    "question": "'RHAPSODIES & GOULASH'",
+                    "answer": "Hungary"
+                },
+                {
+                    "value": 400,
+                    "question": "'LINEN & REPUBLICAN ARMY'",
+                    "answer": "Irish"
+                },
+                {
+                    "value": 500,
+                    "question": "'TOWEL & TAFFY'",
+                    "answer": "Turkish"
+                }
+            ]
+        },
+        {
+            "name": "ANCIENT ROMANS",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'A PARTY OF THIS LEADER'S SO-CALLED FRIENDS CONSPIRED TO KILL HIM, & DID, IN MARCH 44 B.C.'",
+                    "answer": "Julius Caesar"
+                },
+                {
+                    "value": 200,
+                    "question": "'PLINY THE ELDER DIED AT STABIAE AUG. 24, 79 A.D. AS A RESULT OF BREATHING NOXIOUS FUMES FROM ITS ACTIVITY'",
+                    "answer": "(Mount) Vesuvius"
+                },
+                {
+                    "value": 300,
+                    "question": "'THIS MAD EMPEROR (37-41 A.D.) OFTEN HAD DINNER WITH INCITATUS, HIS FAVORITE HORSE, WHO LIVED IN A MARBLE STABLE'",
+                    "answer": "Caligula"
+                },
+                {
+                    "value": 400,
+                    "question": "'THIS ORATOR WROTE, \"LET ARMS YIELD TO THE TOGA, THE LAUREL CROWN TO PRAISE\"'",
+                    "answer": "Cicero"
+                },
+                {
+                    "value": 500,
+                    "question": "'THIS EMPEROR WHO LIVED FROM 37 TO 68 A.D. HAS A LINE OF CD-BURNING SOFTWARE NAMED FOR HIM'",
+                    "answer": "Nero"
+                }
+            ]
+        },
+        {
+            "name": "\"HAY\"ES",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "'A TYPE OF ALLERGIC RHINITIS AFFECTING THE MUCOUS MEMBRANES OF THE EYES'",
+                    "answer": "hay fever"
+                },
+                {
+                    "value": 200,
+                    "question": "'A HUGE PUNCH THAT USUALLY RESULTS IN A KNOCKOUT'",
+                    "answer": "a haymaker"
+                },
+                {
+                    "value": 300,
+                    "question": "'OUT OF CONTROL, DISORDERED, CRAZY'",
+                    "answer": "haywire"
+                },
+                {
+                    "value": 400,
+                    "question": "'TO GLIDE OR MOVE NONCHALANTLY ACROSS THE FLOOR'",
+                    "answer": "sashay"
+                },
+                {
+                    "value": 500,
+                    "question": "'THIS REVOLT, CHIEFLY BY FARMERS, TOOK PLACE IN MASSACHUSETTS IN 1786'",
+                    "answer": "Shays\\' Rebellion"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "THE RAIN",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'TECHNICALLY, THIS SUBJECT OF A CLASSIC JUDY GARLAND SONG IS A 42-DEGREE ARC OF REFRACTED & REFLECTED LIGHT'",
+                    "answer": "rainbow"
+                },
+                {
+                    "value": 400,
+                    "question": "'THESE WINDS THAT BLOW THROUGH INDIA FROM JUNE TO SEPTEMBER BRING THE COUNTRY MOST OF ITS RAIN'",
+                    "answer": "monsoon"
+                },
+                {
+                    "value": 600,
+                    "question": "'THIS TERM FOR A HEAVY DOWNPOUR ALSO REFERS SPECIFICALLY TO THE BIBLICAL FLOOD'",
+                    "answer": "deluge"
+                },
+                {
+                    "value": 800,
+                    "question": "'(ALEX: HERE IS AL ROKER WITH THE CLUE)  WHEN I PREDICT THIS, FROM MIDDLE ENGLISH FOR \"TO FALL\", EXPECT SLOW-FALLING RAINDROPS LESS THAN .02\" ACROSS'",
+                    "answer": "drizzle"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THIS TERM, ALSO USED IN COOKING HAM, REFERS TO THE COATING LEFT BY FREEZING RAIN'",
+                    "answer": "glaze"
+                }
+            ]
+        },
+        {
+            "name": "ACADEMY AWARD-WINNING ACTORS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'2000:<BR />MAXIMUS DECIMUS MERIDIUS'",
+                    "answer": "Russell Crowe"
+                },
+                {
+                    "value": 400,
+                    "question": "'1979:<BR />TED KRAMER'",
+                    "answer": "Dustin Hoffman"
+                },
+                {
+                    "value": 600,
+                    "question": "'1996:<BR />FOOTBALL PLAYER ROD TIDWELL'",
+                    "answer": "Cuba Gooding, Jr."
+                },
+                {
+                    "value": 800,
+                    "question": "'2002:<BR />POLISH MUSICIAN WLADYSLAW SZPILMAN'",
+                    "answer": "Adrien Brody"
+                },
+                {
+                    "value": 1000,
+                    "question": "'1999:<BR />LESTER BURNHAM'",
+                    "answer": "Kevin Spacey"
+                }
+            ]
+        },
+        {
+            "name": "WAY BACK IN THE 1990S",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'WHEN THE U.K.'S 99-YEAR LEASE ON THIS CROWN COLONY ENDED, CHINA RETOOK CONTROL ON JULY 1, 1997'",
+                    "answer": "Hong Kong"
+                },
+                {
+                    "value": 400,
+                    "question": "'ON AUG. 10, 1993 SHE WAS SWORN IN AS THE 107TH SUPREME COURT JUSTICE'",
+                    "answer": "Ginsburg"
+                },
+                {
+                    "value": 600,
+                    "question": "'PARTYING LIKE IT WAS FEBRUARY OF 1999, HUGO CHAVEZ BECAME PRESIDENT OF THIS COUNTRY'",
+                    "answer": "Venezuela"
+                },
+                {
+                    "value": 800,
+                    "question": "'ON JAN. 1, 1993 2 NEW EUROPEAN NATIONS WERE FORMED FROM THE SPLIT OF THIS SUDDENLY EX-COUNTRY'",
+                    "answer": "Czechoslovakia"
+                },
+                {
+                    "value": 1000,
+                    "question": "'ON OCT. 26, 1994 A PEACE TREATY WAS SIGNED BETWEEN ISRAEL & THIS COUNTRY LED BY KING HUSSEIN I'",
+                    "answer": "Jordan"
+                }
+            ]
+        },
+        {
+            "name": "DORM LIFE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'GREEKS IN YOUR DORM MIGHT BE FROM ATHENS OR MEMBERS OF ONE OF THESE ORGANIZATIONS'",
+                    "answer": "Fraternities or sororities"
+                },
+                {
+                    "value": 400,
+                    "question": "'AS SEEN IN THE FILM \"DEAD MAN ON CAMPUS\", LEGEND HAS IT THAT IF THIS PERSON DIES YOU GET STRAIGHT AS'",
+                    "answer": "Your roommate"
+                },
+                {
+                    "value": 600,
+                    "question": "'BY NOW YOU MAY HAVE PERSONAL NAMES FOR SOME OF THESE DORM INSECTS, AKA PERIPLANETA AMERICANA'",
+                    "answer": "Cockroaches"
+                },
+                {
+                    "value": 800,
+                    "question": "'YOU'RE ALL SET TO MEET THE SWEDISH STUDENTS MOVING IN ACROSS THE HALL WITH RECORDS LIKE \"DANCING QUEEN\" BY THIS BAND'",
+                    "answer": "ABBA"
+                },
+                {
+                    "value": 1000,
+                    "question": "'STANTON, THOMPSON, LEBLANC & MARCHAND ARE ALL DORM NAMES AT MY ALMA MATER, THIS UNIVERSITY IN CANADA'S CAPITAL'",
+                    "answer": "University of Ottawa",
+                    "daily-double": "true"
+                }
+            ]
+        },
+        {
+            "name": "THE \"L\" WORLD",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'LIKE ROME, THIS CAPITAL OF PORTUGAL IS BUILT ON 7 HILLS'",
+                    "answer": "Lisbon"
+                },
+                {
+                    "value": 400,
+                    "question": "'FOUNDED AS A HAVEN FOR FREED AMERICAN SLAVES, IT BECAME AN INDEPENDENT COUNTRY IN 1847'",
+                    "answer": "Liberia"
+                },
+                {
+                    "value": 600,
+                    "question": "'THIS BEAUTIFUL LAKE IN BANFF NATIONAL PARK IS NAMED FOR A BRITISH PRINCESS'",
+                    "answer": "Louise"
+                },
+                {
+                    "value": 800,
+                    "question": "'HOME TO THE SAMI & COVERING PARTS OF 4 COUNTRIES, IT'S IN THE FAR NORTH OF EUROPE'",
+                    "answer": "Lapland"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THIS HIGHEST CAPITAL IN THE ANDES WAS FOUNDED ON THE SITE OF AN EARLIER SETTLEMENT IN 1548'",
+                    "answer": "La Paz"
+                }
+            ]
+        },
+        {
+            "name": "PIANO PIECES",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'3-LETTER WORD FOR THE TYPE OF PIECE FOR WHICH SCOTT JOPLIN IS BEST KNOWN'",
+                    "answer": "rag"
+                },
+                {
+                    "value": 400,
+                    "question": "'MOZART'S SONATA IN F MAJOR, KOCHEL NO. 497, IS FOR 1 PIANO PLAYED WITH 4 OF THESE'",
+                    "answer": "hands"
+                },
+                {
+                    "value": 600,
+                    "question": "'THE BRAHMS WORK HEARD HERE IS THIS TYPE OF DANCE MUSIC'",
+                    "answer": "waltz",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 800,
+                    "question": "'THIS 19TH CENTURY COMPOSER'S OPUS 14 IS CLASSIFIED AS A KRAKOWIAK'",
+                    "answer": "Frederic Chopin"
+                },
+                {
+                    "value": 1000,
+                    "question": "'ALSO A WORD FOR A DAYDREAM, SCHUMANN WROTE ONE IN C MAJOR IN 1836'",
+                    "answer": "fantasy"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "LINES FROM 19TH CENTURY NOVELS",
+        "question": "'\"MY TWO NATURES HAD MEMORY IN COMMON, BUT ALL OTHER FACULTIES WERE MOST UNEQUALLY SHARED BETWEEN THEM\"'",
+        "answer": "Strange Case of Dr Jekyll and Mr Hyde"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "jeopardy": [
+        {
+            "name": "MERRY MELODIES (BY YEAR)",
+            "questions": [
+                {
+                    "question": "1942",
+                    "value": "100",
+                    "answer": "What is White Christmas (Bing Crosby)?",
+                    "youtube": "https://www.youtube.com/watch?v=_3ZC45Q82pg",
+                    "audio-only": true
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [],
+    "final-jeopardy": {
+        "answer": "Who is some guy in Normandy But I just won $75,000!",
+        "category": "MILITARY MEN",
+        "question": "On June 6, 1944 he said, \"The eyes of the world are upon you\""
+    }
+}

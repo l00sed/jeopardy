@@ -1,0 +1,374 @@
+{
+    "jeopardy": [
+        {
+            "name": "NEW HAMPSHIRE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'IT \"ROCKS\" AS NEW HAMPSHIRE'S NICKNAME'",
+                    "answer": "the Granite State"
+                },
+                {
+                    "value": 400,
+                    "question": "'UNTIL AROUND 1680, NEW HAMPSHIRE WAS OFFICIALLY A PART OF THIS COLONY'",
+                    "answer": "Massachusetts"
+                },
+                {
+                    "value": 600,
+                    "question": "'IN APRIL 1963 GOV. JOHN KING SIGNED THE BILL ALLOWING ONE OF THESE GAMES IN THE STATE'",
+                    "answer": "the lottery"
+                },
+                {
+                    "value": 800,
+                    "question": "'THOUGH IT RECENTLY FELL DOWN, THIS ROCK FORMATION IS ON THE BACK OF NEW HAMPSHIRE'S STATE QUARTER'",
+                    "answer": "the Old Man in the Mountain"
+                },
+                {
+                    "value": 1000,
+                    "question": "'SO FAR, THIS 14TH PRESIDENT IS OUR ONLY CHIEF EXECUTIVE TO HAIL FROM NEW HAMPSHIRE'",
+                    "answer": "(Franklin) Pierce"
+                }
+            ]
+        },
+        {
+            "name": "THAT'S DEBATABLE",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'OCTOBER 7, 1984:<BR />RONALD REAGAN & HIM'",
+                    "answer": "Walter Mondale"
+                },
+                {
+                    "value": 400,
+                    "question": "'OCTOBER 15, 1858:<BR />THESE 2 MEN WHO WANTED TO BE U.S. SENATOR FROM ILLINOIS'",
+                    "answer": "Lincoln & Douglas"
+                },
+                {
+                    "value": 600,
+                    "question": "'OCTOBER 5, 1988:<BR />DAN QUAYLE & THIS MAN'",
+                    "answer": "Lloyd Bentsen"
+                },
+                {
+                    "value": 800,
+                    "question": "'OCTOBER 11, 1992:<BR />THESE 3 MEN VYING TO BE COMMANDER IN CHIEF'",
+                    "answer": "Perot, Clinton, and George Herbert Walker Bush",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 1000,
+                    "question": "'OCTOBER 11, 1984:<BR />THESE 2 VICE PRESIDENTIAL HOPEFULS'",
+                    "answer": "George H.W. Bush & Geraldine Ferraro"
+                }
+            ]
+        },
+        {
+            "name": "TO \"SUR\"",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'BUOYANT PLANK FOR WAVE RIDING'",
+                    "answer": "a surfboard"
+                },
+                {
+                    "value": 400,
+                    "question": "'AN EXTRA FEE FOR A SPECIAL SERVICE'",
+                    "answer": "a surcharge"
+                },
+                {
+                    "value": 600,
+                    "question": "'AN EXCESS OR OVERABUNDANT SUPPLY'",
+                    "answer": "a surplus"
+                },
+                {
+                    "value": 800,
+                    "question": "'THE BRITS CALL A DOCTOR'S OFFICE THIS'",
+                    "answer": "a surgery"
+                },
+                {
+                    "value": 1000,
+                    "question": "'CLOSE OBSERVATION OF SOMEONE BY THE POLICE'",
+                    "answer": "surveillance"
+                }
+            ]
+        },
+        {
+            "name": "AT 33",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'AT 33 HE DRAFTED THE DECLARATION OF INDEPENDENCE'",
+                    "answer": "Jefferson"
+                },
+                {
+                    "value": 400,
+                    "question": "'HE WAS 33 WHEN HE FIRST EXHIBITED HIS 32 \"CAMPBELL'S SOUP CANS\"'",
+                    "answer": "(Andy) Warhol"
+                },
+                {
+                    "value": 600,
+                    "question": "'HE WAS 33 WHEN HE NAILED HIS 95 THESES TO THE DOOR OF THE WITTENBERG CASTLE CHURCH'",
+                    "answer": "Martin Luther"
+                },
+                {
+                    "value": 800,
+                    "question": "'AND TO THINK HE WAS 33 WHEN HE PUBLISHED HIS FIRST BOOK, \"AND TO THINK THAT I SAW IT ON MULBERRY STREET\"'",
+                    "answer": "Dr. Seuss"
+                },
+                {
+                    "value": 1000,
+                    "question": "'ON MAY 29, 1953 HE LITERALLY FOUND HIMSELF ON TOP OF THE WORLD, ALONG WITH HIS GUIDE'",
+                    "answer": "(Edmund) Hilary"
+                }
+            ]
+        },
+        {
+            "name": "STUFF FOR YOUR COMPUTER?",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'ACE & TRUE VALUE BOTH SERVE AS THIS TYPE OF STORE'",
+                    "answer": "hardware"
+                },
+                {
+                    "value": 400,
+                    "question": "'THE MENTAL CAPACITY TO RECALL FACTS, OR A SHOW-STOPPING NUMBER FROM \"CATS\"'",
+                    "answer": "memory"
+                },
+                {
+                    "value": 600,
+                    "question": "'CASEMENT, BOW & DOUBLE-HUNG ARE THESE'",
+                    "answer": "windows"
+                },
+                {
+                    "value": 800,
+                    "question": "'ONE-WORD NAME FOR THE LIZARD SEEN <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2011-06-22_J_10.JPG\" TARGET=\"_BLANK\">HERE</A>--REMEMBER THE CATEGORY!'",
+                    "answer": "monitor"
+                },
+                {
+                    "value": 1000,
+                    "question": "'A SWELLING UNDER THE EYE, OR A QUIET, TIMID PERSON'",
+                    "answer": "mouse"
+                }
+            ]
+        },
+        {
+            "name": "ON THE BOARDS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'ROY E., SON OF ONE OF THIS ENTERTAINMENT COMPANY'S FOUNDERS, IS ITS VICE CHAIRMAN'",
+                    "answer": "Disney"
+                },
+                {
+                    "value": 400,
+                    "question": "'IN 1991, BEN BRADLEE RETIRED AS THE EDITOR OF THIS NEWSPAPER & JOINED ITS BOARD OF DIRECTORS'",
+                    "answer": "the Washington Post"
+                },
+                {
+                    "value": 600,
+                    "question": "'A CITY IN NORTHERN INDIANA WAS NAMED FOR THIS CHAIRMAN OF THE BOARD OF U.S. STEEL'",
+                    "answer": "Gary (Elbert)"
+                },
+                {
+                    "value": 800,
+                    "question": "'THE CHIEF JUSTICE & VICE-PRESIDENT OF THE U.S. ARE \"INSTITUTIONALIZED\" ON ITS BOARD OF REGENTS'",
+                    "answer": "the Smithsonian"
+                },
+                {
+                    "value": 1000,
+                    "question": "'IN 1997, <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/1998-03-19_J_15.JPG\" TARGET=\"_BLANK\">THIS</A> ACTOR JOINED THE BOARD OF THE NRA AND WAS ELECTED VICE PRESIDENT'",
+                    "answer": "Charlton Heston"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "ROCK & ROLL",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'\"YOU GIVE LOVE A BAD NAME\" WAS THIS NEW JERSEY GROUP'S FIRST NO. 1 HIT'",
+                    "answer": "Bon Jovi"
+                },
+                {
+                    "value": 800,
+                    "question": "'(<A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2008-09-25_DJ_09.JPG\" TARGET=\"_BLANK\">HEY, I'M MARK MCGRATH, &</A>) ONE OF MY ALL-TIME FAVORITE BANDS IS THIS JOHNNY ROTTEN-SID VICIOUS GROUP THAT LASTED ONLY 3 YEARS IN THE 1970S'",
+                    "answer": "The Sex Pistols"
+                },
+                {
+                    "value": 1200,
+                    "question": "'PAUL SIMONON IS SMASHING HIS BASS ON THE COVER OF THIS GROUP'S \"LONDON CALLING\"'",
+                    "answer": "the Clash"
+                },
+                {
+                    "value": 1600,
+                    "question": "'FANS OFFER THANKSGIVING FOR DOLORES O'RIORDAN, LEAD SINGER OF THIS BAND WITH THE HIT \"LINGER\"'",
+                    "answer": "the Cranberries"
+                },
+                {
+                    "value": 2000,
+                    "question": "'A SONG BY THE BONZO DOG BAND GAVE THIS \"I WILL POSSESS YOUR HEART\" GROUP ITS GRISLY NAME'",
+                    "answer": "Death Cab for Cutie"
+                }
+            ]
+        },
+        {
+            "name": "\"PUT\" SHOTS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'THE \"SILLY\" TYPE OF THIS PRODUCT WAS INTRODUCED IN 1950; DON'T USE IT TO GLAZE WINDOWS'",
+                    "answer": "putty"
+                },
+                {
+                    "value": 800,
+                    "question": "'TRANSLATE THE PETER BOYLE-SUNG LYRIC HEARD <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2005-12-16_DJ_22.MP3\">HERE</A>'",
+                    "answer": "\"Puttin\\' on the ritz\""
+                },
+                {
+                    "value": 1200,
+                    "question": "'A PLOTTED REVOLT TO OVERTHROW A GOVERNMENT, EXECUTED WITH SPEED'",
+                    "answer": "a putsch"
+                },
+                {
+                    "value": 1600,
+                    "question": "'FROM THE LATIN FOR \"ROTTEN\", IT'S AN ADJECTIVE REFERRING TO FOUL DECAY'",
+                    "answer": "putrid"
+                },
+                {
+                    "value": 2000,
+                    "question": "'AFTER LILLIPUT, GULLIVER TRAVELS ON TO THIS FLYING ISLAND POPULATED BY ABSURD FOLK'",
+                    "answer": "Laputa"
+                }
+            ]
+        },
+        {
+            "name": "NOVELTY SONGS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'HIS SONG \"HELLO MUDDAH, HELLO FADDUH!\" MAY HAVE BEEN BASED ON THE LETTERS HIS SON ROBERT SENT FROM CAMP CHAMPLAIN'",
+                    "answer": "Allan Sherman"
+                },
+                {
+                    "value": 800,
+                    "question": "'\"SHE IS AFRAID TO COME OUT OF THE WATER\" BECAUSE IT'S WHAT \"SHE WORE FOR THE FIRST TIME TODAY\"'",
+                    "answer": "an itsy bitsy teenie weenie yellow polka dot bikini"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THIS FUNKY GUY WAS \"BORN IN ARIZONA, MOVED TO BABYLONIA\" & \"GOT A CONDO MADE A STONE-A\"'",
+                    "answer": "King Tut",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 1600,
+                    "question": "'THIS TITLE GUY SAID, \"OOO EEE, OOO AH AH, TING TANG, WALLA WALLA BING BANG\"'",
+                    "answer": "the witch doctor",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THIS 1920S NOVELTY HIT SUPPOSEDLY GOT ITS TITLE FROM THE CONFUSING STATEMENT OF A GREEK FRUIT PEDDLER'",
+                    "answer": "\"Yes, We Have No Bananas\""
+                }
+            ]
+        },
+        {
+            "name": "SURGERY",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'THE SURGEON BEGINS BY MAKING AN INCISION ABOVE THE HAIRLINE IN THIS COSMETIC PROCEDURE AKA RHYTIDOPLASTY'",
+                    "answer": "a facelift"
+                },
+                {
+                    "value": 800,
+                    "question": "'(<A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2009-03-13_DJ_13.WMV\">SARAH OF THE CLUE CREW SHOWS AN ANATOMICAL DIAGRAM ON THE MONITOR.</A>)  NAMED FOR A 19TH-CENTURY SURGEON, MCBURNEY'S POINT, 2/3RDS THE DISTANCE BETWEEN THE UMBILICUS & THE ILIAC CREST OF THE PELVIS, IS THE MOST TENDER ABDOMINAL AREA WHEN THIS ORGAN IS INFLAMED & OFTEN REQUIRES SURGERY'",
+                    "answer": "the appendix"
+                },
+                {
+                    "value": 1200,
+                    "question": "'HIP REPLACEMENT ENTAILS REMOVING THE ARTHRITIC HEAD OF THIS BONE & PREPARING A NEW SOCKET IN THE PELVIC BONE'",
+                    "answer": "the femur"
+                },
+                {
+                    "value": 1600,
+                    "question": "'LASER SURGERY CAN FIX THE ACUTE TYPE OF THIS EYE DISEASE IN WHICH THE IRIS OBSTRUCTS THE FLOW OF THE AQUEOUS HUMOR'",
+                    "answer": "glaucoma"
+                },
+                {
+                    "value": 2000,
+                    "question": "'SURGERY MAY BE NECESSARY IF THIS, AN ENLARGEMENT OF THE THYROID, CAUSES DIFFICULTY IN BREATHING & SWALLOWING'",
+                    "answer": "a goiter"
+                }
+            ]
+        },
+        {
+            "name": "NEW ENGLANDERS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'IN 1871 TELEGRAPH OPERATORS HONORED HIM WITH A BRONZE STATUE IN CENTRAL PARK'",
+                    "answer": "(Samuel) Morse"
+                },
+                {
+                    "value": 800,
+                    "question": "'A WING AT THE MAINE MEDICAL CENTER BEARS THE NAME OF THIS FREEPORT RETAILER & OUTDOORSMAN'",
+                    "answer": "L.L. Bean"
+                },
+                {
+                    "value": 1200,
+                    "question": "'SADLY, THIS LEADER OF THE GREEN MOUNTAIN BOYS DIDN'T LIVE TO SEE VERMONT ENTER THE UNION; HE DIED 2 YEARS BEFORE'",
+                    "answer": "Ethan Allen"
+                },
+                {
+                    "value": 1600,
+                    "question": "'THIS PRESIDENT'S FATHER, PRESCOTT, REPRESENTED CONNECTICUT IN THE SENATE FROM 1952 TO 1963'",
+                    "answer": "George H.W. Bush"
+                },
+                {
+                    "value": 2000,
+                    "question": "'DURING A CANOE RIDE IN 1839, HE REALIZED RATHER THAN TEACH, HE WANTED TO BE A POET OF NATURE'",
+                    "answer": "(Henry David) Thoreau"
+                }
+            ]
+        },
+        {
+            "name": "HAIR TODAY",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'SPORTING A SQUASH-BLOSSOM HAIRDO (THINK A PRINCESS LEIA LOOK) MEANS A HOPI INDIAN WOMAN IS THIS'",
+                    "answer": "single"
+                },
+                {
+                    "value": 800,
+                    "question": "'IT'S THE \"TANTALIZING\" SYNONYM FOR BACKCOMING HAIR TO INCREASE FULLNESS'",
+                    "answer": "to tease"
+                },
+                {
+                    "value": 1200,
+                    "question": "'WHEN SOMEONE SPEAKS ABOUT A FU MANCHU, HE'S USUALLY REFERRING TO THIS HAIRY FEATURE'",
+                    "answer": "a mustache"
+                },
+                {
+                    "value": 1600,
+                    "question": "'THE HAIRS ON THIS PART OF A FLY CONTAIN A MAJORITY OF ITS \"TASTE BUDS\"'",
+                    "answer": "its legs"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THERE'S VERY LITTLE HAIR ON AN ADULT ELEPHANT; THE LONGEST & THICKEST ARE THE EYELASHES & THOSE FOUND ON THIS'",
+                    "answer": "the tip of the tail"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "DEADLY FIRSTS",
+        "question": "'THE FIRST MAN TO DIE AS THE RESULT OF ONE OF THESE ACCIDENTS WAS LT. THOMAS SELFRIDGE ON SEPT. 17, 1908'",
+        "answer": "an airplane crash"
+    }
+}

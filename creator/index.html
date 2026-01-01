@@ -16,6 +16,50 @@
     <div class="page-header">
         <h1>Board Creator</h1>
     </div>
+    
+    <!-- Category Search Section -->
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h3 class="panel-title">Search Historical Categories</h3>
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <label for="searchTerm">Search for categories:</label>
+                <input id="searchTerm" type="text" class="form-control" ng-model="searchTerm" ng-change="searchCategories()" placeholder="Enter search term (e.g., 'history', 'science', 'sports')">
+            </div>
+            <div ng-show="searchResults.length > 0">
+                <h4>Search Results ({{searchResults.length}} categories found)</h4>
+                <p class="text-muted"><small>Results are ranked by semantic similarity to your query</small></p>
+                <div class="list-group" style="max-height: 400px; overflow-y: auto;">
+                    <div ng-repeat="result in searchResults" class="list-group-item">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <h5 class="list-group-item-heading">
+                                    {{result.name}}
+                                    <span ng-if="result.similarity" class="badge">{{(result.similarity * 100).toFixed(0)}}% match</span>
+                                </h5>
+                                <p class="list-group-item-text">
+                                    <small>Round: {{result.round | uppercase}} | {{result.questions.length}} questions</small>
+                                </p>
+                            </div>
+                            <div class="col-md-4 text-right">
+                                <button class="btn btn-success btn-sm" ng-click="importCategory(result, 'jeopardy')">
+                                    Import to Jeopardy
+                                </button>
+                                <button class="btn btn-primary btn-sm" ng-click="importCategory(result, 'double-jeopardy')">
+                                    Import to Double Jeopardy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div ng-show="searchTerm && searchResults.length === 0" class="alert alert-info">
+                No categories found matching "{{searchTerm}}"
+            </div>
+        </div>
+    </div>
+    
     <div ng-repeat="round in ['jeopardy', 'double-jeopardy']">
         <h2>{{round}}</h2>
         <h3>Categories:</h3>
@@ -54,6 +98,22 @@
                                 <button class="btn btn-danger" ng-click="removeImage(question)">Remove Image</button>
                             </span>
                         </li>
+                        <li class="row">
+                            <span class="col-md-12">
+                                <button class="btn btn-primary" ng-click="addYouTube(question)" ng-show="question.youtube == null">Add YouTube URL</button>
+                            </span>
+                        </li>
+                        <li class="questionYouTube row" ng-hide="question.youtube == null">
+                            <label for="youtube" class="col-md-3">YouTube URL</label>
+                            <input id="youtube" class="col-md-6" type="text" ng-model="question.youtube" placeholder="https://www.youtube.com/watch?v=...">
+                            <span class="col-md-3">
+                                <button class="btn btn-danger" ng-click="removeYouTube(question)">Remove YouTube</button>
+                            </span>
+                        </li>
+                        <li class="questionYouTube row" ng-hide="question.youtube == null">
+                            <label for="audioOnly" class="col-md-3">Audio Only?</label>
+                            <input id="audioOnly" class="col-md-9" type="checkbox" ng-model="question['audio-only']">
+                        </li>
                     </ul>
                 </div>
                 <button class="btn btn-primary" ng-click="addQuestion(category)" ng-show="category.questions.length < 5">Add Question</button>
@@ -83,6 +143,7 @@
     <pre>{{board | json}}</pre>
     <textarea ng-model="pre" style="width: 100%" placeholder="Copy your JSON game text here and press Load.">{{board}}</textarea>
     <button class="btn btn-primary" ng-click="load()">Load</button>
+    <button class="btn btn-success" ng-click="save()">Save</button>
 </div>
 </body>
 </html>

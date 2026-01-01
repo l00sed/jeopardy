@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Start Jeopardy Server</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            color: #333;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #667eea;
+            margin-top: 0;
+        }
+        .status {
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .status.checking {
+            background: #fff3cd;
+            color: #856404;
+        }
+        .status.online {
+            background: #d4edda;
+            color: #155724;
+        }
+        .status.offline {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 10px 10px 0;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: #764ba2;
+        }
+        .btn.disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .instructions {
+            background: #e7f3ff;
+            padding: 15px;
+            border-left: 4px solid #667eea;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 Jeopardy Random Board Generator</h1>
+        
+        <div id="status" class="status checking">
+            ⏳ Checking if server is running...
+        </div>
+
+        <div id="instructions"></div>
+
+        <div id="actions"></div>
+    </div>
+
+    <script>
+        function checkServer() {
+            fetch('/api/generate-board?difficulty=easy', {
+                method: 'HEAD',
+                cache: 'no-cache'
+            })
+            .then(response => {
+                if (response.ok || response.status === 405) {
+                    // Server is running (200 OK or 405 Method Not Allowed both mean server is up)
+                    showOnline();
+                } else {
+                    showOffline();
+                }
+            })
+            .catch(error => {
+                // Cannot connect to server
+                showOffline();
+            });
+        }
+
+        function showOnline() {
+            document.getElementById('status').className = 'status online';
+            document.getElementById('status').innerHTML = '✅ Server is running!';
+            
+            document.getElementById('instructions').innerHTML = 
+                '<p><strong>Great! The server is ready.</strong></p>' +
+                '<p>You can now generate random Jeopardy boards with fresh questions every time.</p>';
+            
+            document.getElementById('actions').innerHTML = 
+                '<a href="index.html" class="btn">▶️ Start Playing Jeopardy!</a>' +
+                '<a href="#" class="btn" onclick="location.reload(); return false;">🔄 Check Again</a>';
+        }
+
+        function showOffline() {
+            document.getElementById('status').className = 'status offline';
+            document.getElementById('status').innerHTML = '❌ Server is NOT running';
+            
+            document.getElementById('instructions').innerHTML = 
+                '<div class="instructions">' +
+                '<h3>To start the server:</h3>' +
+                '<ol>' +
+                '<li>Open <strong>Terminal</strong> (or Command Prompt on Windows)</li>' +
+                '<li>Navigate to the jeopardy folder:<br>' +
+                '<pre>cd /Users/dwtompkins/Downloads/jeopardy</pre></li>' +
+                '<li>Start the server:<br>' +
+                '<pre>./start_server.sh</pre>' +
+                'Or:<br>' +
+                '<pre>python3 board_server.py</pre></li>' +
+                '<li>Wait until you see:<br>' +
+                '<pre>Starting server on http://localhost:8000</pre></li>' +
+                '<li>Then click "Check Server Status" below</li>' +
+                '</ol>' +
+                '</div>' +
+                '<p><strong>Why do I need this?</strong></p>' +
+                '<p>The server generates fresh random boards on-demand. Without it, you\'ll see the same questions repeatedly.</p>';
+            
+            document.getElementById('actions').innerHTML = 
+                '<a href="#" class="btn" onclick="location.reload(); return false;">🔄 Check Server Status</a>';
+        }
+
+        // Check server status on page load
+        checkServer();
+    </script>
+</body>
+</html>

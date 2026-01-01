@@ -19,7 +19,7 @@ function getCookie(name) {
 	return null;
 }
 
-function eraseCookie(name) {   
+function eraseCookie(name) {
     document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 }
 
@@ -386,20 +386,6 @@ function loadBoard() {
     */
 }
 
-function resizeAnswerModal() {
-    var otherHeights = ($('#question-modal-content .modal-header, #question-modal-content .modal-footer').map(function(){return $(this).outerHeight();}));
-    var totalModalHeight = $('#question-modal-content').height();
-    for(var i=0; i < otherHeights.length; i++) { totalModalHeight -= otherHeights[i]; }
-    var modalBodyObj = $('#question-modal-content .modal-body');
-    var modalBodyPadding = modalBodyObj.innerHeight() - modalBodyObj.height();
-    //modalBodyObj.outerHeight(totalModalHeight);
-    modalBodyObj.css('height',(totalModalHeight - modalBodyPadding)); // Adjust again for padding
-
-    questionCenterPadding = ($('#question-modal-body').height() - ($('#question-image').height() + $('#question').height()))/2;
-    $('#question').css('padding-top', questionCenterPadding);
-
-}
-
 function handleAnswer(){
     $('.score-button').unbind("click").click(function(e){
         e.stopPropagation();
@@ -434,7 +420,6 @@ function handleAnswer(){
     $('#answer-show-button').click(function(){
         $(this).hide();
         $('#answer-text').show();
-        resizeAnswerModal();
         //$('#answer-close-button').show();
     });
     $('#answer-close-button').click(function(){
@@ -485,7 +470,6 @@ function handleFinalAnswer(){
     $('#final-answer-show-button').click(function(){
         $(this).hide();
         $('#final-jeopardy-modal-answer').show();
-        //resizeAnswerModal();
         //$('#answer-close-button').show();
     });
 

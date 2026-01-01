@@ -1,0 +1,100 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                  🎮 JEOPARDY RANDOM BOARD GENERATOR 🎮                    ║
+║                                                                           ║
+║                    GET STARTED IN 2 SIMPLE STEPS                          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+⚠️  IMPORTANT: YOU MUST START THE SERVER FIRST! ⚠️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The random board feature requires a server to generate fresh questions.
+Without it, you'll see error messages like "Failed to generate random board".
+
+
+STEP 1: Start the Server (REQUIRED!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Open Terminal and run:
+
+    cd /Users/dwtompkins/Downloads/jeopardy
+    ./start_server.sh
+
+Or directly:
+
+    python3 board_server.py
+
+You should see:
+    ============================================================
+    Jeopardy Board Server
+    ============================================================
+    
+    Starting server on http://localhost:8000
+    Press Ctrl+C to stop the server when you're done playing.
+
+⚡ KEEP THIS TERMINAL WINDOW OPEN while playing! ⚡
+
+
+STEP 2: Play!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Open your browser to:  http://localhost:8000
+
+   OR open:  start.html  (checks if server is running)
+
+2. Enter player names (or use defaults)
+3. Click "Generate Random Board"
+4. Select difficulty (Easy/Medium/Hard)
+5. Play with fresh random questions!
+
+
+THAT'S IT! 🎉
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Each time you click "Generate Random Board", you get BRAND NEW categories
+and questions! No repeats - pulled from 217,000+ archived questions!
+
+
+THE FIX APPLIED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BEFORE: Button loaded static files → same questions every time ❌
+AFTER:  Button calls server API → fresh questions every time! ✅
+
+
+DIFFICULTY LEVELS EXPLAINED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EASY    →  $100-$500 questions  →  Great for beginners
+MEDIUM  →  $200-$1000 questions →  Standard Jeopardy difficulty  
+HARD    →  $400-$2000 questions →  For experienced players
+
+
+NEED HELP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quick reference:        cat QUICK_REFERENCE.txt
+Detailed guide:         open RANDOM_BOARD_GENERATOR_README.md
+Technical details:      open IMPLEMENTATION_SUMMARY.md
+
+
+EXAMPLE COMPLETE WORKFLOW:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Terminal:
+    $ ./quick_generate.sh medium
+    ✓ Successfully generated medium difficulty board!
+
+Browser:
+    [Opens index.html]
+    [Selects "Medium" from dropdown]
+    [Clicks "Generate Random Board"]
+    [Board loads with 6 random categories!]
+    [Game starts!]
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                        Have fun playing! 🎊
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,374 @@
+{
+    "jeopardy": [
+        {
+            "name": "CARROTS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'IN SOME PARTS OF THE WORLD, CARROTS ARE ROASTED, GROUND & USED AS A SUBSTITUTE FOR THIS, LIKE CHICORY'",
+                    "answer": "Coffee"
+                },
+                {
+                    "value": 400,
+                    "question": "'IT'S THE TOP CARROT-PRODUCING STATE'",
+                    "answer": "California"
+                },
+                {
+                    "value": 600,
+                    "question": "'AMONG VEGGIES, LETTUCE IS A SALAD CROP; BROCCOLI IS A COLE CROP & CARROTS, THIS'",
+                    "answer": "Root crop"
+                },
+                {
+                    "value": 800,
+                    "question": "'CARROTS ARE ONE OF THE OCTET OF VEGETABLES IN THIS CAMPBELL'S DRINK INTRODUCED NATIONWIDE IN 1948'",
+                    "answer": "V8"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THE CAROTENE IN CARROTS SUPPLIES YOU WITH THIS VITAMIN'",
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "name": "COLORFUL GROUPS",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'THEY \"WISH YOU WERE HERE\":<BR />____ FLOYD'",
+                    "answer": "Pink"
+                },
+                {
+                    "value": 400,
+                    "question": "'THEY'D LIKE YOU TO \"SHAKE YOUR MONEY MAKER\":<BR />THE ____ CROWES'",
+                    "answer": "Black"
+                },
+                {
+                    "value": 600,
+                    "question": "'LEADERS OF A \"SEVEN NATION ARMY\":<BR />THE ____ STRIPES'",
+                    "answer": "White",
+                    "daily-double": "true"
+                },
+                {
+                    "value": 800,
+                    "question": "'THEY'RE \"UNDER THE BRIDGE\":<BR />____ ____ CHILI PEPPERS'",
+                    "answer": "Red Hot"
+                },
+                {
+                    "value": 1000,
+                    "question": "'HARD ROCKERS \"BURNIN' FOR YOU\":<BR />____ ____ CULT'",
+                    "answer": "Blue Öyster"
+                }
+            ]
+        },
+        {
+            "name": "TELEPHONE HISTORY",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'AS OF JULY 1, 1968 YOU COULD DIAL THIS 3-DIGIT NUMBER IN NEW YORK CITY & GET THE POLICE'",
+                    "answer": "911"
+                },
+                {
+                    "value": 400,
+                    "question": "'IN 1980 DIAL-IT NATIONAL SPORTS BECAME THE FIRST SERVICE ON THIS NEW AREA CODE'",
+                    "answer": "1-900"
+                },
+                {
+                    "value": 600,
+                    "question": "'IN 1880 HE INVENTED THE PHOTOPHONE, A DEVICE THAT SENT MESSAGES THROUGH THE AIR ON BEAMS OF LIGHT'",
+                    "answer": "Alexander Graham Bell"
+                },
+                {
+                    "value": 800,
+                    "question": "'ON OCT. 30, 1938 PHONE TRAFFIC PEAKED IN CITIES ALL OVER AMERICA AS PEOPLE DISCUSSED THIS BROADCAST'",
+                    "answer": "the \"War of the Worlds\""
+                },
+                {
+                    "value": 1000,
+                    "question": "'IN 1991 THIS TELEPHONE COMPANY LAUNCHED ITS FRIENDS & FAMILY PROMOTION'",
+                    "answer": "MCI"
+                }
+            ]
+        },
+        {
+            "name": "DISEMVOWELMENT",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'IT'S A CONIFEROUS TREE THAT CAN REACH 300 FEET:<BR />SQ'",
+                    "answer": "a sequoia"
+                },
+                {
+                    "value": 400,
+                    "question": "'IT'S A FINAL, UNCOMPROMISING DEMAND:<BR />LTMTM'",
+                    "answer": "an ultimatum"
+                },
+                {
+                    "value": 600,
+                    "question": "'THIS CONDITION IS FROM THE GREEK FOR \"WANT OF BLOOD\":<BR />NM'",
+                    "answer": "anemia"
+                },
+                {
+                    "value": 800,
+                    "question": "'A BOYFRIEND, A FOP, A \"GESTE\":<BR />B'",
+                    "answer": "a beau"
+                },
+                {
+                    "value": 1000,
+                    "question": "'IT MEANS UNMINDFUL OR UNAWARE:<BR />BLVS'",
+                    "answer": "oblivious"
+                }
+            ]
+        },
+        {
+            "name": "PITTSTORY",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'IN 1811 THE FIRST OF THESE TO PLY THE OHIO RIVER WAS BUILT IN PITTSBURGH--THE NEW ORLEANS, NAMED FOR WHERE IT WAS HEADED'",
+                    "answer": "a steamboat"
+                },
+                {
+                    "value": 400,
+                    "question": "'IT'S THE GEOGRAPHICALLY APPROPRIATE NAME OF THE PITTSBURGH LANDMARK SEEN <A HREF=\"HTTP://WWW.J-ARCHIVE.COM/MEDIA/2004-11-15_J_02.JPG\" TARGET=\"_BLANK\">HERE</A> ON FEB. 11, 2001'",
+                    "answer": "Three Rivers Stadium"
+                },
+                {
+                    "value": 600,
+                    "question": "'IN 1753 THIS VIRGINIAN WITH A FUTURE IN POLITICS SAID THE AREA WAS \"EXTREMELY WELL SITUATED FOR A FORT\"'",
+                    "answer": "George Washington"
+                },
+                {
+                    "value": 800,
+                    "question": "'THE PHOTO OF THIS NATIONAL HERO SEEN HERE WAS TAKEN IN PITTSBURGH ON AUGUST 3, 1927'",
+                    "answer": "(Charles) Lindbergh"
+                },
+                {
+                    "value": 1000,
+                    "question": "'ON JULY 4, 1826, A HISTORIC DATE, THIS \"OH! SUSANNA\" COMPOSER WAS BORN IN WHAT'S NOW A PART OF PITTSBURGH'",
+                    "answer": "(Stephen) Foster"
+                }
+            ]
+        },
+        {
+            "name": "B FOLLOWS A",
+            "questions": [
+                {
+                    "value": 200,
+                    "question": "'IN A HARRY POTTER NOVEL, SIRIUS BLACK IS A CONVICTED MURDERER WHO ESCAPES FROM THIS ISLAND PRISON IN THE NORTH SEA'",
+                    "answer": "Azkaban"
+                },
+                {
+                    "value": 400,
+                    "question": "'MEANING LOATHSOME, IT PRECEDES SNOWMAN OR, IN A MOVIE TITLE, DR. PHIBES'",
+                    "answer": "abominable"
+                },
+                {
+                    "value": 600,
+                    "question": "'AS A NOUN, IT'S A MOP USED TO CLEAN A SHIP'S DECK; AS A VERB, IT'S WHAT YOU DO WITH THE MOP'",
+                    "answer": "swab"
+                },
+                {
+                    "value": 800,
+                    "question": "'IT'S AN OUTLINE OF WHAT MATERIAL WILL BE COVERED IN A COLLEGE COURSE'",
+                    "answer": "a syllabus"
+                },
+                {
+                    "value": 1000,
+                    "question": "'THESE 1ST & 2ND CENTURY B.C. JEWISH PATRIOTS WERE ACTIVE IN LIBERATING JUDEA FROM SYRIAN RULE'",
+                    "answer": "the Maccabees"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy": [
+        {
+            "name": "WHAT THEY DID IN 2000",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'HE WON THE REPUBLICAN NOMINATION FOR U.S. SENATOR FROM NEW YORK'",
+                    "answer": "Rick Lazio"
+                },
+                {
+                    "value": 800,
+                    "question": "'HE PLED GUILTY TO JUST 1 COUNT OF MISHANDLING NUCLEAR SECRETS'",
+                    "answer": "Wen Ho Lee"
+                },
+                {
+                    "value": 1200,
+                    "question": "'HE WON THE NOBEL PEACE PRIZE'",
+                    "answer": "Kim Dae-jung"
+                },
+                {
+                    "value": 1600,
+                    "question": "'HE CANONIZED FELLOW POLE FAUSTINA KOWALSKA'",
+                    "answer": "Pope John Paul II"
+                },
+                {
+                    "value": 2000,
+                    "question": "'SHE GAVE BIRTH TO DYLAN MICHAEL DOUGLAS'",
+                    "answer": "Catherine Zeta-Jones"
+                }
+            ]
+        },
+        {
+            "name": "COMPOUNDS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'AN AMPHOTERIC COMPOUND LIKE ALUMINUM HYDROXIDE CAN ACT EITHER AS AN ACID OR AS THIS'",
+                    "answer": "a base"
+                },
+                {
+                    "value": 800,
+                    "question": "'LYE CAN BE 1 OF THE COMPOUNDS KNOWN BY THIS 4-LETTER NAME, THOUGH YOU WON'T POP OPEN A CAN OF LYE WHEN THIRSTY'",
+                    "answer": "a soda"
+                },
+                {
+                    "value": 1200,
+                    "question": "'A SUBSTANCE, LIKE A PLASTIC, MADE OF MACROMOLECULES; THE AMERICAN CHEMICAL SOCIETY HAS A DIVISION OF THIS \"CHEMISTRY\"'",
+                    "answer": "polymer"
+                },
+                {
+                    "value": 1600,
+                    "question": "'BY DEFINITION, A CARBIDE IS A COMPOUND OF CARBON & THIS TYPE OF SUBSTANCE'",
+                    "answer": "metal"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THIOLS, EMITTED BY SKUNKS & CHOPPED ONIONS, RESEMBLE ALCOHOLS BUT WITH AN ATOM OF THIS ELEMENT IN PLACE OF AN OXYGEN ATOM'",
+                    "answer": "sulfur",
+                    "daily-double": "true"
+                }
+            ]
+        },
+        {
+            "name": "CURSE WORDS",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'AFTER ELIZA DOOLITTLE UTTERED THIS SANGUINE BRITISH WORD, IT WAS TERMED \"THE SHAVIAN ADJECTIVE\"'",
+                    "answer": "bloody"
+                },
+                {
+                    "value": 800,
+                    "question": "'THIS MILD OATH DOESN'T REFER TO A LOST CANINE BUT RATHER MEANS \"CONFOUNDED\" OR \"DARNED\"'",
+                    "answer": "doggone"
+                },
+                {
+                    "value": 1200,
+                    "question": "'THIS VARIANT OF \"CURSE\" CAN ALSO MEAN A TROUBLESOME ANIMAL'",
+                    "answer": "cuss"
+                },
+                {
+                    "value": 1600,
+                    "question": "'IT SOUNDS LIKE MR. PECKINPAH'S LITTLE MOUNTAIN, BUT THIS 2-WORD PHRASE IS ACTUALLY A EUPHEMISM FOR HELL'",
+                    "answer": "sam hill"
+                },
+                {
+                    "value": 2000,
+                    "question": "'\"MARANATHA\" OFTEN FOLLOWED THIS 9-LETTER WORD USED AS AN ECCLESIASTICAL CURSE INVOLVING EXCOMMUNICATION'",
+                    "answer": "anathema"
+                }
+            ]
+        },
+        {
+            "name": "CROSSWORD CLUES \"P\"",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'U.S. CONSTITUTIONAL PREFACE<BR />(8)'",
+                    "answer": "preamble"
+                },
+                {
+                    "value": 800,
+                    "question": "'DOCTOR'S DIRECTION FOR DRUG USE<BR />(12)'",
+                    "answer": "prescription"
+                },
+                {
+                    "value": 1200,
+                    "question": "'JUST FOWL, COLLECTIVELY (7)'",
+                    "answer": "poultry"
+                },
+                {
+                    "value": 1600,
+                    "question": "'TINY MEASURE OF DUST (8)'",
+                    "answer": "particle"
+                },
+                {
+                    "value": 2000,
+                    "question": "'PLANTS' FOOD-CONDUCTING TISSUE<BR />(6)'",
+                    "answer": "phloem"
+                }
+            ]
+        },
+        {
+            "name": "HEE HAW",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'THIS MAN ELECTED U.S. PRESIDENT IN 1988 ONCE DECLARED THAT \"HEE HAW\" WAS HIS FAVORITE SHOW'",
+                    "answer": "George H.W. Bush"
+                },
+                {
+                    "value": 800,
+                    "question": "'A REGULAR ON \"HEE HAW\", GEORGE LINDSEY PLAYED THIS \"NUTTY\" CHARACTER ON \"MAYBERRY, RFD\"'",
+                    "answer": "Goober"
+                },
+                {
+                    "value": 1200,
+                    "question": "'DON HARRON WAS AWARDED THE ORDER OF CANADA FOR PLAYING A REPORTER AT THIS \"HEE HAW\" RADIO STATION'",
+                    "answer": "KORN (Charlie Parkinson)"
+                },
+                {
+                    "value": 1600,
+                    "question": "'ON \"HEE HAW\", HE WAS THE MAN WHO WAS OFTEN ASKED, \"WHAT'S FOR SUPPER?\"'",
+                    "answer": "Grandpa Jones"
+                },
+                {
+                    "value": 2000,
+                    "question": "'THESE 2 MEN WERE THE LONGTIME PICKIN' & GRINNIN' HOSTS OF THE SHOW'",
+                    "answer": "Buck Owens & Roy Clark"
+                }
+            ]
+        },
+        {
+            "name": "WWI",
+            "questions": [
+                {
+                    "value": 400,
+                    "question": "'IN HIS WAR ADDRESS TO CONGRESS, PRESIDENT WILSON SAID, \"THE WORLD MUST BE MADE SAFE FOR\" THIS'",
+                    "answer": "democracy"
+                },
+                {
+                    "value": 800,
+                    "question": "'IN THE 2ND BATTLE OF YPRES, THE GERMANS USED CHLORINE GAS; AT THE 3RD BATTLE, THEY INTRODUCED THIS GAS'",
+                    "answer": "mustard gas"
+                },
+                {
+                    "value": 1200,
+                    "question": "'IN SEPTEMBER 1916 THE BRITISH ROLLED OUT THIS NEW SECRET WEAPON ON THE SOMME FRONT'",
+                    "answer": "the tank"
+                },
+                {
+                    "value": 1600,
+                    "question": "'DURING A \"WELCOME U.S. SOLDIERS\" CELEBRATION IN PARIS JULY 4, 1917 COL. C.E. STANTON MADE THIS FAMOUS 4-WORD STATEMENT'",
+                    "answer": "\"Lafayette, we are here!\""
+                },
+                {
+                    "value": 2000,
+                    "question": "'WWI'S FIRST DECLARATION OF WAR WAS JULY 28, 1914 WHEN AUSTRIA-HUNGARY DECLARED WAR ON THIS COUNTRY'",
+                    "answer": "Serbia",
+                    "daily-double": "true"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "WORD ORIGINS",
+        "question": "'THIS WORD REGARDING INFIDELITY CAME FROM A CERTAIN BIRD LEAVING ITS EGGS IN OTHER NESTS TO BE RAISED'",
+        "answer": "cuckold"
+    }
+}

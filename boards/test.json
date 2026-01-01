@@ -1,0 +1,112 @@
+{
+  "jeopardy": [
+    {
+      "name": "CHRISTMAS MOVIES",
+      "questions": [
+        {
+          "value": 400,
+          "question": "'In a 1970 film, Alec Guinness played Jacob Marley's ghost & Albert Finney played this man'",
+          "answer": "Scrooge"
+        },
+        {
+          "value": 800,
+          "question": "'Natalie Wood was just 8 years old when she played the little girl Susan in this Christmas classic'",
+          "answer": "Miracle on 34th Street"
+        },
+        {
+          "value": 1200,
+          "question": "'Bing Crosby introduced the song \"White Christmas\" not in the movie \"White Christmas\" but in this earlier film'",
+          "answer": "Holiday Inn"
+        },
+        {
+          "value": 1600,
+          "question": "'In this movie \"2\", Tim Allen has to find a Mrs., ASAP; says so in his contract'",
+          "answer": "The Santa Clause 2"
+        },
+        {
+          "value": 2000,
+          "question": "'In this movie, Tim Allen & Jamie Lee Curtis consider skipping the holidays altogether & taking a cruise'",
+          "answer": "Christmas with the Kranks"
+        }
+      ]
+    },
+    {
+      "name": "HAPPY NEW YEAR",
+      "questions": [
+        {
+          "value": 200,
+          "question": "'Ellis Island opened Jan. 1, 1892 & the first immigrant was from County Cork on this island'",
+          "answer": "Ireland"
+        },
+        {
+          "value": 400,
+          "question": "'In 1919 this auto company got a new president, son succeeding father, & raised its minimum wage to $6 a day'",
+          "answer": "Ford"
+        },
+        {
+          "value": 600,
+          "question": "'The Post Office began this service Jan. 1, 1913 & it was soon sending such objects as eggs, bricks & a 4-year-old girl'",
+          "answer": "parcel post"
+        },
+        {
+          "value": 800,
+          "question": "'This new Czech president began the 1990s with an amnesty for 3/4 of his country's prison inmates'",
+          "answer": "Havel"
+        },
+        {
+          "value": 1000,
+          "question": "'On Jan. 1, 1959, suddenly out of power, he fled Cuba for the Dominican Republic'",
+          "answer": "(Fulgencio) Batista"
+        }
+      ]
+    },
+    {
+      "name": "MUSIC",
+      "questions": [
+        {
+          "question": "WHO PLAYS THIS?",
+          "value": "100",
+          "answer": "Handel",
+          "youtube": "https://www.youtube.com/watch?v=grHZkLaFOY8&t=334s"
+        }
+      ]
+    }
+  ],
+  "double-jeopardy": [
+    {
+      "name": "HAPPY NEW YEAR",
+      "questions": [
+        {
+          "value": 400,
+          "question": "'This liberating document took effect Jan. 1, 1863'",
+          "answer": "the Emancipation Proclamation"
+        },
+        {
+          "value": 800,
+          "question": "'On Jan. 1, 1502 Portuguese sailors arrived at this present-day city & thought the bay was a river'",
+          "answer": "Rio de Janeiro"
+        },
+        {
+          "value": 1200,
+          "question": "'One of the 4 of all the president's men convicted by a federal court Jan. 1, 1975'",
+          "answer": "(1 of) John Mitchell, Haldeman, Ehrlichman, or Robert Mardian"
+        },
+        {
+          "value": 1600,
+          "question": "'Crowds in Romania & Bulgaria celebrated as their nations became the 26th & 27th in this org. Jan 1, 2007'",
+          "answer": "the European Union"
+        },
+        {
+          "value": 2000,
+          "question": "'Registering the symbol seen <a href=\"http://www.j-archive.com/media/2009-01-01_DJ_20.jpg\" target=\"_blank\">here</a> Jan. 1, 1876 gave this beverage brand England's first trademark'",
+          "answer": "Bass Ale"
+        }
+      ]
+    }
+  ],
+  "final-jeopardy": {
+    "answer": "Who is some guy in Normandy But I just won $75,000!",
+    "category": "MILITARY MEN",
+    "question": "On June 6, 1944 he said, \"The eyes of the world are upon you\""
+  }
+}

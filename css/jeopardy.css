@@ -165,8 +165,8 @@ h4 {
 
 .timer-square {
 	display: inline-block;
-	background-color: black; 
-	border: 1px solid #000; 
+	background-color: black;
+	border: 1px solid #000;
 	height: 30px;
 	width: 50px;
 	position: relative;
@@ -201,6 +201,9 @@ h4 {
 }
 
 #question-modal-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 	margin-left: 10%;
 	margin-right: 10%;
 }
@@ -212,4 +215,8 @@ h4 {
 
 #end-round {
 	margin-right: 10px;
+}
+
+#question-youtube iframe {
+	pointer-events: none;
 }
